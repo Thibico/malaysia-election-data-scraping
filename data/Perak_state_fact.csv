@@ -1,60 +1,60 @@
-,registered_voters,majority,spoilt_votes,unreturned_votes,voter_turnout,demographics,panel_code,panel_name,tab
-0,"15,369","2,375",307,0,0 (0%),Malay 74.05%; Chinese 8.59%; Indian 5.3%; B/P Sabah 0.63%; B/P Sarawak 0.87%; Orang Asli (Pen. Msia) 3.73%; Others 6.83%,N1,PENGKALAN HULU (P54),state
-1,"20,534","3,935",339,0,0 (0%),Malay 65.39%; Chinese 18.15%; Indian 1.79%; B/P Sabah 0.49%; B/P Sarawak 0.82%; Orang Asli (Pen. Msia) 13.07%; Others 0.3%,N2,TEMENGOR (P54),state
-2,"16,965","3,268",241,0,"13,622 (80.3%)",Malay 84.49%; Chinese 10.75%; Indian 0.73%; B/P Sabah 0.04%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 3.73%; Others 0.21%,N3,KENERING (P55),state
-3,"12,787","2,302",150,0,"10,097 (79%)",Malay 82.1%; Chinese 15.26%; Indian 2.38%; B/P Sabah 0.1%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 0.02%; Others 0.09%,N4,KOTA TAMPAN (P55),state
-4,"16,483",289,235,0,"13,653 (82.8%)",Malay 86.06%; Chinese 7.91%; Indian 5.78%; B/P Sabah 0.08%; B/P Sarawak 0.05%; Others 0.11%,N5,SELAMA (P56),state
-5,"16,615",180,293,0,"13,407 (80.7%)",Malay 94.37%; Chinese 1.86%; Indian 3.38%; B/P Sabah 0.04%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 0.01%; Others 0.29%,N6,KUBU GAJAH (P56),state
-6,"16,355","2,308",269,0,"13,406 (82%)",Malay 88.6%; Chinese 3.27%; Indian 7.81%; B/P Sabah 0.03%; B/P Sarawak 0.01%; Orang Asli (Pen. Msia) 0.01%; Others 0.28%,N7,BATU KURAU (P56),state
-7,"26,726",140,265,0,"22,369 (83.7%)",Malay 74.96%; Chinese 16.88%; Indian 7.89%; B/P Sabah 0.06%; B/P Sarawak 0.01%; Others 0.19%,N8,TITI SERONG (P57),state
-8,"25,134","2,643",273,0,"20,976 (83.5%)",Malay 63.38%; Chinese 35.08%; Indian 1.42%; B/P Sabah 0.04%; B/P Sarawak 0.03%; Others 0.05%,N9,KUALA KURAU (P57),state
-9,"20,901","1,162",336,0,"16,983 (81.3%)",Malay 74.35%; Chinese 10.91%; Indian 14.61%; B/P Sabah 0.03%; B/P Sarawak 0.02%; Others 0.09%,N10,ALOR PONGSU (P58),state
-10,"20,510","1,903",258,0,"16,826 (82%)",Malay 84.96%; Chinese 10.46%; Indian 4.22%; B/P Sabah 0.06%; B/P Sarawak 0.06%; Others 0.23%,N11,GUNONG SEMANGGOL (P58),state
-11,"17,882",97,232,0,"14,573 (81.5%)",Malay 73.91%; Chinese 17.98%; Indian 7.97%; B/P Sabah 0.01%; B/P Sarawak 0.03%; Others 0.1%,N12,SELINSING (P58),state
-12,"29,294",329,334,0,"24,363 (83.2%)",Malay 66.26%; Chinese 25.85%; Indian 7.68%; B/P Sabah 0.04%; B/P Sarawak 0.06%; Others 0.11%,N13,KUALA SEPETANG (P59),state
-13,"26,848","1,922",250,0,"22,329 (83.2%)",Malay 76.97%; Chinese 13.62%; Indian 8.98%; B/P Sabah 0.04%; B/P Sarawak 0.05%; Others 0.34%,N14,CHANGKAT JERING (P59),state
-14,"13,731","1,898",209,0,"11,173 (81.4%)",Malay 76.5%; Chinese 14.41%; Indian 8.86%; B/P Sabah 0.04%; B/P Sarawak 0.04%; Orang Asli (Pen. Msia) 0.03%; Others 0.12%,N15,TRONG (P59),state
-15,"30,000","1,780",471,0,"23,980 (79.9%)",Malay 67.97%; Chinese 17.28%; Indian 12.45%; B/P Sabah 0.46%; B/P Sarawak 1.27%; Orang Asli (Pen. Msia) 0.06%; Others 0.5%,N16,KAMUNTING (P60),state
-16,"28,590","12,032",418,0,"22,409 (78.4%)",Malay 21.5%; Chinese 66.68%; Indian 10.56%; B/P Sabah 0.21%; B/P Sarawak 0.59%; Orang Asli (Pen. Msia) 0.04%; Others 0.41%,N17,POKOK ASSAM (P60),state
-17,"32,139","12,064",583,0,0 (0%),Malay 26.98%; Chinese 55.56%; Indian 16.96%; B/P Sabah 0.03%; B/P Sarawak 0.04%; Others 0.42%,N18,AULONG (P60),state
-18,"14,420","2,370",158,0,"11,865 (82.3%)",Malay 80.89%; Chinese 13.61%; Indian 5.3%; B/P Sabah 0.03%; B/P Sarawak 0.06%; Others 0.1%,N19,CHENDEROH (P61),state
-19,"16,576",409,181,0,"13,835 (83.5%)",Malay 75.01%; Chinese 16.99%; Indian 7.82%; B/P Sabah 0.01%; B/P Sarawak 0.01%; Orang Asli (Pen. Msia) 0.01%; Others 0.16%,N20,LUBOK MERBAU (P61),state
-20,"25,389","4,582",383,0,0 (0%),Malay 56.49%; Chinese 16.62%; Indian 13.37%; B/P Sabah 0.03%; B/P Sarawak 0.04%; Orang Asli (Pen. Msia) 13.34%; Others 0.11%,N21,LINTANG (P62),state
-21,"29,613","9,602",400,0,"23,137 (78.1%)",Malay 15.24%; Chinese 53.13%; Indian 27.33%; B/P Sabah 0.07%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 3.97%; Others 0.2%,N22,JALONG (P62),state
-22,"57,817","3,532",539,0,"48,194 (83.4%)",Malay 72.9%; Chinese 16.18%; Indian 10.36%; B/P Sabah 0.05%; B/P Sarawak 0.06%; Orang Asli (Pen. Msia) 0.01%; Others 0.43%,N23,MANJOI (P63),state
-23,"49,946","3,713",859,0,"40,659 (81.4%)",Malay 58.7%; Chinese 24.9%; Indian 12.64%; B/P Sabah 0.32%; B/P Sarawak 0.63%; Orang Asli (Pen. Msia) 2.32%; Others 0.48%,N24,HULU KINTA (P63),state
-24,"32,215","18,292",206,0,"24,603 (76.4%)",Malay 8.31%; Chinese 82.08%; Indian 8.62%; B/P Sabah 0.08%; B/P Sarawak 0.14%; Orang Asli (Pen. Msia) 0.03%; Others 0.74%,N25,CANNING (P64),state
-25,"26,052","3,927",231,0,"21,094 (81%)",Malay 57.21%; Chinese 33.73%; Indian 8.49%; B/P Sabah 0.15%; B/P Sarawak 0.15%; Orang Asli (Pen. Msia) 0.02%; Others 0.26%,N26,TEBING TINGGI (P64),state
-26,"33,219","20,856",200,0,"26,010 (78.3%)",Malay 4.9%; Chinese 92.28%; Indian 2.61%; B/P Sabah 0.03%; B/P Sarawak 0.01%; Orang Asli (Pen. Msia) 0.01%; Others 0.17%,N27,PASIR PINJI (P64),state
-27,"36,116","20,709",292,0,"29,039 (80.4%)",Malay 13.83%; Chinese 73.76%; Indian 12.01%; B/P Sabah 0.03%; B/P Sarawak 0.04%; Orang Asli (Pen. Msia) 0.03%; Others 0.29%,N28,BERCHAM (P65),state
-28,"20,864","9,495",182,0,"15,560 (74.6%)",Malay 17.15%; Chinese 68.29%; Indian 13.77%; B/P Sabah 0.05%; B/P Sarawak 0.11%; Orang Asli (Pen. Msia) 0.03%; Others 0.59%,N29,KEPAYANG (P65),state
-29,"27,894","15,323",371,0,"22,259 (79.8%)",Malay 5.25%; Chinese 45.59%; Indian 48.45%; B/P Sabah 0.04%; B/P Sarawak 0.04%; Orang Asli (Pen. Msia) 0.01%; Others 0.61%,N30,BUNTONG (P65),state
-30,"24,729","15,187",206,0,"19,910 (80.5%)",Malay 4.01%; Chinese 72.03%; Indian 23.53%; B/P Sabah 0.02%; B/P Sarawak 0.02%; Orang Asli (Pen. Msia) 0.01%; Others 0.36%,N31,JELAPANG (P66),state
-31,"29,743","17,948",222,0,"23,579 (79.3%)",Malay 4.45%; Chinese 87.12%; Indian 8.06%; B/P Sabah 0.03%; B/P Sarawak 0.01%; Orang Asli (Pen. Msia) 0.03%; Others 0.3%,N32,MENGLEMBU (P66),state
-32,"26,927","10,501",285,0,"20,299 (75.4%)",Malay 21.47%; Chinese 64.36%; Indian 13.67%; B/P Sabah 0.07%; B/P Sarawak 0.11%; Orang Asli (Pen. Msia) 0.1%; Others 0.23%,N33,TRONOH (P66),state
-33,"17,311",464,253,0,"14,390 (83.1%)",Malay 68.72%; Chinese 22%; Indian 6.62%; B/P Sabah 0.1%; B/P Sarawak 0.1%; Orang Asli (Pen. Msia) 2.22%; Others 0.24%,N34,BUKIT CHANDAN (P67),state
-34,"19,643",571,207,0,"16,660 (84.8%)",Malay 71.81%; Chinese 21.25%; Indian 6.61%; B/P Sabah 0.05%; B/P Sarawak 0.02%; Orang Asli (Pen. Msia) 0.02%; Others 0.25%,N35,MANONG (P67),state
-35,"18,076","1,624",302,0,"14,280 (79%)",Malay 68.07%; Chinese 21.25%; Indian 10.47%; B/P Sabah 0.02%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 0.01%; Others 0.14%,N36,PENGKALAN BAHARU (P68),state
-36,"32,346","13,316",498,0,"24,477 (75.7%)",Malay 15.22%; Chinese 67.16%; Indian 17.41%; B/P Sabah 0.02%; B/P Sarawak 0.02%; Orang Asli (Pen. Msia) 0.01%; Others 0.16%,N37,PANTAI REMIS (P68),state
-37,"29,372","15,176",325,0,"22,847 (77.8%)",Malay 12.86%; Chinese 73.93%; Indian 12.59%; B/P Sabah 0.22%; B/P Sarawak 0.14%; Orang Asli (Pen. Msia) 0.01%; Others 0.24%,N38,ASTAKA (P68),state
-38,"14,946","2,729",187,0,"14,946 (100%)",Malay 87.15%; Chinese 5.08%; Indian 5.49%; B/P Sabah 0.05%; B/P Sarawak 0.03%; Orang Asli (Pen. Msia) 1.95%; Others 0.25%,N39,BELANJA (P69),state
-39,"20,964","1,822",258,0,"17,409 (83%)",Malay 97.18%; Chinese 0.21%; Indian 0.43%; B/P Sabah 0.08%; B/P Sarawak 0.11%; Orang Asli (Pen. Msia) 1.8%; Others 0.18%,N40,BOTA (P69),state
-40,"22,918","6,082",319,0,"17,041 (74.4%)",Malay 20.46%; Chinese 70.79%; Indian 8.28%; B/P Sabah 0.05%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 0.11%; Others 0.26%,N41,MALIM NAWAR (P70),state
-41,"21,605","8,041",214,0,"16,363 (75.7%)",Malay 13.67%; Chinese 74.47%; Indian 10.02%; B/P Sabah 0.07%; B/P Sarawak 0.06%; Orang Asli (Pen. Msia) 1.42%; Others 0.29%,N42,KERANJI (P70),state
-42,"24,913","1,099",449,0,"20,161 (80.9%)",Malay 62.38%; Chinese 24.63%; Indian 9.22%; B/P Sabah 0.03%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 3.51%; Others 0.18%,N43,TUALANG SEKAH (P70),state
-43,"31,878","3,614",284,0,"26,346 (82.6%)",Malay 64.76%; Chinese 23.19%; Indian 11.32%; B/P Sabah 0.11%; B/P Sarawak 0.09%; Orang Asli (Pen. Msia) 0.1%; Others 0.41%,N44,SUNGAI RAPAT (P71),state
-44,"43,055","20,689",228,0,"35,094 (81.5%)",Malay 30.23%; Chinese 62.5%; Indian 6.82%; B/P Sabah 0.05%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 0.13%; Others 0.23%,N45,SIMPANG PULAI (P71),state
-45,"24,234","4,390",321,0,"19,131 (78.9%)",Malay 34.51%; Chinese 46.71%; Indian 10.33%; B/P Sabah 0.06%; B/P Sarawak 0.07%; Orang Asli (Pen. Msia) 8.2%; Others 0.13%,N46,TEJA (P71),state
-46,"22,591",39,365,0,"17,441 (77.2%)",Malay 34.27%; Chinese 29.49%; Indian 14.44%; B/P Sabah 0.11%; B/P Sarawak 0.14%; Orang Asli (Pen. Msia) 21.11%; Others 0.45%,N47,CHENDERIANG (P72),state
-47,"24,537","2,087",409,0,"19,668 (80.2%)",Malay 57.27%; Chinese 22.46%; Indian 14.15%; B/P Sabah 0.06%; B/P Sarawak 0.06%; Orang Asli (Pen. Msia) 5.46%; Others 0.54%,N48,AYER KUNING (P72),state
-48,"26,310","1,939",396,0,"21,309 (81%)",Malay 66.18%; Chinese 26.05%; Indian 4.78%; B/P Sabah 0.04%; B/P Sarawak 0.03%; Orang Asli (Pen. Msia) 2.77%; Others 0.14%,N49,SUNGAI MANIK (P73),state
-49,"28,361","3,345",547,0,"23,198 (81.8%)",Malay 94.08%; Chinese 0.63%; Indian 2.3%; B/P Sabah 0.05%; B/P Sarawak 0.06%; Orang Asli (Pen. Msia) 2.72%; Others 0.16%,N50,KAMPONG GAJAH (P73),state
-50,"42,402","1,219",470,0,"35,494 (83.7%)",Malay 74.75%; Chinese 9.41%; Indian 14.95%; B/P Sabah 0.46%; B/P Sarawak 0.14%; Orang Asli (Pen. Msia) 0.01%; Others 0.28%,N51,PASIR PANJANG (P74),state
-51,"24,755","1,626",628,0,"19,547 (79%)",Malay 67.41%; Chinese 24.46%; Indian 5.44%; B/P Sabah 0.74%; B/P Sarawak 1.56%; Orang Asli (Pen. Msia) 0.06%; Others 0.34%,N52,PANGKOR (P74),state
-52,"16,067","3,069",281,0,"16,067 (100%)",Malay 68.46%; Chinese 22.37%; Indian 8.3%; B/P Sabah 0.2%; B/P Sarawak 0.04%; Others 0.62%,N53,RUNGKUP (P75),state
-53,"31,242",741,593,0,"25,048 (80.2%)",Malay 54.11%; Chinese 15.32%; Indian 28.49%; B/P Sabah 0.44%; B/P Sarawak 0.2%; Orang Asli (Pen. Msia) 0.03%; Others 1.41%,N54,HUTAN MELINTANG (P75),state
-54,"31,439","14,520",226,0,"25,699 (81.7%)",Malay 15.5%; Chinese 70.41%; Indian 13.79%; B/P Sabah 0.01%; B/P Sarawak 0.03%; Others 0.26%,N55,PASIR BEDAMAR (P76),state
-55,"35,048",67,578,0,"28,893 (82.4%)",Malay 63.25%; Chinese 12.89%; Indian 22.99%; B/P Sabah 0.03%; B/P Sarawak 0.04%; Orang Asli (Pen. Msia) 0.4%; Others 0.4%,N56,CHANGKAT JONG (P76),state
-56,"17,128","6,493",286,0,"13,612 (79.5%)",Malay 19.04%; Chinese 58.71%; Indian 16.65%; B/P Sabah 0.03%; B/P Sarawak 0.06%; Orang Asli (Pen. Msia) 5.17%; Others 0.33%,N57,SUNGKAI (P77),state
-57,"23,377","2,183",350,0,"19,060 (81.5%)",Malay 74.61%; Chinese 10.42%; Indian 13.19%; B/P Sabah 0.06%; B/P Sarawak 0.06%; Orang Asli (Pen. Msia) 1.49%; Others 0.17%,N58,SLIM (P77),state
-58,"27,963",409,412,0,"22,938 (82%)",Malay 62.01%; Chinese 17.9%; Indian 10.66%; B/P Sabah 0.07%; B/P Sarawak 0.08%; Orang Asli (Pen. Msia) 8.58%; Others 0.7%,N59,BEHRANG (P77),state
+,registered_voters,majority,spoilt_votes,unreturned_votes,voter_turnout,demographics,panel_code,panel_name,tab,state_region
+0,"15,369","2,375",307,0,0 (0%),Malay 74.05%; Chinese 8.59%; Indian 5.3%; B/P Sabah 0.63%; B/P Sarawak 0.87%; Orang Asli (Pen. Msia) 3.73%; Others 6.83%,N1,PENGKALAN HULU (P54),state,Perak
+1,"20,534","3,935",339,0,0 (0%),Malay 65.39%; Chinese 18.15%; Indian 1.79%; B/P Sabah 0.49%; B/P Sarawak 0.82%; Orang Asli (Pen. Msia) 13.07%; Others 0.3%,N2,TEMENGOR (P54),state,Perak
+2,"16,965","3,268",241,0,"13,622 (80.3%)",Malay 84.49%; Chinese 10.75%; Indian 0.73%; B/P Sabah 0.04%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 3.73%; Others 0.21%,N3,KENERING (P55),state,Perak
+3,"12,787","2,302",150,0,"10,097 (79%)",Malay 82.1%; Chinese 15.26%; Indian 2.38%; B/P Sabah 0.1%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 0.02%; Others 0.09%,N4,KOTA TAMPAN (P55),state,Perak
+4,"16,483",289,235,0,"13,653 (82.8%)",Malay 86.06%; Chinese 7.91%; Indian 5.78%; B/P Sabah 0.08%; B/P Sarawak 0.05%; Others 0.11%,N5,SELAMA (P56),state,Perak
+5,"16,615",180,293,0,"13,407 (80.7%)",Malay 94.37%; Chinese 1.86%; Indian 3.38%; B/P Sabah 0.04%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 0.01%; Others 0.29%,N6,KUBU GAJAH (P56),state,Perak
+6,"16,355","2,308",269,0,"13,406 (82%)",Malay 88.6%; Chinese 3.27%; Indian 7.81%; B/P Sabah 0.03%; B/P Sarawak 0.01%; Orang Asli (Pen. Msia) 0.01%; Others 0.28%,N7,BATU KURAU (P56),state,Perak
+7,"26,726",140,265,0,"22,369 (83.7%)",Malay 74.96%; Chinese 16.88%; Indian 7.89%; B/P Sabah 0.06%; B/P Sarawak 0.01%; Others 0.19%,N8,TITI SERONG (P57),state,Perak
+8,"25,134","2,643",273,0,"20,976 (83.5%)",Malay 63.38%; Chinese 35.08%; Indian 1.42%; B/P Sabah 0.04%; B/P Sarawak 0.03%; Others 0.05%,N9,KUALA KURAU (P57),state,Perak
+9,"20,901","1,162",336,0,"16,983 (81.3%)",Malay 74.35%; Chinese 10.91%; Indian 14.61%; B/P Sabah 0.03%; B/P Sarawak 0.02%; Others 0.09%,N10,ALOR PONGSU (P58),state,Perak
+10,"20,510","1,903",258,0,"16,826 (82%)",Malay 84.96%; Chinese 10.46%; Indian 4.22%; B/P Sabah 0.06%; B/P Sarawak 0.06%; Others 0.23%,N11,GUNONG SEMANGGOL (P58),state,Perak
+11,"17,882",97,232,0,"14,573 (81.5%)",Malay 73.91%; Chinese 17.98%; Indian 7.97%; B/P Sabah 0.01%; B/P Sarawak 0.03%; Others 0.1%,N12,SELINSING (P58),state,Perak
+12,"29,294",329,334,0,"24,363 (83.2%)",Malay 66.26%; Chinese 25.85%; Indian 7.68%; B/P Sabah 0.04%; B/P Sarawak 0.06%; Others 0.11%,N13,KUALA SEPETANG (P59),state,Perak
+13,"26,848","1,922",250,0,"22,329 (83.2%)",Malay 76.97%; Chinese 13.62%; Indian 8.98%; B/P Sabah 0.04%; B/P Sarawak 0.05%; Others 0.34%,N14,CHANGKAT JERING (P59),state,Perak
+14,"13,731","1,898",209,0,"11,173 (81.4%)",Malay 76.5%; Chinese 14.41%; Indian 8.86%; B/P Sabah 0.04%; B/P Sarawak 0.04%; Orang Asli (Pen. Msia) 0.03%; Others 0.12%,N15,TRONG (P59),state,Perak
+15,"30,000","1,780",471,0,"23,980 (79.9%)",Malay 67.97%; Chinese 17.28%; Indian 12.45%; B/P Sabah 0.46%; B/P Sarawak 1.27%; Orang Asli (Pen. Msia) 0.06%; Others 0.5%,N16,KAMUNTING (P60),state,Perak
+16,"28,590","12,032",418,0,"22,409 (78.4%)",Malay 21.5%; Chinese 66.68%; Indian 10.56%; B/P Sabah 0.21%; B/P Sarawak 0.59%; Orang Asli (Pen. Msia) 0.04%; Others 0.41%,N17,POKOK ASSAM (P60),state,Perak
+17,"32,139","12,064",583,0,0 (0%),Malay 26.98%; Chinese 55.56%; Indian 16.96%; B/P Sabah 0.03%; B/P Sarawak 0.04%; Others 0.42%,N18,AULONG (P60),state,Perak
+18,"14,420","2,370",158,0,"11,865 (82.3%)",Malay 80.89%; Chinese 13.61%; Indian 5.3%; B/P Sabah 0.03%; B/P Sarawak 0.06%; Others 0.1%,N19,CHENDEROH (P61),state,Perak
+19,"16,576",409,181,0,"13,835 (83.5%)",Malay 75.01%; Chinese 16.99%; Indian 7.82%; B/P Sabah 0.01%; B/P Sarawak 0.01%; Orang Asli (Pen. Msia) 0.01%; Others 0.16%,N20,LUBOK MERBAU (P61),state,Perak
+20,"25,389","4,582",383,0,0 (0%),Malay 56.49%; Chinese 16.62%; Indian 13.37%; B/P Sabah 0.03%; B/P Sarawak 0.04%; Orang Asli (Pen. Msia) 13.34%; Others 0.11%,N21,LINTANG (P62),state,Perak
+21,"29,613","9,602",400,0,"23,137 (78.1%)",Malay 15.24%; Chinese 53.13%; Indian 27.33%; B/P Sabah 0.07%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 3.97%; Others 0.2%,N22,JALONG (P62),state,Perak
+22,"57,817","3,532",539,0,"48,194 (83.4%)",Malay 72.9%; Chinese 16.18%; Indian 10.36%; B/P Sabah 0.05%; B/P Sarawak 0.06%; Orang Asli (Pen. Msia) 0.01%; Others 0.43%,N23,MANJOI (P63),state,Perak
+23,"49,946","3,713",859,0,"40,659 (81.4%)",Malay 58.7%; Chinese 24.9%; Indian 12.64%; B/P Sabah 0.32%; B/P Sarawak 0.63%; Orang Asli (Pen. Msia) 2.32%; Others 0.48%,N24,HULU KINTA (P63),state,Perak
+24,"32,215","18,292",206,0,"24,603 (76.4%)",Malay 8.31%; Chinese 82.08%; Indian 8.62%; B/P Sabah 0.08%; B/P Sarawak 0.14%; Orang Asli (Pen. Msia) 0.03%; Others 0.74%,N25,CANNING (P64),state,Perak
+25,"26,052","3,927",231,0,"21,094 (81%)",Malay 57.21%; Chinese 33.73%; Indian 8.49%; B/P Sabah 0.15%; B/P Sarawak 0.15%; Orang Asli (Pen. Msia) 0.02%; Others 0.26%,N26,TEBING TINGGI (P64),state,Perak
+26,"33,219","20,856",200,0,"26,010 (78.3%)",Malay 4.9%; Chinese 92.28%; Indian 2.61%; B/P Sabah 0.03%; B/P Sarawak 0.01%; Orang Asli (Pen. Msia) 0.01%; Others 0.17%,N27,PASIR PINJI (P64),state,Perak
+27,"36,116","20,709",292,0,"29,039 (80.4%)",Malay 13.83%; Chinese 73.76%; Indian 12.01%; B/P Sabah 0.03%; B/P Sarawak 0.04%; Orang Asli (Pen. Msia) 0.03%; Others 0.29%,N28,BERCHAM (P65),state,Perak
+28,"20,864","9,495",182,0,"15,560 (74.6%)",Malay 17.15%; Chinese 68.29%; Indian 13.77%; B/P Sabah 0.05%; B/P Sarawak 0.11%; Orang Asli (Pen. Msia) 0.03%; Others 0.59%,N29,KEPAYANG (P65),state,Perak
+29,"27,894","15,323",371,0,"22,259 (79.8%)",Malay 5.25%; Chinese 45.59%; Indian 48.45%; B/P Sabah 0.04%; B/P Sarawak 0.04%; Orang Asli (Pen. Msia) 0.01%; Others 0.61%,N30,BUNTONG (P65),state,Perak
+30,"24,729","15,187",206,0,"19,910 (80.5%)",Malay 4.01%; Chinese 72.03%; Indian 23.53%; B/P Sabah 0.02%; B/P Sarawak 0.02%; Orang Asli (Pen. Msia) 0.01%; Others 0.36%,N31,JELAPANG (P66),state,Perak
+31,"29,743","17,948",222,0,"23,579 (79.3%)",Malay 4.45%; Chinese 87.12%; Indian 8.06%; B/P Sabah 0.03%; B/P Sarawak 0.01%; Orang Asli (Pen. Msia) 0.03%; Others 0.3%,N32,MENGLEMBU (P66),state,Perak
+32,"26,927","10,501",285,0,"20,299 (75.4%)",Malay 21.47%; Chinese 64.36%; Indian 13.67%; B/P Sabah 0.07%; B/P Sarawak 0.11%; Orang Asli (Pen. Msia) 0.1%; Others 0.23%,N33,TRONOH (P66),state,Perak
+33,"17,311",464,253,0,"14,390 (83.1%)",Malay 68.72%; Chinese 22%; Indian 6.62%; B/P Sabah 0.1%; B/P Sarawak 0.1%; Orang Asli (Pen. Msia) 2.22%; Others 0.24%,N34,BUKIT CHANDAN (P67),state,Perak
+34,"19,643",571,207,0,"16,660 (84.8%)",Malay 71.81%; Chinese 21.25%; Indian 6.61%; B/P Sabah 0.05%; B/P Sarawak 0.02%; Orang Asli (Pen. Msia) 0.02%; Others 0.25%,N35,MANONG (P67),state,Perak
+35,"18,076","1,624",302,0,"14,280 (79%)",Malay 68.07%; Chinese 21.25%; Indian 10.47%; B/P Sabah 0.02%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 0.01%; Others 0.14%,N36,PENGKALAN BAHARU (P68),state,Perak
+36,"32,346","13,316",498,0,"24,477 (75.7%)",Malay 15.22%; Chinese 67.16%; Indian 17.41%; B/P Sabah 0.02%; B/P Sarawak 0.02%; Orang Asli (Pen. Msia) 0.01%; Others 0.16%,N37,PANTAI REMIS (P68),state,Perak
+37,"29,372","15,176",325,0,"22,847 (77.8%)",Malay 12.86%; Chinese 73.93%; Indian 12.59%; B/P Sabah 0.22%; B/P Sarawak 0.14%; Orang Asli (Pen. Msia) 0.01%; Others 0.24%,N38,ASTAKA (P68),state,Perak
+38,"14,946","2,729",187,0,"14,946 (100%)",Malay 87.15%; Chinese 5.08%; Indian 5.49%; B/P Sabah 0.05%; B/P Sarawak 0.03%; Orang Asli (Pen. Msia) 1.95%; Others 0.25%,N39,BELANJA (P69),state,Perak
+39,"20,964","1,822",258,0,"17,409 (83%)",Malay 97.18%; Chinese 0.21%; Indian 0.43%; B/P Sabah 0.08%; B/P Sarawak 0.11%; Orang Asli (Pen. Msia) 1.8%; Others 0.18%,N40,BOTA (P69),state,Perak
+40,"22,918","6,082",319,0,"17,041 (74.4%)",Malay 20.46%; Chinese 70.79%; Indian 8.28%; B/P Sabah 0.05%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 0.11%; Others 0.26%,N41,MALIM NAWAR (P70),state,Perak
+41,"21,605","8,041",214,0,"16,363 (75.7%)",Malay 13.67%; Chinese 74.47%; Indian 10.02%; B/P Sabah 0.07%; B/P Sarawak 0.06%; Orang Asli (Pen. Msia) 1.42%; Others 0.29%,N42,KERANJI (P70),state,Perak
+42,"24,913","1,099",449,0,"20,161 (80.9%)",Malay 62.38%; Chinese 24.63%; Indian 9.22%; B/P Sabah 0.03%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 3.51%; Others 0.18%,N43,TUALANG SEKAH (P70),state,Perak
+43,"31,878","3,614",284,0,"26,346 (82.6%)",Malay 64.76%; Chinese 23.19%; Indian 11.32%; B/P Sabah 0.11%; B/P Sarawak 0.09%; Orang Asli (Pen. Msia) 0.1%; Others 0.41%,N44,SUNGAI RAPAT (P71),state,Perak
+44,"43,055","20,689",228,0,"35,094 (81.5%)",Malay 30.23%; Chinese 62.5%; Indian 6.82%; B/P Sabah 0.05%; B/P Sarawak 0.05%; Orang Asli (Pen. Msia) 0.13%; Others 0.23%,N45,SIMPANG PULAI (P71),state,Perak
+45,"24,234","4,390",321,0,"19,131 (78.9%)",Malay 34.51%; Chinese 46.71%; Indian 10.33%; B/P Sabah 0.06%; B/P Sarawak 0.07%; Orang Asli (Pen. Msia) 8.2%; Others 0.13%,N46,TEJA (P71),state,Perak
+46,"22,591",39,365,0,"17,441 (77.2%)",Malay 34.27%; Chinese 29.49%; Indian 14.44%; B/P Sabah 0.11%; B/P Sarawak 0.14%; Orang Asli (Pen. Msia) 21.11%; Others 0.45%,N47,CHENDERIANG (P72),state,Perak
+47,"24,537","2,087",409,0,"19,668 (80.2%)",Malay 57.27%; Chinese 22.46%; Indian 14.15%; B/P Sabah 0.06%; B/P Sarawak 0.06%; Orang Asli (Pen. Msia) 5.46%; Others 0.54%,N48,AYER KUNING (P72),state,Perak
+48,"26,310","1,939",396,0,"21,309 (81%)",Malay 66.18%; Chinese 26.05%; Indian 4.78%; B/P Sabah 0.04%; B/P Sarawak 0.03%; Orang Asli (Pen. Msia) 2.77%; Others 0.14%,N49,SUNGAI MANIK (P73),state,Perak
+49,"28,361","3,345",547,0,"23,198 (81.8%)",Malay 94.08%; Chinese 0.63%; Indian 2.3%; B/P Sabah 0.05%; B/P Sarawak 0.06%; Orang Asli (Pen. Msia) 2.72%; Others 0.16%,N50,KAMPONG GAJAH (P73),state,Perak
+50,"42,402","1,219",470,0,"35,494 (83.7%)",Malay 74.75%; Chinese 9.41%; Indian 14.95%; B/P Sabah 0.46%; B/P Sarawak 0.14%; Orang Asli (Pen. Msia) 0.01%; Others 0.28%,N51,PASIR PANJANG (P74),state,Perak
+51,"24,755","1,626",628,0,"19,547 (79%)",Malay 67.41%; Chinese 24.46%; Indian 5.44%; B/P Sabah 0.74%; B/P Sarawak 1.56%; Orang Asli (Pen. Msia) 0.06%; Others 0.34%,N52,PANGKOR (P74),state,Perak
+52,"16,067","3,069",281,0,"16,067 (100%)",Malay 68.46%; Chinese 22.37%; Indian 8.3%; B/P Sabah 0.2%; B/P Sarawak 0.04%; Others 0.62%,N53,RUNGKUP (P75),state,Perak
+53,"31,242",741,593,0,"25,048 (80.2%)",Malay 54.11%; Chinese 15.32%; Indian 28.49%; B/P Sabah 0.44%; B/P Sarawak 0.2%; Orang Asli (Pen. Msia) 0.03%; Others 1.41%,N54,HUTAN MELINTANG (P75),state,Perak
+54,"31,439","14,520",226,0,"25,699 (81.7%)",Malay 15.5%; Chinese 70.41%; Indian 13.79%; B/P Sabah 0.01%; B/P Sarawak 0.03%; Others 0.26%,N55,PASIR BEDAMAR (P76),state,Perak
+55,"35,048",67,578,0,"28,893 (82.4%)",Malay 63.25%; Chinese 12.89%; Indian 22.99%; B/P Sabah 0.03%; B/P Sarawak 0.04%; Orang Asli (Pen. Msia) 0.4%; Others 0.4%,N56,CHANGKAT JONG (P76),state,Perak
+56,"17,128","6,493",286,0,"13,612 (79.5%)",Malay 19.04%; Chinese 58.71%; Indian 16.65%; B/P Sabah 0.03%; B/P Sarawak 0.06%; Orang Asli (Pen. Msia) 5.17%; Others 0.33%,N57,SUNGKAI (P77),state,Perak
+57,"23,377","2,183",350,0,"19,060 (81.5%)",Malay 74.61%; Chinese 10.42%; Indian 13.19%; B/P Sabah 0.06%; B/P Sarawak 0.06%; Orang Asli (Pen. Msia) 1.49%; Others 0.17%,N58,SLIM (P77),state,Perak
+58,"27,963",409,412,0,"22,938 (82%)",Malay 62.01%; Chinese 17.9%; Indian 10.66%; B/P Sabah 0.07%; B/P Sarawak 0.08%; Orang Asli (Pen. Msia) 8.58%; Others 0.7%,N59,BEHRANG (P77),state,Perak
