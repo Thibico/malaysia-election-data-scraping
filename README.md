@@ -2,8 +2,8 @@
 
 This repository contains data that has been scraped from the following sources:
 
-* Malaysian newspaper The Star's election dashboard <https://election.thestar.com.my/>
-* Malaysian newspaper Malaysiakini's election dashboard <https://undi.info/>
+* Malaysian newspaper [The Star's](https://www.thestar.com.my/) election dashboard <https://election.thestar.com.my/>
+* Malaysian newspaper [Malaysiakini's](https://www.malaysiakini.com/) election dashboard <https://undi.info/>
 
 ## Cleaned datasets and code books
 
@@ -32,7 +32,7 @@ Data from The Star was available for the 2018 general elections (GE14) for the p
 
 ### Scraping and cleaning data from Malaysiakini's [undi.info](https://undi.info/) site
 
-Data from undi.info was scraped from the website's [API](https://api.undi.info/) using code from [this](./scrape_UNDI_dot_info.ipynb) notebook. Raw data in CSV files can be found [here](./data/raw/undi_dot_info/).
+Data from undi.info was scraped from the website's [API](https://api.undi.info/) using code from [this](./scrape_UNDI_dot_info.ipynb) notebook. Raw data in JSON files can be found [here](./data/raw/undi_dot_info/).
 
 Data from undi.info was available for the 2004, 2008, 2013, and 2018 general elections (GE11, GE12, GE13, GE14) for the parliamentary elections and the state elections.
 
@@ -40,7 +40,7 @@ Data from undi.info was available for the 2004, 2008, 2013, and 2018 general ele
 
 ## About
 
-This repo is part of a collaborative project by Southeast Asia civic tech groups (including [Thibi](https://site.thibi.co/) and [Data-N](https://www.data-n.com/)) to provide open data and open sourced data visualisations for the Malaysian elections.
+This repo is part of a collaborative project by Southeast Asian civic tech groups (including [Thibi](https://site.thibi.co/) and [Data-N](https://www.data-n.com/)) to provide open data and open sourced data visualisations for the Malaysian elections.
 
 We plan to add data for the 2022 General Elections (GE15) as soon as possible after the official results are announced.
 
