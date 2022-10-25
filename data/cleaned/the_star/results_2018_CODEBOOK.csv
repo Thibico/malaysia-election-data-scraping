@@ -1,0 +1,12 @@
+,Variable Name,Variable Description,Variable Type
+0,name,Name of candidate,string
+1,coalition,Short name of the coalition that the candidate's party belongs to,string
+2,party_code,Short name of the coalition that the candidate's party belongs to,string
+3,votes,Number of votes awarded to the candidate,number
+4,vote_share,Percentage of votes awarded to the candidate in this constituency,number (percentage)
+5,parliament_code_digits,For parliamentary constituencies: 3 digit code of constituency (e.g. P125 for Putrajaya is coded 125). For state constituencies: 3 digit parliament code followed by 3 digit state constituency code (e.g. N33 for Air Itam (P51) in Penang is coded 051-033),"string (3 numerical digits for parliament, 3-3 for state)"
+6,constituency,Name of the constituency,string
+7,state,Name of the state that the constituency belongs to,string
+8,vote_share_of_registered_voters,Vote share of candidate as a percentage of all registered voters. This is included because the original vote share data in The Star's website was calculated in this way,number (percentage)
+9,winner,"Boolean indicating whether a candidate won in the constituency. Coded 1 if they are a winner, 0 if they are not.",number (1 or 0)
+10,total_votes,Sum of the votes that were awarded to all the candidates in that constituency.,number

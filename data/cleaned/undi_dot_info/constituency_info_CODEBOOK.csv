@@ -1,0 +1,17 @@
+,Variable Name,Variable Description,Variable Type
+0,year,Election year,number
+1,state,Name of the state that the constituency belongs to,string
+2,constituency,Name of the constituency,string
+3,parliament_code_digits,For parliamentary constituencies: 3 digit code of constituency (e.g. P125 for Putrajaya is coded 125). For state constituencies: 3 digit parliament code followed by 3 digit state constituency code (e.g. N33 for Air Itam (P51) in Penang is coded 051-033),"string (3 numerical digits for parliament, 3-3 for state)"
+4,EligibleVoters,Number of eligible voters in the constituency,number
+5,MalayVoters,Percentage of Malay voters in the constituency,number (percentage)
+6,ChineseVoters,Percentage of Chinese voters in the constituency,number (percentage)
+7,IndianVoters,Percentage of Indian voters in the constituency,number (percentage)
+8,OtherVoters,Percentage of Other voters in the constituency,number (percentage)
+9,BumiMuslimVoters,Percentage of Bumi Muslim voters in the constituency,number (percentage)
+10,BumiNonmuslimVoters,Percentage of Bumi Non-Muslim voters in the constituency,number (percentage)
+11,SabahBumiVoters,Percentage of Sabah Bumi voters in the constituency,number (percentage)
+12,Early,Number of early votes in the constituency,number
+13,Postal,Number of postal votes in the constituency,number
+14,Sploit,Number of sploit votes in the constituency,number
+15,Turnout,Voter turnout in number of votes,number

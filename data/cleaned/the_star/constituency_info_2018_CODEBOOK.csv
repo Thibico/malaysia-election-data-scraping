@@ -1,0 +1,11 @@
+,Variable Name,Variable Description,Variable Type
+0,registered_voters,Number of registered voters in the constituency,number
+1,majority,The majority of votes by which the winning candidate won,number
+2,spoilt_votes,The number of sploit votes,number
+3,unreturned_votes,The number of unreturned votes,number
+4,voter_turnout,Voter turnout in number of votes,number
+5,voter_turnout_percentage,Voter turnout as a percentage of registered voters,number (percentage)
+6,parliament_code_digits,For parliamentary constituencies: 3 digit code of constituency (e.g. P125 for Putrajaya is coded 125). For state constituencies: 3 digit parliament code followed by 3 digit state constituency code (e.g. N33 for Air Itam (P51) in Penang is coded 051-033),"string (3 numerical digits for parliament, 3-3 for state)"
+7,constituency,Name of the constituency,string
+8,state,Name of the state that the constituency belongs to,string
+9,ethnicity_*,All variables that start with 'ethnicity_' shows the percentage of registered voters who belong to each ethnicity,number (percentage)
