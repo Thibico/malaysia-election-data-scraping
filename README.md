@@ -38,3 +38,10 @@ Data from undi.info was available for the 2004, 2008, 2013, and 2018 general ele
 
 **Note**: undi.info also contains results of state elections in Sabah (2020), Malacca (2021) and Sarawak (2016, 2021) but this data has not been scraped and added to this repo yet.
 
+## About
+
+This repo is part of a collaborative project by Southeast Asia civic tech groups (including [Thibi](https://site.thibi.co/) and [Data-N](https://www.data-n.com/)) to provide open data and open sourced data visualisations for the Malaysian elections.
+
+We plan to add data for the 2022 General Elections (GE15) as soon as possible after the official results are announced.
+
+All the data used for the data visualisations will be available in this repo and **we will be sharing the website where you can find the data visualisations very soon**.
