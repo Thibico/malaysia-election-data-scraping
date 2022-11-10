@@ -1,0 +1,118 @@
+,parCode,dunCode,codeId,state,ge14WonParty,ge14WonCoalition,ge14Majority,parName,zhParName,dunName,zhDunName,voters,incumbentName,incumbentCoalition,incumbentParty
+0,P001,N01,00101,Perlis,mca,bn,142,Padang Besar,巴当勿刹,Titi Tinggi,知知丁宜,13403,Teh Chai Aan,bn,mca
+1,P001,N02,00102,Perlis,umno,bn,416,Padang Besar,巴当勿刹,Beseri,柏斯里,12128,Ruzaini Rais,bn,umno
+2,P001,N03,00103,Perlis,umno,bn,1367,Padang Besar,巴当勿刹,Chuping,朱宾,14248,Asmaiza Ahmad,bn,umno
+3,P001,N04,00104,Perlis,umno,bn,720,Padang Besar,巴当勿刹,Mata Ayer,马打亚逸,9662,Siti Berenee Yahaya,bn,umno
+4,P001,N05,00105,Perlis,umno,bn,949,Padang Besar,巴当勿刹,Santan,山丹,10751,Azizan Sulaiman,bn,umno
+5,P002,N06,00206,Perlis,umno,bn,847,Kangar,加央,Bintong,敏东,16366,Azlan Man,bn,umno
+6,P002,N07,00207,Perlis,pkr,ph,314,Kangar,加央,Sena,仙那,15870,Asrul Nizan Abd Jalil,ph,pkr
+7,P002,N08,00208,Perlis,pkr,ph,3177,Kangar,加央,Indera Kayangan,英特拉加央岸,14465,Gan Ay Ling,ph,pkr
+8,P002,N09,00209,Perlis,pkr,ph,1254,Kangar,加央,Kuala Perlis,玻璃市港口,14717,Nor Azam Karap,ph,pkr
+9,P002,N10,00210,Perlis,umno,bn,435,Kangar,加央,Kayang,稼秧,13441,Hamizan Hassan,bn,umno
+10,P003,N11,00311,Perlis,umno,bn,143,Arau,亚娄,Pauh,玻州新路,14797,Rozieana Ahmad,bn,umno
+11,P003,N12,00312,Perlis,umno,bn,1180,Arau,亚娄,Tambun Tulang,淡汶都浪,13451,Ismail Kassim,bn,umno
+12,P003,N13,00313,Perlis,pas,gagasan,328,Arau,亚娄,Guar Sanji,瓜山芝,11510,Mohd Ridzuan Hashim,pn,pas
+13,P003,N14,00314,Perlis,umno,bn,82,Arau,亚娄,Simpang Empat,十字港,10697,Nurulhisham Yaakob,bn,umno
+14,P003,N15,00315,Perlis,pas,gagasan,42,Arau,亚娄,Sanglang,双弄,10421,Mohd Shukri Ramli,pn,pas
+15,P054,N01,05401,Perak,umno,bn,2375,Gerik,宜力,Pengkalan Hulu,彭卡兰乌鲁,20157,Aznel Ibrahim,bn,umno
+16,P054,N02,05402,Perak,umno,bn,3935,Gerik,宜力,Temengor,天猛莪,27408,Salbiah Mohamed,bn,umno
+17,P055,N03,05503,Perak,umno,bn,3268,Lenggong,玲珑,Kenering,肯纳宁,21596,Mohd Tarmizi Idris,bn,umno
+18,P055,N04,05504,Perak,umno,bn,2302,Lenggong,玲珑,Kota Tampan,哥打淡板,15354,Saarani Mohamad,bn,umno
+19,P056,N05,05605,Perak,pas,gagasan,289,Larut,拉律,Selama,司南马,22339,Mohd Akmal Kamaruddin,pn,pas
+20,P056,N06,05606,Perak,pas,gagasan,180,Larut,拉律,Kubu Gajah,古布牙也,21358,Khalil Yahaya,pn,pas
+21,P056,N07,05607,Perak,umno,bn,2308,Larut,拉律,Batu Kurau,峇都古楼,22022,Muhammad Amin Zakaria,bn,umno
+22,P057,N08,05708,Perak,amanah,ph,140,Parit Buntar,巴力文打,Titi Serong,迪迪西容,35900,Hasnul Zulkarnain Abdul Munaim,,ind
+23,P057,N09,05709,Perak,pkr,ph,2643,Parit Buntar,巴力文打,Kuala Kurau,瓜拉古楼,32602,Abdul Yunus Jamahri,pn,bersatu
+24,P058,N10,05810,Perak,umno,bn,1162,Bagan Serai,峇眼色海,Alor Pongsu,亚罗邦苏,28656,Sham Mat Sahat,bn,umno
+25,P058,N11,05811,Perak,pas,gagasan,1903,Bagan Serai,峇眼色海,Gunong Semanggol,新芒魏,27396,Razman Zakaria,pn,pas
+26,P058,N12,05812,Perak,umno,bn,97,Bagan Serai,峇眼色海,Selinsing,昔林星,24241,Mohamad Noor Dawoo,bn,umno
+27,P059,N13,05913,Perak,umno,bn,329,Bukit Gantang,武吉干当,Kuala Sepetang,十八丁,40222,Mohd Kamaruddin Abu Bakar,bn,umno
+28,P059,N14,05914,Perak,umno,bn,1922,Bukit Gantang,武吉干当,Changkat Jering,章吉遮令,37003,Ahmad Saidi Mohamad Daud,bn,umno
+29,P059,N15,05915,Perak,umno,bn,1898,Bukit Gantang,武吉干当,Trong,直弄,17028,Jamilah Zakaria,bn,umno
+30,P060,N16,06016,Perak,amanah,ph,1780,Taiping,太平,Kamunting,甘文丁,39850,Muhd Fadhil Nuruddin,ph,amanah
+31,P060,N17,06017,Perak,dap,ph,12032,Taiping,太平,Pokok Assam,保阁亚三,36513,Leow Thye Yih,ph,dap
+32,P060,N18,06018,Perak,dap,ph,12064,Taiping,太平,Aulong,后廊,45203,Nga Kor Ming,ph,dap
+33,P061,N19,06119,Perak,umno,bn,2370,Padang Rengas,硝山,Chenderoh,贞德洛,17782,Zainun Mat Noor,bn,umno
+34,P061,N20,06120,Perak,umno,bn,409,Padang Rengas,硝山,Lubok Merbau,鲁博马鲍,20904,Jurij Jalaluddin,bn,umno
+35,P062,N21,06221,Perak,umno,bn,4582,Sungai Siput,和丰,Lintang,连登,33107,Mohd Zolkafly Harun,bn,umno
+36,P062,N22,06222,Perak,dap,ph,9602,Sungai Siput,和丰,Jalong,也廊,39288,Loh Sze Yee,ph,dap
+37,P063,N23,06323,Perak,amanah,ph,3532,Tambun,打扪,Manjoi,万锐,86266,Asmuni Awi,ph,amanah
+38,P063,N24,06324,Perak,pkr,ph,3713,Tambun,打扪,Hulu Kinta,乌鲁近打,74292,Muhamad Arafat Varisai Mahamad,ph,pkr
+39,P064,N25,06425,Perak,dap,ph,18292,Ipoh Timor,怡保东区,Canning,桂和园,41021,Jenny Choy Tsi Jen,ph,dap
+40,P064,N26,06426,Perak,dap,ph,3927,Ipoh Timor,怡保东区,Tebing Tinggi,德彬丁宜,37223,Abdul Aziz Bari,ph,dap
+41,P064,N27,06427,Perak,dap,ph,20856,Ipoh Timor,怡保东区,Pasir Pinji,兵如港,39934,Lee Chuan How,ph,dap
+42,P065,N28,06528,Perak,dap,ph,20709,Ipoh Barat,怡保西区,Bercham,巴占,52750,Ong Boon Piow,ph,dap
+43,P065,N29,06529,Perak,dap,ph,9495,Ipoh Barat,怡保西区,Kepayang,甲巴央,25190,Ko Chung Sen,ph,dap
+44,P065,N30,06530,Perak,dap,ph,15323,Ipoh Barat,怡保西区,Buntong,文冬,36714,Sivasubramaniam Athinarayanan,pn,bersatu
+45,P066,N31,06631,Perak,dap,ph,15187,Batu Gajah,华都牙也,Jelapang,九洞,35088,Cheah Pou Hian,ph,dap
+46,P066,N32,06632,Perak,dap,ph,17948,Batu Gajah,华都牙也,Menglembu,万里望,38689,Chaw Kam Foon,ph,dap
+47,P066,N33,06633,Perak,dap,ph,10501,Batu Gajah,华都牙也,Tronoh,端洛,38119,Yong Choo Kiong,,pbm
+48,P067,N34,06734,Perak,umno,bn,464,Kuala Kangsar,江沙,Bukit Chandan,武吉章当,22194,Maslin Sham Razman,bn,umno
+49,P067,N35,06735,Perak,umno,bn,571,Kuala Kangsar,江沙,Manong,万浓,24791,Mohd Zuraimi Razali,bn,umno
+50,P068,N36,06836,Perak,umno,bn,1624,Beruas,木威,Pengkalan Baharu,孟加兰巴鲁,22573,Abdul Manaf Hashim,bn,umno
+51,P068,N37,06837,Perak,dap,ph,13316,Beruas,木威,Pantai Remis,班台,44432,Wong May Ing,ph,dap
+52,P068,N38,06838,Perak,dap,ph,15176,Beruas,木威,Astaka,阿斯达卡,41244,Teoh Yee Chern,ph,dap
+53,P069,N39,06939,Perak,umno,bn,2729,Parit,木威,Belanja,不兰查,17767,Khairudin Abu Hanipah,bn,umno
+54,P069,N40,06940,Perak,umno,bn,1822,Parit,巴力,Bota,波达,30148,Khairul Shahril Mohamed,bn,umno
+55,P070,N41,07041,Perak,dap,ph,6082,Kampar,巴力,Malim Nawar,双溪古月,29701,Leong Cheok Keng,,pbm
+56,P070,N42,07042,Perak,dap,ph,8041,Kampar,金宝,Keranji,可兰芝,28248,Chong Zhemin,ph,dap
+57,P070,N43,07043,Perak,umno,bn,1099,Kampar,金宝,Tulang Sekah,督亚冷塞卡,31945,Nolee Ashilin Mohamed Radzi,pn,bersatu
+58,P071,N44,07144,Perak,amanah,ph,3614,Gopeng,金宝,Sungai Rapat,双溪喇叭,47931,Mohammad Nizar Jamaluddin,ph,amanah
+59,P071,N45,07145,Perak,pkr,ph,20689,Gopeng,务边,Simpang Pulai,新邦波赖,62756,Tan Kar Hing,ph,pkr
+60,P071,N46,07146,Perak,pkr,ph,4390,Gopeng,务边,Teja,迪遮,32970,Ng Shy Ching,ph,pkr
+61,P072,N47,07247,Perak,bersatu,ph,39,Tapah,务边,Chenderiang,积莪营,30006,Ahmad Faizal Azumu,pn,bersatu
+62,P072,N48,07248,Perak,umno,bn,2087,Tapah,打巴,Ayer Kuning,亚亦君令,31940,Samsudin Abu Hassan,bn,umno
+63,P073,N49,07349,Perak,umno,bn,1939,Pasir Salak,打巴,Sungai Manik,双溪马立,35520,Zainol Fadzi Paharudin,pn,bersatu
+64,P073,N50,07350,Perak,umno,bn,3345,Pasir Salak,巴西沙叻,Kampong Gajah,甘榜牙也,39241,Wan Norashikin Wan Noordin,bn,umno
+65,P074,N51,07451,Perak,amanah,ph,1219,Lumut,红土坎,Pasir Panjang,巴西班让,62418,Yahaya Mat Nor,ph,amanah
+66,P074,N52,07452,Perak,umno,bn,1626,Lumut,红土坎,Pangkor,邦咯,30554,Zambry Abdul Kadir,bn,umno
+67,P075,N53,07553,Perak,umno,bn,3069,Bagan Datuk,峇眼拿督,Rungkup,龙谷,19670,Shahrul Zaman Yahya,bn,umno
+68,P075,N54,07554,Perak,umno,bn,741,Bagan Datuk,峇眼拿督,Hutan Melintang,半港,38513,Khairuddin Tarmizi,bn,umno
+69,P076,N55,07655,Perak,dap,ph,14520,Teluk Intan,安顺,Pasir Bedamar,巴硕勿打马,39117,Terence Naidu,ph,dap
+70,P076,N56,07656,Perak,umno,bn,67,Teluk Intan,安顺,Changkat Jong,曾吉容,48105,Mohd Azhar Jamaluddin,bn,umno
+71,P077,N57,07757,Perak,dap,ph,6493,Tanjong Malim,丹绒马林,Sungkai,宋溪,23375,Sivanesan Achalingam,ph,dap
+72,P077,N58,07758,Perak,umno,bn,2183,Tanjong Malim,丹绒马林,Slim,仕林,30581,Mohd Zaidi Aziz,bn,umno
+73,P077,N59,07759,Perak,amanah,ph,409,Tanjong Malim,丹绒马林,Behrang,美冷,39917,Aminuddin Zulkipli,ph,amanah
+74,P078,N01,07801,Pahang,dap,ph,3589,Cameron Highlands,金马仑高原,Tanah Rata,丹那拉打,26838,Chiong Yoke Kong,ph,dap
+75,P078,N02,07802,Pahang,umno,bn,3507,Cameron Highlands,金马仑高原,Jelai,哲莱,19182,Wan Rosdy Wan Ismail,bn,umno
+76,P079,N03,07903,Pahang,umno,bn,1244,Lipis,立卑,Padang Tengku,巴登东姑,19407,Mustapa Long,bn,umno
+77,P079,N04,07904,Pahang,mca,bn,202,Lipis,立卑,Cheka,积卡,16822,Lee Ah Wong,bn,mca
+78,P079,N05,07905,Pahang,umno,bn,340,Lipis,立卑,Benta,文打,10895,Mohd Soffi Abd Razak,bn,umno
+79,P080,N06,08006,Pahang,umno,bn,4320,Raub,劳勿,Batu Talam,峇都达南,19683,Abdul Aziz Mat Kiram,bn,umno
+80,P080,N07,08007,Pahang,dap,ph,9953,Raub,劳勿,Tras,都赖,38329,Chow Yu Hui,ph,dap
+81,P080,N08,08008,Pahang,umno,bn,3832,Raub,劳勿,Dong,冬,17052,Shahiruddin Ab Moin,bn,umno
+82,P081,N09,08109,Pahang,pas,gagasan,69,Jerantut,而连突,Tahan,大汉,20895,Mohd Zakhwan Ahmad Badarddin,pn,pas
+83,P081,N10,08110,Pahang,pas,gagasan,1456,Jerantut,而连突,Damak,南唛,34967,Zuridan Mohd Daud,pn,pas
+84,P081,N11,08111,Pahang,umno,bn,587,Jerantut,而连突,Pulau Tawar,浮罗大华,31189,Nazri Ngah,bn,umno
+85,P082,N12,08212,Pahang,pas,gagasan,1305,Indera Mahkota,英迪拉马哥打,Beserah,米昔拉,59370,Andansura Rabu,pn,pas
+86,P082,N13,08213,Pahang,pkr,ph,5511,Indera Mahkota,英迪拉马哥打,Semambu,士满慕,61179,Lee Chean Chung,ph,pkr
+87,P083,N14,08314,Pahang,pkr,ph,7725,Kuantan,关丹,Teruntum,德伦敦,30854,Sim Chon Siang,ph,pkr
+88,P083,N15,08315,Pahang,pas,gagasan,1339,Kuantan,关丹,Tanjung Lumpur,丹绒隆坡,38185,Rosli Abdul Jabar,pn,pas
+89,P083,N16,08316,Pahang,umno,bn,2165,Kuantan,关丹,Inderapura,英迪拉布拉,18558,Shafik Fauzan Sharif,bn,umno
+90,P084,N17,08417,Pahang,umno,bn,1968,Paya Besar,巴耶勿刹,Sungai Lembing,林明,19130,Md Sohaimi Mohamed Shah,bn,umno
+91,P084,N18,08418,Pahang,umno,bn,2779,Paya Besar,巴耶勿刹,Lepar,乐巴,25728,Abdul Rahim Muda,bn,umno
+92,P084,N19,08419,Pahang,pas,gagasan,135,Paya Besar,巴耶勿刹,Panching,班珍,34886,Mohd Tarmizi Yahya,pn,pas
+93,P085,N20,08520,Pahang,umno,bn,2334,Pekan,北根,Pulau Manis,浮罗马尼,30113,Khairuddin Mahmud,bn,umno
+94,P085,N21,08521,Pahang,umno,bn,7182,Pekan,北根,Peramu Jaya,柏拉姆再也,41915,Sh Mohamed Puzi Sh Ali,bn,umno
+95,P085,N22,08522,Pahang,umno,bn,5720,Pekan,北根,Bebar,柏巴,21294,Mohd Fakhruddin Mohd Arif,bn,umno
+96,P085,N23,08523,Pahang,umno,bn,4622,Pekan,北根,Chini,珍妮,26121,Mohd Sharim Md Zain,bn,umno
+97,P086,N24,08624,Pahang,pas,gagasan,272,Maran,马兰,Luit,鐳,16279,Mohd Sofian Abd Jalil,pn,pas
+98,P086,N25,08625,Pahang,umno,bn,2039,Maran,马兰,Kuala Sentul,瓜拉先都,17434,Shahaniza Shamsuddin,bn,umno
+99,P086,N26,08626,Pahang,pas,gagasan,514,Maran,马兰,Chenor,珍諾,19415,Mujibur Rahman Ishak,pn,pas
+100,P087,N27,08727,Pahang,umno,bn,1713,Kuala Krau,瓜拉吉挠,Jenderak,贞德腊,13994,Mohamed Jaafar,bn,umno
+101,P087,N28,08728,Pahang,umno,bn,1934,Kuala Krau,瓜拉吉挠,Kerdau,吉道,15184,Syed Ibrahim Syed Ahmad,bn,umno
+102,P087,N29,08729,Pahang,pas,gagasan,1813,Kuala Krau,瓜拉吉挠,Jengka,增卡,31359,Shahril Azman Abd Halim,pn,pas
+103,P088,N30,08830,Pahang,dap,ph,5829,Temerloh,淡马鲁,Mentakab,文德甲,37269,Woo Chee Wan,ph,dap
+104,P088,N31,08831,Pahang,umno,bn,3725,Temerloh,淡马鲁,Lanchang,联增,32774,Mohd Sharkar Shamsudin,bn,umno
+105,P088,N32,08832,Pahang,umno,bn,474,Temerloh,淡马鲁,Kuala Semantan,瓜拉士曼丹,36786,Nor Azmi Mat Ludin,bn,umno
+106,P089,N36,08936,Pahang,umno,bn,2312,Bentong,文冬,Pelangai,柏朗埃,16371,Adnan Yaakob,bn,umno
+107,P089,N34,08934,Pahang,dap,ph,3710,Bentong,文冬,Ketari,吉打里,30758,Syefura Othman,ph,dap
+108,P089,N35,08935,Pahang,dap,ph,495,Bentong,文冬,Sabai,沙拜,15643,Kamache Doray Rajoo,ph,dap
+109,P089,N33,08933,Pahang,dap,ph,3739,Bentong,文冬,Bilut,美律,24286,Lee Chin Chen,ph,dap
+110,P090,N37,09037,Pahang,umno,bn,3295,Bera,百乐,Guai,古艾,24412,Norol Azali Sulaiman,bn,umno
+111,P090,N38,09038,Pahang,dap,ph,6454,Bera,百乐,Triang,直凉,25891,Leong Yu Man,ph,dap
+112,P090,N39,09039,Pahang,umno,bn,4618,Bera,百乐,Kemayan,金马扬,27366,Mohd Fadil Osman,bn,umno
+113,P091,N40,09140,Pahang,umno,bn,2478,Rompin,云冰,Bukit Ibam,武吉依班,31003,Samsiah Arshad,bn,umno
+114,P091,N41,09141,Pahang,umno,bn,4840,Rompin,云冰,Muadzam Shah,姆阿占沙,29663,Razali Kassim,bn,umno
+115,P091,N42,09142,Pahang,umno,bn,1280,Rompin,云冰,Tioman,刁曼,28465,Mohd Johari Hussain,bn,umno
+116,P189,N66,18966,Sabah,warisan,ph allies,7851,Semporna,仙本那,Bugaya,布加雅,32761,Vacant,,vacant

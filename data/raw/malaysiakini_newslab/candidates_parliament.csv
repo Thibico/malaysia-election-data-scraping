@@ -1,0 +1,946 @@
+,coalition,party,logo,name,gender,codeId,state,parName
+0,gta,putra,pejuang,Ramle Mat Daly,L,16600,Sabah,Labuan
+1,pn,bersatu,pn,Suhaili Abdul Rahman,L,16600,Sabah,Labuan
+2,bn,umno,bn,Bashir Alias,L,16600,Sabah,Labuan
+3,ph,amanah,ph,Ramli Tahir,L,16600,Sabah,Labuan
+4,,warisan,warisan,Rozman Isli,L,16600,Sabah,Labuan
+5,,pbm,pbm,Dayang Rusimah @ Raynie Bt Mohd Din,P,16600,Sabah,Labuan
+6,bn,umno,bn,Sheikh Mohmed Puzi Sheikh Ali,L,08500,Pahang,Pekan
+7,ph,pkr,ph,Mohd Naim Zainal Abidin,L,08500,Pahang,Pekan
+8,,ind,ind,Tengku Hisham,L,08500,Pahang,Pekan
+9,gta,pejuang,pejuang,Mohammad Radhi Abdul Razak,L,08500,Pahang,Pekan
+10,pn,pas,pn,Mohd Fadhil Noor Abdul Karim,L,08500,Pahang,Pekan
+11,pn,bersatu,pn,Ku Abd Rahman Ku Ismail,L,00600,Kedah,Kubang Pasu
+12,ph,pkr,ph,Mohd Aizuddin Ariffin,L,00600,Kedah,Kubang Pasu
+13,gta,pejuang,pejuang,Amiruddin Hamzah,L,00600,Kedah,Kubang Pasu
+14,bn,umno,bn,Hasmuni Hassan,L,00600,Kedah,Kubang Pasu
+15,ph,pkr,ph,Fadhlina Sidek,P,04700,Penang,Nibong Tebal
+16,pn,bersatu,pn,Mansor Othman,L,04700,Penang,Nibong Tebal
+17,bn,mmsp,bn,Thanenthiran Ramankutty,P,04700,Penang,Nibong Tebal
+18,,ind,ind,Goh Kheng Huat,L,04700,Penang,Nibong Tebal
+19,gta,pejuang,pejuang,Wan Marzudi Wan Omar,L,02800,Kelantan,Pasir Puteh
+20,bn,umno,bn,Zawawi Othman,L,02800,Kelantan,Pasir Puteh
+21,ph,amanah,ph,Muhammad Husain,L,02800,Kelantan,Pasir Puteh
+22,pn,pas,pas,Nik Muhammad Zawawi Salleh,L,02800,Kelantan,Pasir Puteh
+23,ph,pkr,ph,Jimmy Puah Wee Tse,L,15800,Johor,Tebrau
+24,pn,bersatu,pn,Mohamad Isa Mohamad Basir,L,15800,Johor,Tebrau
+25,bn,mca,bn,Wong Siaw Ting,P,15800,Johor,Tebrau
+26,,ind,ind,Tawfik Ismail,L,07500,Perak,Bagan Datuk
+27,pn,bersatu,pn,Muhammad Faiz Na’aman,L,07500,Perak,Bagan Datuk
+28,ph,pkr,ph,Shamsul Iskandar,L,07500,Perak,Bagan Datuk
+29,bn,umno,bn,Ahmad Zahid Hamidi,L,07500,Perak,Bagan Datuk
+30,pn,pas,pn,Aireroshairi Roslan,L,08400,Pahang,Paya Besar
+31,gta,pejuang,pejuang,Rosminahar Mohd Amin,L,08400,Pahang,Paya Besar
+32,ph,amanah,ph,Ahmad Azam Mohamad Salleh,L,08400,Pahang,Paya Besar
+33,bn,umno,bn,Mohd Shahar Abdullah,L,08400,Pahang,Paya Besar
+34,gta,putra,pejuang,Ghazali Abu,L,13600,Melaka,Tangga Batu
+35,,ind,ind,Shahril Mahmood,L,13600,Melaka,Tangga Batu
+36,pn,pas,pn,Bakri Jamaluddin,L,13600,Melaka,Tangga Batu
+37,ph,pkr,ph,Rusnah Aluai,P,13600,Melaka,Tangga Batu
+38,bn,mca,bn,Lim Ban Hong,L,13600,Melaka,Tangga Batu
+39,pn,bersatu,pn,Syed Abu Hussin Hafiz Syed Abdul Fasal,L,05900,Perak,Bukit Gantang
+40,gta,pejuang,pejuang,Mohd Shukri Mohd Yusoff,L,05900,Perak,Bukit Gantang
+41,ph,amanah,ph,Fakhruldin Mohd Hashim,L,05900,Perak,Bukit Gantang
+42,bn,umno,bn,Mohammad Sollehin Mohamad Tajie,L,05900,Perak,Bukit Gantang
+43,,ind,ind,Siti Kasim,P,11500,KL,Batu
+44,,ind,ind,Tian Chua,L,11500,KL,Batu
+45,ph,pkr,ph,P Prabakaran,L,11500,KL,Batu
+46,,prm,prm,Mohd Zulkifli Abdul Fattah,L,11500,KL,Batu
+47,,ind,ind,Too Cheng Huat,L,11500,KL,Batu
+48,gta,pejuang,pejuang,Wan Azliana Wan Adnan,P,11500,KL,Batu
+49,pn,pas,pn,Azhar Yahya,L,11500,KL,Batu
+50,,warisan,warisan,Naganathan Pillai,L,11500,KL,Batu
+51,bn,mic,bn,A Kohilan Pillay,L,11500,KL,Batu
+52,,ind,ind,Nur Fathiah Syazwana @ Cleo,P,11500,KL,Batu
+53,pn,bersatu,pn,Iskandar Dzulkarnain Abdul Khalid,L,06700,Perak,Kuala Kangsar
+54,bn,umno,bn,Maslin Sham Razman,L,06700,Perak,Kuala Kangsar
+55,gta,pejuang,pejuang,Yusmalia Muhammad Yusof,P,06700,Perak,Kuala Kangsar
+56,ph,amanah,ph,Ahmad Termizi Ramli,L,06700,Perak,Kuala Kangsar
+57,gta,berjasa,pejuang,Fahmi Bazlan Muda,L,11100,Selangor,Kota Raja
+58,pn,pas,pn,Mohamed Diah Baharun,L,11100,Selangor,Kota Raja
+59,,ind,ind,Kumar Karananedi,L,11100,Selangor,Kota Raja
+60,bn,mic,bn,D Kajendran,L,11100,Selangor,Kota Raja
+61,ph,amanah,ph,Mohamad Sabu,L,11100,Selangor,Kota Raja
+62,,ind,ind,P Raveentharan A Periasamy,L,11100,Selangor,Kota Raja
+63,,prm,prm,Sarah Afiqah Zainol Arif,P,11100,Selangor,Kota Raja
+64,,ind,ind,Surendhar Selvaraju,L,11100,Selangor,Kota Raja
+65,pn,pas,pas,Abdul Latiff Abdul Rahman,L,03100,Kelantan,Kuala Krai
+66,bn,umno,bn,Mohamed Zulkepli Omar,L,03100,Kelantan,Kuala Krai
+67,gta,pejuang,pejuang,Norashikin Che Omar,P,03100,Kelantan,Kuala Krai
+68,ph,amanah,ph,Mohd Hisyamuddin,L,03100,Kelantan,Kuala Krai
+69,ph,pkr,ph,Saifuddin Nasution Ismail,L,01800,Kedah,Kulim-Bandar Baharu
+70,pn,bersatu,pn,Roslan Hashim,L,01800,Kedah,Kulim-Bandar Baharu
+71,gta,direct,pejuang,Mohamad Yusrizal Yusoff,L,01800,Kedah,Kulim-Bandar Baharu
+72,bn,umno,bn,Muhar Hussain,L,01800,Kedah,Kulim-Bandar Baharu
+73,pn,bersatu,pn,Muhammad Noraffendy Mohd Salleh,L,12700,Negeri Sembilan,Jempol
+74,gta,putra,pejuang,Mohd Khalid Muhd Yunus,L,12700,Negeri Sembilan,Jempol
+75,bn,umno,bn,Shamsulkahar Mohd Deli,L,12700,Negeri Sembilan,Jempol
+76,ph,amanah,ph,Norwani Ahmat,P,12700,Negeri Sembilan,Jempol
+77,bn,mca,bn,Low Guo Nan,L,06500,Perak,Ipoh Barat
+78,ph,dap,ph,M Kulasegaran,L,06500,Perak,Ipoh Barat
+79,pn,gerakan,pn,Chek Kwong Weng,L,06500,Perak,Ipoh Barat
+80,,ind,ind,M Kayveas,L,06500,Perak,Ipoh Barat
+81,ph,dap,ph,Tan Kok Wai,L,12300,KL,Cheras
+82,bn,mca,bn,Chong Yew Chuan,L,12300,KL,Cheras
+83,pn,bersatu,pn,Chin Yoke Kheng,P,12300,KL,Cheras
+84,pn,pas,pn,Awang Hashim,L,01100,Kedah,Pendang
+85,ph,pkr,ph,Zulkifli Mohamad,L,01100,Kedah,Pendang
+86,gta,direct,pejuang,Abdul Rashid Yop,L,01100,Kedah,Pendang
+87,bn,umno,bn,Suraya Yaacob,P,01100,Kedah,Pendang
+88,gta,direct,pejuang,Idris Md Yusof,L,09200,Selangor,Sabak Bernam
+89,bn,umno,bn,Abd Rahman Bakri,L,09200,Selangor,Sabak Bernam
+90,pn,bersatu,pn,Mohd Fasiah Mohd Fakeh,L,09200,Selangor,Sabak Bernam
+91,ph,amanah,ph,Shamsul Ma'arif Ismail,L,09200,Selangor,Sabak Bernam
+92,,warisan,warisan,Mohd Akmal Azhar,L,04200,Penang,Tasek Gelugor
+93,ph,amanah,ph,Nik Abdul Razak Nik Md Ridzuan,L,04200,Penang,Tasek Gelugor
+94,gta,direct,pejuang,Abdul Halim Sher Jung,L,04200,Penang,Tasek Gelugor
+95,bn,umno,bn,Muhamad Yusoff Mohd Noor,L,04200,Penang,Tasek Gelugor
+96,pn,bersatu,pn,Wan Saiful Wan Jan,L,04200,Penang,Tasek Gelugor
+97,bn,umno,bn,Zambry Abd Kadir,L,07400,Perak,Lumut
+98,ph,amanah,ph,Hatta Ramli,L,07400,Perak,Lumut
+99,pn,bersatu,pn,Nordin Ahmad Ismail,L,07400,Perak,Lumut
+100,,warisan,warisan,Mohd Isnin Ismail @ Ibrahim Khan,L,07400,Perak,Lumut
+101,gta,pejuang,pejuang,Mazlan Abdul Ghani,L,07400,Perak,Lumut
+102,pn,pas,pas,Alias Razak,L,03500,Terengganu,Kuala Nerus
+103,bn,direct,bn,Khairuddin Aman Razali,L,03500,Terengganu,Kuala Nerus
+104,gta,putra,pejuang,Azaha Wahid,L,03500,Terengganu,Kuala Nerus
+105,ph,amanah,ph,Suhaimi Hashim,L,03500,Terengganu,Kuala Nerus
+106,pn,pas,pas,Mohd Syahrir Che Sulaiman,L,02500,Kelantan,Bachok
+107,ph,pkr,ph,Nor Azmiza Mamat,P,02500,Kelantan,Bachok
+108,,ind,ind,Zu,L,02500,Kelantan,Bachok
+109,gta,putra,putra,Kamarul Azam Osman,L,02500,Kelantan,Bachok
+110,bn,umno,bn,Mohd Zain Yasim,L,02500,Kelantan,Bachok
+111,ph,amanah,ph,Mujahid Yusof Rawa,L,05700,Perak,Parit Buntar
+112,bn,umno,bn,Imran Mohd Yusof,L,05700,Perak,Parit Buntar
+113,gta,pejuang,pejuang,Rohijas,L,05700,Perak,Parit Buntar
+114,pn,pas,pn,Mohd Misbahul Munir Masduki,L,05700,Perak,Parit Buntar
+115,gta,pejuang,pejuang,Razali Lebai Salleh,L,00700,Kedah,Padang Terap
+116,bn,umno,bn,Mahdzir Khalid,L,00700,Kedah,Padang Terap
+117,ph,amanah,ph,Muaz Abdullah,L,00700,Kedah,Padang Terap
+118,pn,pas,pn,Nurul Amin Hamid,L,00700,Kedah,Padang Terap
+119,ph,amanah,ph,Wan Ahmad Kamil Wan Abdullah,L,02400,Kelantan,Kubang Kerian
+120,gta,pejuang,pejuang,Mohamad Rizal Razali,L,02400,Kelantan,Kubang Kerian
+121,bn,umno,bn,Nurul Amal Mohd Fauzi,P,02400,Kelantan,Kubang Kerian
+122,pn,pas,pas,Tuan Ibrahim Tuan Man,L,02400,Kelantan,Kubang Kerian
+123,gta,putra,pejuang,Mohamad Abu Bakar Muda,L,03600,Terengganu,Kuala Terengganu
+124,bn,umno,bn,Mohd Zubir Embong,L,03600,Terengganu,Kuala Terengganu
+125,ph,amanah,ph,Raja Kamarul Bahrin Shah,L,03600,Terengganu,Kuala Terengganu
+126,pn,pas,pas,Ahmad Amzad Mohamed,L,03600,Terengganu,Kuala Terengganu
+127,gta,berjasa,pejuang,Hamidi Abu Hassan,L,04100,Penang,Kepala Batas
+128,pn,pas,pn,Siti Mastura Mohamad,P,04100,Penang,Kepala Batas
+129,ph,muda,muda,Danial Abdul Majeed,L,04100,Penang,Kepala Batas
+130,bn,umno,bn,Reezal Merican Naina Merican,L,04100,Penang,Kepala Batas
+131,,ind,ind,Indrani,P,06200,Perak,Sungai Siput
+132,,ind,ind,Haji Baha,L,06200,Perak,Sungai Siput
+133,bn,mic,bn,S Vigneswaran M Sanasee,L,06200,Perak,Sungai Siput
+134,ph,pkr,ph,S Kesavan,L,06200,Perak,Sungai Siput
+135,gta,pejuang,pejuang,Ahmad Fauzi Mohd Jaafar,L,06200,Perak,Sungai Siput
+136,,ind,ind,Rajah Narasaim,L,06200,Perak,Sungai Siput
+137,pn,bersatu,pn,Irudianathan Gabriel,L,06200,Perak,Sungai Siput
+138,pn,bersatu,pn,Azmin Ali,L,09800,Selangor,Gombak
+139,ph,pkr,ph,Amirudin Shari,L,09800,Selangor,Gombak
+140,gta,putra,pejuang,Aziz Jamaludin Mohd Tahir,L,09800,Selangor,Gombak
+141,,ind,ind,Zulkifli,L,09800,Selangor,Gombak
+142,bn,umno,bn,Megat Zulkarnain Omardin,L,09800,Selangor,Gombak
+143,pn,bersatu,pn,Thinaganarabhan Padmanabhan,L,05100,Penang,Bukit Gelugor
+144,ph,dap,ph,Ramkarpal Singh,L,05100,Penang,Bukit Gelugor
+145,bn,mca,bn,Wong Chin Chong,L,05100,Penang,Bukit Gelugor
+146,bn,umno,bn,Ab Hamid Mohd Nazahar,L,08300,Pahang,Kuantan
+147,ph,pkr,ph,Fuziah Salleh,P,08300,Pahang,Kuantan
+148,pn,pas,pn,Wan Razali Wan Nor,L,08300,Pahang,Kuantan
+149,gta,pejuang,pejuang,Anuar Tajuddin,L,08300,Pahang,Kuantan
+150,pn,pas,pas,Takiyuddin Hassan,L,02100,Kelantan,Kota Bharu
+151,ph,amanah,ph,Hafidzah Mustakim,P,02100,Kelantan,Kota Bharu
+152,bn,umno,bn,Rosmadi Ismail,L,02100,Kelantan,Kota Bharu
+153,,prm,prm,Andy Tan @ Awang,L,02100,Kelantan,Kota Bharu
+154,gta,putra,putra,Che Musa Che Omar,L,02100,Kelantan,Kota Bharu
+155,,ind,ind,Izat Bukhary,L,02100,Kelantan,Kota Bharu
+156,ph,dap,ph,Khoo Poay Tiong,L,13800,Melaka,Kota Melaka
+157,bn,mca,bn,Kon Qi Yao,L,13800,Melaka,Kota Melaka
+158,,ind,ind,Norazlan,L,13800,Melaka,Kota Melaka
+159,pn,gerakan,pn,Suhaime Borhan,L,13800,Melaka,Kota Melaka
+160,gta,putra,pejuang,Noor Asmah Mohd Razalli,P,12100,KL,Lembah Pantai
+161,pn,pas,pn,Fauzi Abu Bakar,L,12100,KL,Lembah Pantai
+162,ph,pkr,ph,Fahmi Fadzil,L,12100,KL,Lembah Pantai
+163,bn,umno,bn,Ramlan Shahean @ Askolani,L,12100,KL,Lembah Pantai
+164,pn,bersatu,pn,Isa Ab Hamid,L,16400,Johor,Pontian
+165,bn,umno,bn,Ahmad Maslan,L,16400,Johor,Pontian
+166,ph,dap,ph,Shazwan Zainal Abidin,L,16400,Johor,Pontian
+167,gta,direct,pejuang,Jamaluddin Mohamad,L,16400,Johor,Pontian
+168,bn,umno,bn,Johan Arifin Mohd Ropi,L,16000,Johor,Johor Bahru
+169,pn,bersatu,pn,Mohd Mohtaj Yacob,L,16000,Johor,Johor Bahru
+170,gta,pejuang,pejuang,Mohd Akhiri Mahmood,L,16000,Johor,Johor Bahru
+171,ph,pkr,ph,Akmal Nasrullah Mohd Nasir,L,16000,Johor,Johor Bahru
+172,pn,bersatu,pn,Mohd Nazree Mohd Yunus,L,13100,Negeri Sembilan,Rembau
+173,bn,umno,bn,Mohamad Haji Hasan,L,13100,Negeri Sembilan,Rembau
+174,ph,pkr,ph,Jufitri Johar,L,13100,Negeri Sembilan,Rembau
+175,,psm,psm,Tinagaran Subramaniam,L,13100,Negeri Sembilan,Rembau
+176,gta,pejuang,pejuang,Ramly Awaluddin,L,13100,Negeri Sembilan,Rembau
+177,bn,umno,bn,Manndzri Nasib,L,15500,Johor,Tenggara
+178,gta,putra,pejuang,M Azhar Palal,L,15500,Johor,Tenggara
+179,pn,pas,pn,Mohd Nazari Mokhtar,L,15500,Johor,Tenggara
+180,ph,pkr,ph,Zuraidah Zainab Mohd Zain,P,15500,Johor,Tenggara
+181,bn,umno,bn,Tengku Adnan Tengku Mansor,L,12500,Putrajaya,Putrajaya
+182,ph,pkr,ph,Noraishah Mydin Abdul Aziz,P,12500,Putrajaya,Putrajaya
+183,gta,berjasa,pejuang,Muhd Rosli Ramli,L,12500,Putrajaya,Putrajaya
+184,,ind,ind,Samsudin Pkpkl,L,12500,Putrajaya,Putrajaya
+185,pn,bersatu,pn,Mohd Radzi Jidin,L,12500,Putrajaya,Putrajaya
+186,,ind,ind,Lim Fice Bee,P,12500,Putrajaya,Putrajaya
+187,pn,gerakan,pn,Phaang Jing Fatt,L,11400,KL,Kepong
+188,,warisan,warisan,Young Shang Yi,L,11400,KL,Kepong
+189,bn,mca,bn,Yap Zheng Hoe,L,11400,KL,Kepong
+190,ph,dap,ph,Lim Lip Eng,L,11400,KL,Kepong
+191,,ind,ind,Yee Poh Ping,L,11400,KL,Kepong
+192,ph,pkr,ph,Maszlee Malek,L,15100,Johor,Simpang Renggam
+193,gta,putra,pejuang,Kamal Kusmin,L,15100,Johor,Simpang Renggam
+194,pn,bersatu,pn,Mohd Fazrul Kamat,L,15100,Johor,Simpang Renggam
+195,bn,umno,bn,Hasni Mohammad,L,15100,Johor,Simpang Renggam
+196,pn,bersatu,pn,Alvin Chang Teck Kiam,L,14200,Johor,Labis
+197,ph,dap,ph,Pang Hok Liong,L,14200,Johor,Labis
+198,bn,mca,bn,Chua Tee Yong,L,14200,Johor,Labis
+199,ph,pkr,ph,Hassan Basri Awang Mat Dahan,L,08100,Pahang,Jerantut
+200,bn,umno,bn,Mohd Zukarmi Abu Bakar,L,08100,Pahang,Jerantut
+201,pn,pas,pn,Khairil Nizam Khirudin,L,08100,Pahang,Jerantut
+202,pn,bersatu,pn,Jaya Chandran Perumal,L,11000,Selangor,Klang
+203,,ind,ind,Hedrhin Ramli @ Awin,L,11000,Selangor,Klang
+204,bn,mca,bn,Tee Hooi Ling,P,11000,Selangor,Klang
+205,,warisan,warisan,Loo Cheng Wee,L,11000,Selangor,Klang
+206,,prm,prm,S Chandrasegar,L,11000,Selangor,Klang
+207,ph,dap,ph,V Ganabatirau,L,11000,Selangor,Klang
+208,,ind,ind,Deepak Jaikishan,L,11000,Selangor,Klang
+209,bn,umno,bn,Abdul Hakim Abdul Wahid,L,13400,Melaka,Masjid Tanah
+210,pn,bersatu,pn,Mas Ermieyati Samsudin,P,13400,Melaka,Masjid Tanah
+211,ph,muda,muda,Mutalib Uthman,L,13400,Melaka,Masjid Tanah
+212,gta,pejuang,pejuang,Handrawirawan Abu Bakar,L,13400,Melaka,Masjid Tanah
+213,,ind,ind,Zanariah Jumhuri,P,11200,Selangor,Kuala Langat
+214,bn,mic,bn,Mohana Muniandy Raman,P,11200,Selangor,Kuala Langat
+215,gta,direct,pejuang,Ridzuan Abdullah,L,11200,Selangor,Kuala Langat
+216,pn,pas,pn,Ahmad Yunus Hairi,L,11200,Selangor,Kuala Langat
+217,,prm,prm,M Ganeskumar,L,11200,Selangor,Kuala Langat
+218,ph,pkr,ph,Manivanan Govin,L,11200,Selangor,Kuala Langat
+219,,ind,ind,Muhamad Hafiz Al-hafiz,L,08600,Pahang,Maran
+220,bn,umno,bn,Shahaniza Bt Shamsuddin,P,08600,Pahang,Maran
+221,pn,pas,pn,Fazil Azmi Nadzri,L,08600,Pahang,Maran
+222,ph,amanah,ph,Ahmad Shuhor Awang,L,08600,Pahang,Maran
+223,gta,direct,pejuang,Azlan Sani Zawawi,L,09500,Selangor,Tanjung Karang
+224,,ind,ind,Mohd Rosni,L,09500,Selangor,Tanjung Karang
+225,pn,bersatu,pn,Zulkafperi Hanapi,L,09500,Selangor,Tanjung Karang
+226,ph,muda,muda,Siti Rahayu Baharin,P,09500,Selangor,Tanjung Karang
+227,bn,umno,bn,Habibah Mohd Yusof,P,09500,Selangor,Tanjung Karang
+228,bn,umno,bn,Bakri @ Mohd Bakri Mustapha,L,02700,Kelantan,Tanah Merah
+229,ph,pkr,ph,Mohamad Suparadi Md Noor,L,02700,Kelantan,Tanah Merah
+230,gta,putra,putra,Mohd Nasir Abdullah,L,02700,Kelantan,Tanah Merah
+231,,ind,ind,Nik Sapeia,L,02700,Kelantan,Tanah Merah
+232,pn,bersatu,pas,Ikmal Hisham Abdul Aziz,L,02700,Kelantan,Tanah Merah
+233,pn,bersatu,pn,Chen Win Keong,L,12000,KL,Bukit Bintang
+234,ph,dap,ph,Fong Kui Lun,L,12000,KL,Bukit Bintang
+235,bn,mca,bn,Tan Teik Peng,L,12000,KL,Bukit Bintang
+236,ph,dap,ph,Chow Yu Hui,L,08000,Pahang,Raub
+237,gta,pejuang,pejuang,Norkhairul Anuar Mohamed Nor,L,08000,Pahang,Raub
+238,bn,mca,bn,Chong Sin Woon,L,08000,Pahang,Raub
+239,pn,bersatu,pn,Mohd Fakrunizam Ibrahim,L,08000,Pahang,Raub
+240,,ind,ind,Abd Kadir,L,00400,Kedah,Langkawi
+241,pn,bersatu,pn,Suhaimi Abdullah,L,00400,Kedah,Langkawi
+242,gta,pejuang,pejuang,Mahathir Mohamad,L,00400,Kedah,Langkawi
+243,bn,umno,bn,Armishah Siraj,L,00400,Kedah,Langkawi
+244,ph,amanah,ph,Zabidi Yahya,L,00400,Kedah,Langkawi
+245,,warisan,warisan,Khairul Azuan Kamarrudin,L,01900,Kelantan,Tumpat
+246,pn,pas,pas,Mumtaz Md Nawi,P,01900,Kelantan,Tumpat
+247,gta,putra,putra,Che Muhammad Aswari Che Ali,L,01900,Kelantan,Tumpat
+248,ph,amanah,ph,Wan Mohd Johari Wan Omar,L,01900,Kelantan,Tumpat
+249,bn,direct,bn,Che Abdullah Mat Nawi,L,01900,Kelantan,Tumpat
+250,gta,putra,putra,Muhammad Daud,L,03000,Kelantan,Jeli
+251,pn,bersatu,pas,Zahari Kechik,L,03000,Kelantan,Jeli
+252,bn,umno,bn,Norwahida Patuan,P,03000,Kelantan,Jeli
+253,ph,amanah,ph,Md Radzi Wahab,L,03000,Kelantan,Jeli
+254,bn,umno,bn,Muhammad Noor Azman @ Noor Hizam,L,10900,Selangor,Kapar
+255,,pbm,pbm,Daroyah Alwi,P,10900,Selangor,Kapar
+256,gta,berjasa,pejuang,Muhammad Pathan Hussin,L,10900,Selangor,Kapar
+257,pn,pas,pn,Halimah Ali,P,10900,Selangor,Kapar
+258,,warisan,warisan,Rahim Awang,L,10900,Selangor,Kapar
+259,,ind,ind,Sivalingam,L,10900,Selangor,Kapar
+260,ph,pkr,ph,Abdullah Sani Abdul Hamid,L,10900,Selangor,Kapar
+261,bn,umno,bn,Nur Jazlan Mohamed,L,16100,Johor,Pulai
+262,pn,gerakan,pn,Loh Kah Yong,L,16100,Johor,Pulai
+263,ph,amanah,ph,Salahuddin Ayub,L,16100,Johor,Pulai
+264,pn,bersatu,pn,Nor Afzainizam Salleh,L,06400,Perak,Ipoh Timor
+265,bn,mca,bn,Ng Kai Cheong,L,06400,Perak,Ipoh Timor
+266,ph,dap,ph,Howard Lee Chuan How,L,06400,Perak,Ipoh Timor
+267,bn,mca,bn,Ng Kian Nam,L,13000,Negeri Sembilan,Rasah
+268,pn,gerakan,pn,Choong Vee Hing,L,13000,Negeri Sembilan,Rasah
+269,ph,dap,ph,Cha Kee Chin,L,13000,Negeri Sembilan,Rasah
+270,pn,bersatu,pn,Azahari Hasan,L,06100,Perak,Padang Rengas
+271,bn,umno,bn,Mohd Arrif Abdul Majid,L,06100,Perak,Padang Rengas
+272,ph,pkr,ph,Muhammad Kamil Abdul Munim,L,06100,Perak,Padang Rengas
+273,ph,dap,ph,Ngeh Koo Ham,L,06800,Perak,Beruas
+274,pn,gerakan,pn,Ong Kean Sing,L,06800,Perak,Beruas
+275,bn,mca,bn,Ding Siew Chee,L,06800,Perak,Beruas
+276,bn,umno,bn,Tengku Razaleigh Hamzah,L,03200,Kelantan,Gua Musang
+277,pn,bersatu,pas,Mohd Azizi Abu Naim,L,03200,Kelantan,Gua Musang
+278,gta,pejuang,pejuang,Samsu Adabi Mamat,L,03200,Kelantan,Gua Musang
+279,ph,pkr,ph,Asharun Uji,L,03200,Kelantan,Gua Musang
+280,pn,pas,pn,Rosni Adam,P,11900,KL,Titiwangsa
+281,ph,amanah,ph,Khalid Abd Samad,L,11900,KL,Titiwangsa
+282,gta,pejuang,pejuang,Khairuddin Abu Hassan,L,11900,KL,Titiwangsa
+283,bn,umno,bn,Johari Abdul Ghani,L,11900,KL,Titiwangsa
+284,ph,pkr,ph,Rafizi Ramli,L,10000,Selangor,Pandan
+285,,warisan,warisan,Ong Tee Keat,L,10000,Selangor,Pandan
+286,pn,pas,pn,Muhammad Farique Zubir Albakri,L,10000,Selangor,Pandan
+287,gta,direct,pejuang,Nadia Hanafiah,P,10000,Selangor,Pandan
+288,bn,mca,bn,Leong Kok Wee,L,10000,Selangor,Pandan
+289,pn,bersatu,pn,Zakri Hassan,L,00200,Perlis,Kangar
+290,bn,umno,bn,Fathul Bari Mat Jahya,L,00200,Perlis,Kangar
+291,,warisan,warisan,Rohimi Shapiee,L,00200,Perlis,Kangar
+292,ph,pkr,ph,Noor Amin Ahmad,L,00200,Perlis,Kangar
+293,gta,pejuang,pejuang,Nur Sulaiman Zolkapli,L,00200,Perlis,Kangar
+294,bn,umno,bn,Jamal Md Yunos,L,09300,Selangor,Sungai Besar
+295,gta,putra,pejuang,Asmawar Samad,L,09300,Selangor,Sungai Besar
+296,pn,bersatu,pn,Muslimin Yahaya,L,09300,Selangor,Sungai Besar
+297,ph,pkr,ph,Saipolyazan Mat Yusop,L,09300,Selangor,Sungai Besar
+298,bn,umno,bn,Mohd Helmy Abd Latif,L,14600,Johor,Muar
+299,pn,pas,pn,Abdullah Husin,L,14600,Johor,Muar
+300,ph,muda,muda,Syed Saddiq Syed Abdul Rahman,L,14600,Johor,Muar
+301,ph,dap,ph,Nga Kor Ming,L,07600,Perak,Teluk Intan
+302,bn,mic,bn,Murugiah Thopasamy,L,07600,Perak,Teluk Intan
+303,gta,iman,pejuang,Amir Khusyairi Mohamad Tanusi,L,07600,Perak,Teluk Intan
+304,pn,bersatu,pn,Zainol Fadzi Paharudin,L,07600,Perak,Teluk Intan
+305,bn,umno,bn,Mohd Isam Mohd Isa,L,13300,Negeri Sembilan,Tampin
+306,gta,berjasa,pejuang,Zamani Ibrahim,L,13300,Negeri Sembilan,Tampin
+307,pn,pas,pn,Abdul Halim Abu Bakar,L,13300,Negeri Sembilan,Tampin
+308,ph,amanah,ph,Muhammad Faiz Fadzil,L,13300,Negeri Sembilan,Tampin
+309,pn,gerakan,pn,Ang Hiang Ni,L,10400,Selangor,Subang
+310,bn,mca,bn,Kow Cheong Wei,L,10400,Selangor,Subang
+311,ph,pkr,ph,Wong Chen,L,10400,Selangor,Subang
+312,gta,putra,pejuang,Hamzah Abd Rahman,L,01700,Kedah,Padang Serai
+313,ph,pkr,ph,M Karupaiya,L,01700,Kedah,Padang Serai
+314,bn,mic,bn,Sivaraj Chandran,L,01700,Kedah,Padang Serai
+315,pn,bersatu,pn,Azman Nasrudin,L,01700,Kedah,Padang Serai
+316,,warisan,warisan,Mohd Bakhri Hashim,L,01700,Kedah,Padang Serai
+317,,ind,ind,Ananda Ak,L,01700,Kedah,Padang Serai
+318,bn,umno,bn,Shamsul Anuar Nasarah,L,05500,Perak,Lenggong
+319,ph,pkr,ph,Jurey Latiff Mohd Rosli,L,05500,Perak,Lenggong
+320,pn,pas,pn,Muhammad Rifaat Razman,L,05500,Perak,Lenggong
+321,pn,bersatu,pn,Abdul Rashid Asari,L,09700,Selangor,Selayang
+322,bn,mca,bn,Chan Wun Hoong,L,09700,Selangor,Selayang
+323,gta,pejuang,pejuang,Salleh Amiruddin,L,09700,Selangor,Selayang
+324,,ind,ind,Muhammad Zaki Omar,L,09700,Selangor,Selayang
+325,ph,pkr,ph,William Leong Jee Keen,L,09700,Selangor,Selayang
+326,,prm,prm,Mohamad Ezam Mohd Nor,L,10500,Selangor,Petaling Jaya
+327,,ind,ind,K J John,L,10500,Selangor,Petaling Jaya
+328,bn,mca,bn,Chew Hian Tat,L,10500,Selangor,Petaling Jaya
+329,gta,direct,pejuang,Mazween Mokhtar,P,10500,Selangor,Petaling Jaya
+330,pn,bersatu,pn,Theng Book,L,10500,Selangor,Petaling Jaya
+331,ph,pkr,ph,Lee Chean Chung,L,10500,Selangor,Petaling Jaya
+332,ph,dap,ph,Steven Sim Chee Keong,L,04500,Penang,Bukit Mertajam
+333,bn,mca,bn,Tan Yang Pang,L,04500,Penang,Bukit Mertajam
+334,pn,pas,pn,Steven Koh Tien Yew,L,04500,Penang,Bukit Mertajam
+335,bn,mca,bn,Saw Yee Fung,P,05200,Penang,Bayan Baru
+336,,warisan,warisan,Jeff Ooi Chuan Aun,L,05200,Penang,Bayan Baru
+337,,prm,prm,Ravinder Singh,L,05200,Penang,Bayan Baru
+338,,ind,ind,Kan Chee Yuen,L,05200,Penang,Bayan Baru
+339,ph,pkr,ph,Sim Tze Tzin,L,05200,Penang,Bayan Baru
+340,pn,gerakan,pn,Oh Tong Keong,L,05200,Penang,Bayan Baru
+341,pn,bersatu,pn,Tan Nam Cha,L,16200,Johor,Iskandar Puteri
+342,bn,mca,bn,Teoh Sew Hock,L,16200,Johor,Iskandar Puteri
+343,ph,dap,ph,Liew Chin Tong,L,16200,Johor,Iskandar Puteri
+344,ph,dap,ph,Syerleena Abdul Rashid,P,04800,Penang,Bukit Bendera
+345,,prm,prm,Teh Yee Cheu,L,04800,Penang,Bukit Bendera
+346,pn,gerakan,pn,Hng Chee Wey,L,04800,Penang,Bukit Bendera
+347,bn,pcm,bn,Richie Huan Xin Yun,L,04800,Penang,Bukit Bendera
+348,,ind,ind,Razalif Zain,L,04800,Penang,Bukit Bendera
+349,gta,putra,pejuang,Syed Hairoul Faizey Syed Ali,L,14000,Johor,Segamat
+350,bn,mic,bn,Ramasamy Muthusamy,L,14000,Johor,Segamat
+351,ph,pkr,ph,Yuneswaran Ramaraj,L,14000,Johor,Segamat
+352,pn,bersatu,pn,Poobalan Ponnusamy,L,14000,Johor,Segamat
+353,pn,pas,pn,Rafiei Mustapha,L,13200,Negeri Sembilan,Port Dickson
+354,bn,mic,bn,P Kamalanathan,L,13200,Negeri Sembilan,Port Dickson
+355,,ind,ind,Rani Kulup,L,13200,Negeri Sembilan,Port Dickson
+356,gta,direct,pejuang,Ahmad Idham Ahmad Nazri,L,13200,Negeri Sembilan,Port Dickson
+357,ph,pkr,ph,Aminuddin Harun,L,13200,Negeri Sembilan,Port Dickson
+358,gta,berjasa,pejuang,Mohamad Nor Sundari,L,08200,Pahang,Indera Mahkota
+359,pn,bersatu,pn,Saifuddin Abdullah,L,08200,Pahang,Indera Mahkota
+360,ph,pkr,ph,Zuraidi Ismail,L,08200,Pahang,Indera Mahkota
+361,bn,mca,bn,Quek Tai Seong,L,08200,Pahang,Indera Mahkota
+362,bn,umno,bn,Ismail Mohamed Said,L,08700,Pahang,Kuala Krau
+363,pn,pas,pn,Kamal Ashaari,L,08700,Pahang,Kuala Krau
+364,ph,amanah,ph,Juhari Osman,L,08700,Pahang,Kuala Krau
+365,gta,pejuang,pejuang,Shahruddin Mohamed Salleh,L,08700,Pahang,Kuala Krau
+366,pn,gerakan,pn,Prabagaran Vythilingam,L,11700,KL,Segambut
+367,bn,mca,bn,Daniel Ling Sia Chin,L,11700,KL,Segambut
+368,ph,dap,ph,Hannah Yeoh Tseow Suan,P,11700,KL,Segambut
+369,bn,umno,bn,Md Salleheen Mohamad,L,14100,Johor,Sekijang
+370,pn,bersatu,pn,Uzzair Ismail,L,14100,Johor,Sekijang
+371,,warisan,warisan,Mohd Zohar Ahmad,L,14100,Johor,Sekijang
+372,ph,pkr,ph,Zaliha Mustafa,P,14100,Johor,Sekijang
+373,gta,putra,pejuang,Muhd Saiful Faizal Abd Halim,L,14100,Johor,Sekijang
+374,gta,putra,pejuang,Zairol Hizam Zakaria,L,07300,Perak,Pasir Salak
+375,ph,pkr,ph,Nik Omar Nik Ab Aziz,L,07300,Perak,Pasir Salak
+376,pn,pas,pn,Jamaluddin Yahya,L,07300,Perak,Pasir Salak
+377,bn,umno,bn,Khairul Azwan Harun,L,07300,Perak,Pasir Salak
+378,bn,umno,bn,Maizatulakmam Othman @ Ibrahim,P,01300,Kedah,Sik
+379,ph,amanah,ph,Latipah Mohamad Yatim,P,01300,Kedah,Sik
+380,pn,pas,pn,Ahmad Tarmizi Sulaiman,L,01300,Kedah,Sik
+381,pn,bersatu,pn,Muhammad Farhan Abdul Rahim,L,07100,Perak,Gopeng
+382,bn,mca,bn,Ting Zhao Song,P,07100,Perak,Gopeng
+383,ph,pkr,ph,Tan Kar Hing,L,07100,Perak,Gopeng
+384,,warisan,warisan,Balachandran Gopal,L,07100,Perak,Gopeng
+385,ph,pkr,ph,Rodziah Ismail,P,09900,Selangor,Ampang
+386,bn,mca,bn,Ivone Low Yi Wen,P,09900,Selangor,Ampang
+387,,ind,ind,M Raveen,L,09900,Selangor,Ampang
+388,,pbm,pbm,Zuraida Kamaruddin,P,09900,Selangor,Ampang
+389,gta,pejuang,pejuang,Nurul Ashikin Mabahwi,P,09900,Selangor,Ampang
+390,,warisan,warisan,Lai Wai Chong,L,09900,Selangor,Ampang
+391,pn,bersatu,pn,Sasha Lyna Abdul Latif,P,09900,Selangor,Ampang
+392,,ind,ind,Muhammad Shafiq Izwan Mohd Yunos,L,09900,Selangor,Ampang
+393,,ind,ind,Tan Hua Meng,L,09900,Selangor,Ampang
+394,bn,umno,bn,Mohd Zaidi Mohd Said,L,04400,Penang,Permatang Pauh
+395,pn,pas,pn,Muhammad Fawwaz Mat Jan,L,04400,Penang,Permatang Pauh
+396,gta,putra,pejuang,Nasir Othman,L,04400,Penang,Permatang Pauh
+397,ph,pkr,ph,Nurul Izzah Anwar,P,04400,Penang,Permatang Pauh
+398,,ind,ind,Abe Wae Redzuan,L,02000,Kelantan,Pengkalan Chepa
+399,ph,amanah,ph,Nik Faizah Nik Othman,P,02000,Kelantan,Pengkalan Chepa
+400,gta,pejuang,pejuang,Wan Ahmad Nasri Wan Ismail,L,02000,Kelantan,Pengkalan Chepa
+401,pn,pas,pas,Ahmad Marzuk Shaary,L,02000,Kelantan,Pengkalan Chepa
+402,bn,umno,bn,Mohd Hafiezulniezam Mohd Hasdin,L,02000,Kelantan,Pengkalan Chepa
+403,bn,umno,bn,Mohamed Khaled Nordin,L,15600,Johor,Kota Tinggi
+404,pn,bersatu,pn,Mohamad Ridhwan Rasman,L,15600,Johor,Kota Tinggi
+405,ph,amanah,ph,Onn Jaafar,L,15600,Johor,Kota Tinggi
+406,ph,amanah,ph,Mohd Sany Hamzan,P,10100,Selangor,Hulu Langat
+407,gta,pejuang,pejuang,Markiman Kobiran,L,10100,Selangor,Hulu Langat
+408,,warisan,warisan,Abdul Rahman Jaafar,L,10100,Selangor,Hulu Langat
+409,bn,umno,bn,Johan Abd Aziz,L,10100,Selangor,Hulu Langat
+410,,ind,ind,Mohamed Mustafa,L,10100,Selangor,Hulu Langat
+411,pn,bersatu,pn,Mohd Radzi Abd Latif,L,10100,Selangor,Hulu Langat
+412,ph,dap,ph,Gobind Singh Deo,L,10600,Selangor,Damansara
+413,pn,gerakan,pn,Lim Si Ching,L,10600,Selangor,Damansara
+414,bn,mca,bn,Tan Gim Tuan,L,10600,Selangor,Damansara
+415,bn,mca,bn,Lee Chee Leong,L,07000,Perak,Kampar
+416,pn,gerakan,pn,Wong Oi Foon,P,07000,Perak,Kampar
+417,ph,dap,ph,Chong Zhemin,L,07000,Perak,Kampar
+418,,warisan,warisan,Leong Cheok Lung,L,07000,Perak,Kampar
+419,ph,dap,ph,Anthony Loke Siew Fook,L,12800,Negeri Sembilan,Seremban
+420,,ind,ind,Izzat Lesly,L,12800,Negeri Sembilan,Seremban
+421,bn,mca,bn,Wong Yin Ting,L,12800,Negeri Sembilan,Seremban
+422,gta,pejuang,pejuang,Mohamad Jani Ismail,L,12800,Negeri Sembilan,Seremban
+423,pn,pas,pn,Mohd Fadli Che Me,L,12800,Negeri Sembilan,Seremban
+424,,prm,prm,Ahmad Jufliz Faiza,L,10700,Selangor,Sungai Buloh
+425,gta,pejuang,pejuang,Mohd Akmal Mohd Yusof,L,10700,Selangor,Sungai Buloh
+426,,ind,ind,Sifu Linda,P,10700,Selangor,Sungai Buloh
+427,bn,umno,bn,Khairy Jamaluddin Abu Bakar,L,10700,Selangor,Sungai Buloh
+428,,ind,ind,Syed Razak Alsagoff,L,10700,Selangor,Sungai Buloh
+429,ph,pkr,ph,Ramanan Ramakrishnan,L,10700,Selangor,Sungai Buloh
+430,pn,pas,pn,Mohd Ghazali Md Hamin,L,10700,Selangor,Sungai Buloh
+431,ph,amanah,ph,Harun Mohamed,L,13900,Melaka,Jasin
+432,bn,umno,bn,Roslan Ahmad,L,13900,Melaka,Jasin
+433,gta,pejuang,pejuang,Mohd Daud Nasir,L,13900,Melaka,Jasin
+434,pn,pas,pn,Zulkifli Ismail,L,13900,Melaka,Jasin
+435,ph,dap,ph,Fatin Zulaikha Zaidi,P,15400,Johor,Mersing
+436,,ind,ind,Ismail Don,L,15400,Johor,Mersing
+437,pn,bersatu,pn,Muhammad Islahuddin Abas,L,15400,Johor,Mersing
+438,gta,pejuang,pejuang,Nurfatimah Ibrahim,P,15400,Johor,Mersing
+439,bn,umno,bn,Abd Latif Bandi,L,15400,Johor,Mersing
+440,ph,pkr,ph,Wan Azizah Wan Ismail,P,12400,KL,Bandar Tun Razak
+441,bn,mca,bn,Chew Yin Keen,L,12400,KL,Bandar Tun Razak
+442,pn,bersatu,pn,Kamaruddin Jaafar,L,12400,KL,Bandar Tun Razak
+443,pn,pas,pn,Idris Ahmad,L,05800,Perak,Bagan Serai
+444,gta,pejuang,pejuang,Ahmad Luqman Ahmad Yahaya,L,05800,Perak,Bagan Serai
+445,bn,umno,bn,Zul Helmi Ghazali,L,05800,Perak,Bagan Serai
+446,ph,pkr,ph,Siti Aishah Shaik Ismail,P,05800,Perak,Bagan Serai
+447,bn,umno,bn,Razali Ibrahim,L,14300,Johor,Pagoh
+448,pn,bersatu,pn,Muhyiddin Yassin,L,14300,Johor,Pagoh
+449,ph,pkr,ph,Iskandar Shah Abd Rahman,L,14300,Johor,Pagoh
+450,bn,umno,bn,Ahmad Jazlan Yaakub,L,02900,Kelantan,Machang
+451,gta,putra,putra,Muhammad Seman,L,02900,Kelantan,Machang
+452,pn,bersatu,pas,Wan Ahmad Fayhsal Wan Ahmad Kamal,L,02900,Kelantan,Machang
+453,ph,pkr,ph,Rosli Allani Abdul Kadir,L,02900,Kelantan,Machang
+454,bn,mca,bn,Neow Choo Seong,L,06000,Perak,Taiping
+455,,ind,ind,Mohganan P Manikam,L,06000,Perak,Taiping
+456,ph,dap,ph,Wong Kah Woh,L,06000,Perak,Taiping
+457,pn,gerakan,pn,See Tean Seng,L,06000,Perak,Taiping
+458,,ind,ind,Rama,L,06000,Perak,Taiping
+459,,ind,ind,Leow Thye Yih,L,06000,Perak,Taiping
+460,pn,pas,pas,Abdul Hadi Awang,L,03700,Terengganu,Marang
+461,bn,umno,bn,Jasmira Othman,L,03700,Terengganu,Marang
+462,gta,putra,pejuang,Zarawi Sulong,L,03700,Terengganu,Marang
+463,ph,amanah,ph,Azhar Ab Shukur,L,03700,Terengganu,Marang
+464,bn,mca,bn,Wee Ka Siong,L,14800,Johor,Ayer Hitam
+465,ph,dap,ph,Sheikh Umar Bagharib Ali,L,14800,Johor,Ayer Hitam
+466,pn,bersatu,pn,Muhammad Syafiq A Aziz,L,14800,Johor,Ayer Hitam
+467,pn,bersatu,pn,Asmawi Harun,L,09000,Pahang,Bera
+468,bn,umno,bn,Ismail Sabri Yaakob,L,09000,Pahang,Bera
+469,ph,pkr,ph,Abbas Salleh,L,09000,Pahang,Bera
+470,bn,umno,bn,Rozi Mamat,L,03800,Terengganu,Hulu Terengganu
+471,gta,putra,pejuang,Mohd Khadri Abdullah,L,03800,Terengganu,Hulu Terengganu
+472,pn,bersatu,pas,Rosol Wahid,L,03800,Terengganu,Hulu Terengganu
+473,ph,pkr,ph,Alias Ismail,L,03800,Terengganu,Hulu Terengganu
+474,ph,amanah,ph,Aminolhuda Hassan,L,14900,Johor,Sri Gading
+475,pn,pas,pn,Zanariyah Abdul Hamid,P,14900,Johor,Sri Gading
+476,bn,umno,bn,Mohd Lassim Burhan,L,14900,Johor,Sri Gading
+477,gta,pejuang,pejuang,Mahdzir Ibrahim,L,14900,Johor,Sri Gading
+478,pn,pas,pas,Che Mohamad Zulkifly Jusoh,L,03300,Terengganu,Besut
+479,gta,pejuang,pejuang,Wan Nazari Wan Jusoh,L,03300,Terengganu,Besut
+480,ph,amanah,ph,Abd Rahman @ Abd Aziz Abas,L,03300,Terengganu,Besut
+481,bn,umno,bn,Nawi Mohamad,L,03300,Terengganu,Besut
+482,gta,pejuang,pejuang,Mohamad Nuhairi Rahmat,L,00900,Kedah,Alor Setar
+483,pn,pas,pn,Afnan Hamimi Taib Azamuddin,L,00900,Kedah,Alor Setar
+484,,warisan,warisan,Fadzil Hanafi,L,00900,Kedah,Alor Setar
+485,ph,pkr,ph,Simon Ooi Tze Min,L,00900,Kedah,Alor Setar
+486,,ind,ind,Nordin Yunus,L,00900,Kedah,Alor Setar
+487,,ind,ind,Sofan Feroza,L,00900,Kedah,Alor Setar
+488,bn,mca,bn,Tan Chee Hiong,L,00900,Kedah,Alor Setar
+489,,warisan,warisan,Khairul Anuar Ahmad,L,01400,Kedah,Merbok
+490,bn,umno,bn,Shaiful Hazizy Zainol Abidin,L,01400,Kedah,Merbok
+491,ph,pkr,ph,Nor Azrina Surip,P,01400,Kedah,Merbok
+492,pn,bersatu,pn,Mohd Nazri Abu Hassan,L,01400,Kedah,Merbok
+493,gta,iman,pejuang,Mohamed Mosin Abdul Razak,L,01400,Kedah,Merbok
+494,bn,umno,bn,Noraini Ahmad,P,14700,Johor,Parit Sulong
+495,pn,pas,pn,Abdul Karim Deraman,L,14700,Johor,Parit Sulong
+496,ph,amanah,ph,Mohd Faizal Dolah,L,14700,Johor,Parit Sulong
+497,bn,umno,bn,Noor Azleen Ambros,L,15900,Johor,Pasir Gudang
+498,ph,pkr,ph,Hassan Abdul Karim,L,15900,Johor,Pasir Gudang
+499,pn,bersatu,pn,Mohamad Farid Abdul Razak,L,15900,Johor,Pasir Gudang
+500,gta,iman,pejuang,Mohammad Rafi Beran,L,15900,Johor,Pasir Gudang
+501,bn,mca,bn,Gan Ping Sieu,L,15200,Johor,Kluang
+502,ph,dap,ph,Wong Shu Qi,P,15200,Johor,Kluang
+503,,ind,ind,U Ramendran,L,15200,Johor,Kluang
+504,pn,bersatu,pn,Dzulkarnain Alias,L,15200,Johor,Kluang
+505,,ind,ind,Hamizi Hussain,L,09100,Pahang,Rompin
+506,bn,umno,bn,Hasan Arifin,L,09100,Pahang,Rompin
+507,pn,bersatu,pn,Abdul Khalib Abdullah,L,09100,Pahang,Rompin
+508,ph,pkr,ph,Erman Shah Jaios,L,09100,Pahang,Rompin
+509,pn,bersatu,pn,Mohamad Shahrum Osman,L,07900,Pahang,Lipis
+510,gta,pejuang,pejuang,Aishaton Abu Bakar,P,07900,Pahang,Lipis
+511,ph,dap,ph,Tengku Zulpuri Shah Raja Puji,L,07900,Pahang,Lipis
+512,bn,umno,bn,Abdul Rahman Mohamad,L,07900,Pahang,Lipis
+513,ph,pkr,ph,Azman Ismail,L,01000,Kedah,Kuala Kedah
+514,,warisan,warisan,Syed Araniri Syed Ahmad,L,01000,Kedah,Kuala Kedah
+515,gta,pejuang,pejuang,Ulya Aqamah Husamudin,L,01000,Kedah,Kuala Kedah
+516,pn,pas,pn,Ahmad Fakhruddin Fakhrurazi,L,01000,Kedah,Kuala Kedah
+517,bn,umno,bn,Mashitah Ibrahim,P,01000,Kedah,Kuala Kedah
+518,bn,umno,bn,Hishammuddin Hussein,L,15300,Johor,Sembrong
+519,ph,pkr,ph,Hasni Abas,L,15300,Johor,Sembrong
+520,pn,bersatu,pn,Aziz Ismail,L,15300,Johor,Sembrong
+521,pn,pas,pn,Abd Ghani Ahmad,L,00500,Kedah,Jerlun
+522,gta,pejuang,pejuang,Mukhriz Mahathir,L,00500,Kedah,Jerlun
+523,ph,pkr,ph,Fadzil Ali Mohd Ali,L,00500,Kedah,Jerlun
+524,bn,umno,bn,Othman Aziz,L,00500,Kedah,Jerlun
+525,bn,umno,bn,Asyraf Wajdi Dusuki,L,05400,Perak,Gerik
+526,pn,bersatu,pn,Fathul Huzir Ayob,L,05400,Perak,Gerik
+527,ph,dap,ph,Ahmad Tarmizi Mohd Jam,L,05400,Perak,Gerik
+528,ph,pkr,ph,Anwar Ibrahim,L,06300,Perak,Tambun
+529,bn,umno,bn,Aminuddin Md Hanafiah,L,06300,Perak,Tambun
+530,gta,pejuang,pejuang,Abdul Rahim Tahir,L,06300,Perak,Tambun
+531,pn,bersatu,pn,Ahmad Faizal Azumu,L,06300,Perak,Tambun
+532,ph,dap,ph,Rsn Rayer,L,05000,Penang,Jelutong
+533,pn,gerakan,pn,Baljit Singh Jigiri,L,05000,Penang,Jelutong
+534,,prm,prm,Koh Swe Yong,L,05000,Penang,Jelutong
+535,,ind,ind,Yacoob Noor,L,05000,Penang,Jelutong
+536,bn,ipf,bn,Loganathan Thoraisamy,L,05000,Penang,Jelutong
+537,,warisan,warisan,Lim Huat Poh,L,05000,Penang,Jelutong
+538,ph,pkr,ph,Rahimi Muhamad,L,02600,Kelantan,Ketereh
+539,bn,umno,bn,Marzuani Ardila Ariffin,P,02600,Kelantan,Ketereh
+540,pn,pas,pas,Khlir Mohd Nor,L,02600,Kelantan,Ketereh
+541,gta,putra,putra,Hanif Ibrahim,L,02600,Kelantan,Ketereh
+542,bn,umno,bn,Ramli Mohd Nor,L,07800,Pahang,Cameron Highlands
+543,pn,bersatu,pn,Abdul Rasid Mohamed,L,07800,Pahang,Cameron Highlands
+544,ph,dap,ph,Chiong Yoke Kong,L,07800,Pahang,Cameron Highlands
+545,gta,berjasa,pejuang,Auzaie Fadzlan Shahidi,L,05600,Perak,Larut
+546,ph,amanah,ph,Zolkarnain Abidin,L,05600,Perak,Larut
+547,bn,umno,bn,Mohd Shariq Fhadly Mahmud,L,05600,Perak,Larut
+548,pn,bersatu,pn,Hamzah Zainudin,L,05600,Perak,Larut
+549,ph,pkr,ph,K Saraswathy,P,07200,Perak,Tapah
+550,pn,bersatu,pn,Muhammad Yadzan Mohammad,L,07200,Perak,Tapah
+551,,warisan,warisan,Mohamed Akbar Sherrif Ali Yasin,L,07200,Perak,Tapah
+552,bn,mic,bn,M Saravanan,L,07200,Perak,Tapah
+553,,ind,ind,M Kathiravan,L,07200,Perak,Tapah
+554,gta,pejuang,pejuang,Mior Nor Haidir Suhaimi,L,07200,Perak,Tapah
+555,,ind,ind,Azlinda Baroni,P,09400,Selangor,Hulu Selangor
+556,bn,mic,bn,T Mohan,L,09400,Selangor,Hulu Selangor
+557,gta,pejuang,pejuang,Harumaini Omar,L,09400,Selangor,Hulu Selangor
+558,ph,pkr,ph,Sathia Prakash Nadarajan,L,09400,Selangor,Hulu Selangor
+559,,pbm,pbm,Haniza Talha,P,09400,Selangor,Hulu Selangor
+560,pn,pas,pn,Mohd Hasnizan Harun,L,09400,Selangor,Hulu Selangor
+561,bn,mca,bn,Tan Chuan Hong,L,04300,Penang,Bagan
+562,ph,dap,ph,Lim Guan Eng,L,04300,Penang,Bagan
+563,pn,bersatu,pn,Alan Oh Teik Choon,L,04300,Penang,Bagan
+564,gta,iman,pejuang,Mohammed Hafiz Mohamed Abu Bakar,L,04300,Penang,Bagan
+565,,ind,ind,Shahrul Amri Mat Sari,L,11300,Selangor,Sepang
+566,gta,pejuang,pejuang,Che Asmah Ibrahim,P,11300,Selangor,Sepang
+567,,pur,pur,Daud Leong,L,11300,Selangor,Sepang
+568,ph,amanah,ph,Raj Munni @ Aiman Athirah,P,11300,Selangor,Sepang
+569,,ind,ind,M Muneswaran,L,11300,Selangor,Sepang
+570,pn,bersatu,pn,Rina Harun,P,11300,Selangor,Sepang
+571,bn,umno,bn,Anuar Basiran,L,11300,Selangor,Sepang
+572,,prm,prm,R Nageswaran,L,11300,Selangor,Sepang
+573,ph,pkr,ph,Mohammed Taufik Johari,L,01500,Kedah,Sungai Petani
+574,,prm,prm,Tan Chow Kang,L,01500,Kedah,Sungai Petani
+575,gta,pejuang,pejuang,Marzuki Yahya,L,01500,Kedah,Sungai Petani
+576,pn,bersatu,pn,Robert Ling Kui Ee,L,01500,Kedah,Sungai Petani
+577,bn,umno,bn,Shahanim Mohamad Yusoff,P,01500,Kedah,Sungai Petani
+578,bn,umno,bn,Mohd Sharkar Shamsudin,L,08800,Pahang,Temerloh
+579,pn,pas,pn,Salamiah Mohd Nor,P,08800,Pahang,Temerloh
+580,ph,amanah,ph,Mohd Hasbie Muda,L,08800,Pahang,Temerloh
+581,gta,direct,pejuang,Aminuddin Yahaya,L,08800,Pahang,Temerloh
+582,bn,mca,bn,Lee Kah Hing,L,12200,KL,Seputeh
+583,pn,gerakan,pn,Alan Wong Yee Yeng,L,12200,KL,Seputeh
+584,,ind,ind,Choy San Yeh,P,12200,KL,Seputeh
+585,ph,dap,ph,Teresa Kok Suh Sim,P,12200,KL,Seputeh
+586,,ind,ind,Lee Wai Hong,L,12200,KL,Seputeh
+587,gta,putra,pejuang,Kamarulzaman Kamdias,L,12900,Negeri Sembilan,Kuala Pilah
+588,pn,bersatu,pn,Eddin Syazlee Shith,L,12900,Negeri Sembilan,Kuala Pilah
+589,,warisan,warisan,Azman bin Idris,L,12900,Negeri Sembilan,Kuala Pilah
+590,ph,pkr,ph,Nor Azman Mohamad,L,12900,Negeri Sembilan,Kuala Pilah
+591,bn,umno,bn,Adnan Abu Hassan,L,12900,Negeri Sembilan,Kuala Pilah
+592,ph,pkr,ph,Adam Adli,L,13700,Melaka,Hang Tuah Jaya
+593,gta,pejuang,pejuang,Sheikh Ikhzan Sheikh Salleh,L,13700,Melaka,Hang Tuah Jaya
+594,bn,umno,bn,Mohd Ridhwan Mohd Ali,L,13700,Melaka,Hang Tuah Jaya
+595,pn,bersatu,pn,Mohd Azrudin Md Idris,L,13700,Melaka,Hang Tuah Jaya
+596,ph,pkr,ph,Onn Abu Bakar,L,15000,Johor,Batu Pahat
+597,,prm,prm,Zahari Osman,L,15000,Johor,Batu Pahat
+598,bn,umno,bn,Ishak @ Mohd Farid Siraj,L,15000,Johor,Batu Pahat
+599,gta,pejuang,pejuang,Nizam Bashir Abdul Kariem Bashir,L,15000,Johor,Batu Pahat
+600,pn,bersatu,pn,Rashid Hasnon,L,15000,Johor,Batu Pahat
+601,bn,mca,bn,Chua Jian Boon,L,16300,Johor,Kulai
+602,ph,dap,ph,Teo Nie Ching,P,16300,Johor,Kulai
+603,pn,gerakan,pn,Tan Chin Hock,L,16300,Johor,Kulai
+604,gta,pejuang,pejuang,Rosli Ab Ghani,L,04000,Terengganu,Kemaman
+605,pn,pas,pas,Che Alias Hamid,L,04000,Terengganu,Kemaman
+606,bn,umno,bn,Ahmad Said,L,04000,Terengganu,Kemaman
+607,ph,pkr,ph,Hasuni Sudin,L,04000,Terengganu,Kemaman
+608,ph,amanah,ph,Johari Abdullah,L,01600,Kedah,Baling
+609,gta,putra,pejuang,Basir Ab Rahman,L,01600,Kedah,Baling
+610,bn,umno,bn,Abdul Azeez Abdul Rahim,L,01600,Kedah,Baling
+611,pn,pas,pn,Hassan Saad,L,01600,Kedah,Baling
+612,ph,pkr,ph,Fathin Amelina Fazlie,P,00300,Perlis,Arau
+613,pn,direct,pn,Shahidan Kassim,L,00300,Perlis,Arau
+614,bn,umno,bn,Rozabil Abd Rahman,L,00300,Perlis,Arau
+615,bn,umno,bn,Abdul Rahman Mat Yasin,L,03400,Terengganu,Setiu
+616,pn,pas,pas,Shaharizukirnain Abd Kadir,L,03400,Terengganu,Setiu
+617,ph,pkr,ph,Mohamad Ngah,L,03400,Terengganu,Setiu
+618,gta,pejuang,pejuang,Wan Adnan Wan Ali,L,03400,Terengganu,Setiu
+619,gta,putra,pejuang,Ahmad Fakri Abu Samah,L,12600,Negeri Sembilan,Jelebu
+620,bn,umno,bn,Jalaluddin Alias,L,12600,Negeri Sembilan,Jelebu
+621,ph,amanah,ph,Zulkefly Mohamad Omar,L,12600,Negeri Sembilan,Jelebu
+622,pn,bersatu,pn,Zaharuddin Baba Samion,L,12600,Negeri Sembilan,Jelebu
+623,bn,umno,bn,Shah Headan Ayoob Hussain Shah,L,05300,Penang,Balik Pulau
+624,ph,pkr,ph,Muhammad Bakhtiar Wan Chik,L,05300,Penang,Balik Pulau
+625,,ind,ind,Johnny,L,05300,Penang,Balik Pulau
+626,pn,bersatu,pn,Muhammad Harris Idaham Abdul Rashid,L,05300,Penang,Balik Pulau
+627,,ind,ind,Sabaruddin Ahmad,L,05300,Penang,Balik Pulau
+628,gta,pejuang,pejuang,Fazli Mohammad,L,05300,Penang,Balik Pulau
+629,bn,mca,bn,Teoh Chin Chong,L,06600,Perak,Batu Gajah
+630,ph,dap,ph,V Sivakumar,L,06600,Perak,Batu Gajah
+631,pn,gerakan,pn,Woo Cheong Yuen,L,06600,Perak,Batu Gajah
+632,ph,dap,ph,Yeo Bee Yin,P,10300,Selangor,Puchong
+633,,ind,ind,Kuan Chee Heng,L,10300,Selangor,Puchong
+634,bn,kimma,bn,Syed Ibrahim Kader,L,10300,Selangor,Puchong
+635,pn,gerakan,pn,Chew Jyh Gang,L,10300,Selangor,Puchong
+636,,ind,ind,Achik Khalil,L,08900,Pahang,Bentong
+637,ph,dap,ph,Young Syefura Othman,P,08900,Pahang,Bentong
+638,bn,mca,bn,Liow Tiong Lai,L,08900,Pahang,Bentong
+639,pn,bersatu,pn,Roslan Hassan,L,08900,Pahang,Bentong
+640,,ind,ind,Wong Tack,L,08900,Pahang,Bentong
+641,pn,pas,pn,Rusydan Rusmi,L,00100,Perlis,Padang Besar
+642,,warisan,warisan,Ko Chu Liang,L,00100,Perlis,Padang Besar
+643,,ind,ind,Zahidi Zainul Abidin,L,00100,Perlis,Padang Besar
+644,bn,umno,bn,Zahida Zarik Khan,P,00100,Perlis,Padang Besar
+645,ph,amanah,ph,Mohamad Saad @ Yahya,L,00100,Perlis,Padang Besar
+646,ph,pkr,ph,Husam Musa,L,02200,Kelantan,Pasir Mas
+647,pn,pas,pas,Ahmad Fadhli Shaari,L,02200,Kelantan,Pasir Mas
+648,bn,umno,bn,Ab Ghani Harun,L,02200,Kelantan,Pasir Mas
+649,gta,putra,putra,Nasrul Ali Hasan Abdul Latif,L,02200,Kelantan,Pasir Mas
+650,pn,bersatu,pn,Chelvarajan R. Suppiah,L,14500,Johor,Bakri
+651,bn,mca,bn,Lee Ching Yong,L,14500,Johor,Bakri
+652,ph,dap,ph,Tan Hong Pin,L,14500,Johor,Bakri
+653,,ind,ind,Haron Jaffar,L,14500,Johor,Bakri
+654,ph,pkr,ph,Zahir Hassan,L,11600,KL,Wangsa Maju
+655,,warisan,warisan,Wee Choo Keong,L,11600,KL,Wangsa Maju
+656,bn,umno,bn,Mohd Shafei Abdullah,L,11600,KL,Wangsa Maju
+657,,ind,ind,Ravee Suntheralingam,L,11600,KL,Wangsa Maju
+658,pn,pas,pn,Nuridah Mohd Salleh,P,11600,KL,Wangsa Maju
+659,gta,putra,pejuang,Norzaila Arifin,P,11600,KL,Wangsa Maju
+660,,prm,prm,Lee Ah Leong,L,04600,Penang,Batu Kawan
+661,ph,dap,ph,Chow Kon Yeow,L,04600,Penang,Batu Kawan
+662,bn,mca,bn,Tan Lee Huat,L,04600,Penang,Batu Kawan
+663,pn,gerakan,pn,Wong Chia Zhen,L,04600,Penang,Batu Kawan
+664,,warisan,warisan,Ong Chin Wen,L,04600,Penang,Batu Kawan
+665,pn,pas,pn,Muhammad Ismi Mat Taib,L,06900,Perak,Parit
+666,ph,amanah,ph,Nurthaqaffah Nordin,P,06900,Perak,Parit
+667,bn,umno,bn,Mohd Nizar Zakaria,L,06900,Perak,Parit
+668,gta,pejuang,pejuang,Faizol Fadzli Mohamad,L,06900,Perak,Parit
+669,ph,dap,ph,Lim Hui Ying,P,04900,Penang,Tanjong
+670,bn,mca,bn,Tan Kim Nee,P,04900,Penang,Tanjong
+671,pn,gerakan,pn,H'ng Khoon Leng,L,04900,Penang,Tanjong
+672,ph,amanah,ph,Azli Yusof,L,10800,Selangor,Shah Alam
+673,gta,pejuang,pejuang,Muhammad Rafique Rashid Ali,L,10800,Selangor,Shah Alam
+674,bn,umno,bn,Hizatul Isham Abdul Jalil,L,10800,Selangor,Shah Alam
+675,pn,bersatu,pn,Afif Bahardin,L,10800,Selangor,Shah Alam
+676,pn,pas,pn,Muhammad Nazrul Hakim Md Nazir,L,10200,Selangor,Bangi
+677,,ind,ind,Jamal,L,10200,Selangor,Bangi
+678,bn,mca,bn,Hoh Hee Lee,L,10200,Selangor,Bangi
+679,,ind,ind,Fauzi Hasim,L,10200,Selangor,Bangi
+680,,ind,ind,Suthan M,L,10200,Selangor,Bangi
+681,,prm,prm,Chee Chee Meng,L,10200,Selangor,Bangi
+682,ph,dap,ph,Syahredzan Johan,L,10200,Selangor,Bangi
+683,gta,berjasa,pejuang,Annuar Salleh,L,10200,Selangor,Bangi
+684,pn,bersatu,pn,Fairulnizar Rahmat,L,15700,Johor,Pengerang
+685,bn,umno,bn,Azalina Othman Said,P,15700,Johor,Pengerang
+686,ph,amanah,ph,Che Zakaria Mohd Salleh,L,15700,Johor,Pengerang
+687,ph,pkr,ph,Syed Ibrahim Syed Nor,L,14400,Johor,Ledang
+688,,ind,ind,Zainal Bahrom,L,14400,Johor,Ledang
+689,,ind,ind,Yunus,L,14400,Johor,Ledang
+690,gta,pejuang,pejuang,Rafidah Ridwan,P,14400,Johor,Ledang
+691,bn,umno,bn,Hamim Samuri,L,14400,Johor,Ledang
+692,pn,bersatu,pn,Zaidi Abd Majid,L,14400,Johor,Ledang
+693,bn,umno,bn,Tengku Zafrul Tengku Abdul Aziz,L,09600,Selangor,Kuala Selangor
+694,gta,pejuang,pejuang,Mohd Shaid Rosli,L,09600,Selangor,Kuala Selangor
+695,ph,amanah,ph,Dzulkefly Ahmad,L,09600,Selangor,Kuala Selangor
+696,pn,pas,pn,Mohd Noor Mohd Sahar,L,09600,Selangor,Kuala Selangor
+697,bn,umno,bn,Shahril Sufian Hamdan,L,13500,Melaka,Alor Gajah
+698,ph,amanah,ph,Adly Zahari,L,13500,Melaka,Alor Gajah
+699,pn,bersatu,pn,Mohd Redzuan Md Yusof,L,13500,Melaka,Alor Gajah
+700,gta,berjasa,pejuang,Muhammad Nazriq Abdul Rahman,L,13500,Melaka,Alor Gajah
+701,,ind,ind,Ghazali,L,03900,Terengganu,Dungun
+702,gta,pejuang,pejuang,Nur Aisah Hassan,P,03900,Terengganu,Dungun
+703,ph,pkr,ph,Mohd Johari Mohamad,L,03900,Terengganu,Dungun
+704,bn,umno,bn,Nurhisam Johari,L,03900,Terengganu,Dungun
+705,pn,pas,pas,Wan Hassan Mohd Ramli,L,03900,Terengganu,Dungun
+706,,ind,ind,Jamaluddin Mohd Radzi,L,07700,Perak,Tanjong Malim
+707,,ind,ind,Izzat Johari,L,07700,Perak,Tanjong Malim
+708,ph,pkr,ph,Chang Lih Kang,L,07700,Perak,Tanjong Malim
+709,bn,mca,bn,Mah Hang Soon,L,07700,Perak,Tanjong Malim
+710,pn,bersatu,pn,Nolee Ashilin Mohammed Radzi,P,07700,Perak,Tanjong Malim
+711,gta,iman,pejuang,Amir Hamzah Abdul Razak,L,07700,Perak,Tanjong Malim
+712,,warisan,warisan,Noraini Md Salleh,P,00800,Kedah,Pokok Sena
+713,pn,pas,pn,Ahmad Saad @ Yahaya,L,00800,Kedah,Pokok Sena
+714,bn,umno,bn,Noran Zamini Jamaluddin,L,00800,Kedah,Pokok Sena
+715,ph,amanah,ph,Mahfuz Omar,L,00800,Kedah,Pokok Sena
+716,ph,dap,ph,Zulhazmi Shariff,L,01200,Kedah,Jerai
+717,bn,umno,bn,Jamil Khir Baharom,L,01200,Kedah,Jerai
+718,pn,pas,pn,Sabri Azit,L,01200,Kedah,Jerai
+719,gta,direct,pejuang,Mohd Nizam Mahshar,L,01200,Kedah,Jerai
+720,pn,bersatu,pn,Najwah Halimah Ab Alim,P,16500,Johor,Tanjung Piai
+721,bn,mca,bn,Wee Jeck Seng,L,16500,Johor,Tanjung Piai
+722,ph,muda,muda,Lim Wei Jiet,L,16500,Johor,Tanjung Piai
+723,ph,pkr,ph,Nik Nazmi Nik Ahmad,L,11800,KL,Setiawangsa
+724,gta,pejuang,pejuang,Bibi Sunita Sakandar Khan,P,11800,KL,Setiawangsa
+725,bn,umno,bn,Izudin Ishak,L,11800,KL,Setiawangsa
+726,,ind,ind,Stanley Lim Yen Tiong,L,11800,KL,Setiawangsa
+727,,ind,ind,Mior Rosli,L,11800,KL,Setiawangsa
+728,pn,bersatu,pn,Nurul Fadzilah Kamaluddin,P,11800,KL,Setiawangsa
+729,gta,putra,putra,Ibrahim Ali,L,02300,Kelantan,Rantau Panjang
+730,pn,pas,pas,Siti Zailah Mohd Yusoff,P,02300,Kelantan,Rantau Panjang
+731,,prm,prm,Datuk Zain,L,02300,Kelantan,Rantau Panjang
+732,bn,umno,bn,Zulkarnain Yusoff,L,02300,Kelantan,Rantau Panjang
+733,ph,amanah,ph,Wan Shah Jihan Wan Din,L,02300,Kelantan,Rantau Panjang
+734,bn,umno,bn,Benedict Asmat,L,18300,Sabah,Beluran
+735,,warisan,warisan,Rowiena Rasid,P,18300,Sabah,Beluran
+736,gta,pejuang,pejuang,Hausing Sudin @ Samsudin,L,18300,Sabah,Beluran
+737,pn,bersatu,pn,Ronald Kiandee,L,18300,Sabah,Beluran
+738,ph,upko,ph,Felix Joseph Saang,L,18300,Sabah,Beluran
+739,,warisan,warisan,Mohd Azis Jamman,L,17100,Sabah,Sepanggar
+740,bn,umno,bn,Yakub Khan,L,17100,Sabah,Sepanggar
+741,gta,pejuang,pejuang,Yusof Kunchang,L,17100,Sabah,Sepanggar
+742,ph,pkr,ph,Mustapha Sakmud,L,17100,Sabah,Sepanggar
+743,,kdm,kdm,Jumardie Lukman,L,17100,Sabah,Sepanggar
+744,ph,pkr,ph,Arastam Pandorog,L,18900,Sabah,Semporna
+745,,warisan,warisan,Shafie Apdal,L,18900,Sabah,Semporna
+746,grs,bersatu,grs,Nixon Abdul Habi,L,18900,Sabah,Semporna
+747,gta,pejuang,pejuang,Ab Rajik Ab Hamid,L,18900,Sabah,Semporna
+748,grs,bersatu,grs,Matbali Musa,L,17800,Sabah,Sipitang
+749,ph,amanah,ph,Lahirul Latigu,L,17800,Sabah,Sipitang
+750,,warisan,warisan,Adnan Okk Puteh,L,17800,Sabah,Sipitang
+751,gta,pejuang,pejuang,Nur Aini Abdul Rahman,P,19100,Sabah,Kalabakan
+752,bn,umno,bn,Andi Muhammad Suryady Bandy,L,19100,Sabah,Kalabakan
+753,,warisan,warisan,Ma'mun Sulaiman,L,19100,Sabah,Kalabakan
+754,,ind,ind,Muhamad,L,19100,Sabah,Kalabakan
+755,ph,pkr,ph,Noraini Abd Ghapur,P,19100,Sabah,Kalabakan
+756,ph,pkr,ph,Dikin Musah,L,17700,Sabah,Beaufort
+757,,ind,ind,Matlani Sabli,L,17700,Sabah,Beaufort
+758,,ind,ind,Johan @ Christopher O T Ghani,L,17700,Sabah,Beaufort
+759,,warisan,warisan,Masri Adul,L,17700,Sabah,Beaufort
+760,bn,umno,bn,Siti Aminah Aching,P,17700,Sabah,Beaufort
+761,,kdm,kdm,Johair Mat Lani,P,17700,Sabah,Beaufort
+762,ph,pkr,ph,Awang Husaini Sahari,L,17300,Sabah,Putatan
+763,bn,umno,bn,Shahelmey Yahya,L,17300,Sabah,Putatan
+764,gta,iman,pejuang,Poyne B Tudus @ Patrick Payne,L,17300,Sabah,Putatan
+765,,warisan,warisan,Ahmad Mohd Said,L,17300,Sabah,Putatan
+766,grs,bersatu,grs,Ruddy Awah,L,16700,Sabah,Kudat
+767,gta,pejuang,pejuang,Nur Alya Humairah Usun Abdullah,P,16700,Sabah,Kudat
+768,,warisan,warisan,Abdul Rashid Abdul Harun,L,16700,Sabah,Kudat
+769,,ind,ind,Verdon Bahanda,L,16700,Sabah,Kudat
+770,ph,pkr,ph,Thonny Chee,L,16700,Sabah,Kudat
+771,,pprs,pprs,Nordin Khani,L,18400,Sabah,Libaran
+772,ph,upko,ph,Peter Jr Naintin,L,18400,Sabah,Libaran
+773,,ind,ind,Amdan Tumpong,L,18400,Sabah,Libaran
+774,gta,pejuang,pejuang,Jeffri @ Amat Pudang,L,18400,Sabah,Libaran
+775,,warisan,warisan,Sh Bokrata Sh Hassan,L,18400,Sabah,Libaran
+776,bn,umno,bn,Suhaimi Nasir,L,18400,Sabah,Libaran
+777,ph,dap,ph,Oscar Sia Yu Hock,L,18800,Sabah,Lahad Datu
+778,,warisan,warisan,Mohammad Yusof Apdal,L,18800,Sabah,Lahad Datu
+779,bn,umno,bn,Maizatul Akmam Alawi,P,18800,Sabah,Lahad Datu
+780,ph,dap,ph,Grelydia Gillod,P,18000,Sabah,Keningau
+781,,warisan,warisan,Rasinin Koutis @ Kautis,L,18000,Sabah,Keningau
+782,grs,star,grs,Jeffrey Kitingan,L,18000,Sabah,Keningau
+783,,kdm,kdm,Jake Nointin,L,18000,Sabah,Keningau
+784,,warisan,warisan,Amanda Yeo Yan Yin,P,17200,Sabah,Kota Kinabalu
+785,,ind,ind,Marcel Jude,L,17200,Sabah,Kota Kinabalu
+786,,kdm,kdm,Winston Liaw Kit Siong,L,17200,Sabah,Kota Kinabalu
+787,ph,dap,ph,Chan Foong Hin,L,17200,Sabah,Kota Kinabalu
+788,grs,pbs,grs,Yee Tsai Yiew,P,17200,Sabah,Kota Kinabalu
+789,,ind,ind,Peter Hii,L,18600,Sabah,Sandakan
+790,,ind,ind,Syeikh Lokeman,L,18600,Sabah,Sandakan
+791,grs,sapp,grs,Thomas Lau Chee Keong,L,18600,Sabah,Sandakan
+792,ph,dap,ph,Vivian Wong Shir Yee,P,18600,Sabah,Sandakan
+793,,warisan,warisan,Alex Thien Chin Qiang,L,18600,Sabah,Sandakan
+794,,ind,ind,Lita Tan Abdullah,P,18600,Sabah,Sandakan
+795,gta,pejuang,pejuang,Jamani Derimin @ Gampalid,L,18200,Sabah,Pensiangan
+796,,warisan,warisan,Siti Noorhasmahwatty Osman,L,18200,Sabah,Pensiangan
+797,,kdm,kdm,Jekerison Kilan,L,18200,Sabah,Pensiangan
+798,ph,pkr,ph,Sangkar Rasam,L,18200,Sabah,Pensiangan
+799,bn,pbrs,bn,Arthur Joseph Kurup,L,18200,Sabah,Pensiangan
+800,ph,dap,ph,Liau Fui Fui,P,18500,Sabah,Batu Sapi
+801,,ind,ind,Othman Ahmad,L,18500,Sabah,Batu Sapi
+802,gta,putra,pejuang,Boni Yusuf Abdullah,L,18500,Sabah,Batu Sapi
+803,,warisan,warisan,Alias Sani,L,18500,Sabah,Batu Sapi
+804,grs,bersatu,grs,Khairul Firdaus Akbarkhan,L,18500,Sabah,Batu Sapi
+805,gta,pejuang,pejuang,Nicholas Sylvester,L,17500,Sabah,Papar
+806,,ind,ind,Norbert Chin,L,17500,Sabah,Papar
+807,ph,dap,ph,Henry Shim Chee On,L,17500,Sabah,Papar
+808,,ind,ind,Johnny Sitamin,L,17500,Sabah,Papar
+809,,warisan,warisan,Ahmad Hassan,L,17500,Sabah,Papar
+810,grs,bersatu,grs,Amirzan Mohd Ali,L,17500,Sabah,Papar
+811,,warisan,warisan,Mohd Ismail Ayob,P,18700,Sabah,Kinabatangan
+812,bn,umno,bn,Bung Moktar Radin,L,18700,Sabah,Kinabatangan
+813,,warisan,warisan,Chen Ket Chuin,L,19000,Sabah,Tawau
+814,,ind,ind,Chin Chee Syn,L,19000,Sabah,Tawau
+815,,ind,ind,Mohd Salleh Bacho,L,19000,Sabah,Tawau
+816,ph,pkr,ph,Christina Liew Chin Jin,P,19000,Sabah,Tawau
+817,gta,pejuang,pejuang,Herman Amdas,L,19000,Sabah,Tawau
+818,grs,pbs,grs,Lo Su Fui,L,19000,Sabah,Tawau
+819,ph,upko,ph,Wilfred Madius Tangau,L,17000,Sabah,Tuaran
+820,,ind,ind,Boby Lewat,L,17000,Sabah,Tuaran
+821,,ind,ind,Noortaip Suhaili @ Sualee,L,17000,Sabah,Tuaran
+822,,warisan,warisan,Jo-anna Sue Henly Rampas,P,17000,Sabah,Tuaran
+823,gta,pejuang,pejuang,Muminin Kalingkong @ Norbinsha,L,17000,Sabah,Tuaran
+824,grs,pbs,grs,Joniston Bangkuai,L,17000,Sabah,Tuaran
+825,ph,pkr,ph,Jahalan Taufik Sham,L,17900,Sabah,Ranau
+826,grs,bersatu,grs,Jonathan Yasin,L,17900,Sabah,Ranau
+827,gta,pejuang,pejuang,Azizul Julirin,L,17900,Sabah,Ranau
+828,,warisan,warisan,Markos Siton,L,17900,Sabah,Ranau
+829,,pbrs,pbrs,Ewon Ebin,L,17900,Sabah,Ranau
+830,ph,dap,ph,Noorita Sual,P,18100,Sabah,Tenom
+831,bn,umno,bn,Jamawi Jaafar,L,18100,Sabah,Tenom
+832,,ind,ind,Riduan Rubin,L,18100,Sabah,Tenom
+833,,warisan,warisan,Ukin Buandi,L,18100,Sabah,Tenom
+834,,ind,ind,Peggy Chaw Zhi Ting,P,18100,Sabah,Tenom
+835,ph,pkr,ph,Madely Modily Bangali,L,16900,Sabah,Kota Belud
+836,bn,umno,bn,Abdul Rahman Dahlan,L,16900,Sabah,Kota Belud
+837,,warisan,warisan,Isnaraissah Munirah Majilis,P,16900,Sabah,Kota Belud
+838,ph,upko,ph,Ewon Benedick,L,17400,Sabah,Penampang
+839,,ind,ind,Richard Jimmy,L,17400,Sabah,Penampang
+840,grs,star,grs,Kenny Chua,L,17400,Sabah,Penampang
+841,,warisan,warisan,Darell Leiking,L,17400,Sabah,Penampang
+842,bn,umno,bn,Mohamad Alamin,L,17600,Sabah,Kimanis
+843,,warisan,warisan,Daud Yusof,L,17600,Sabah,Kimanis
+844,gta,pejuang,pejuang,Yusop Osman,L,17600,Sabah,Kimanis
+845,ph,upko,ph,Rowindy Lawrence,P,17600,Sabah,Kimanis
+846,,kdm,kdm,Amat Md Yusof,L,17600,Sabah,Kimanis
+847,gta,pejuang,pejuang,Mohd Azmi Zulkiflee,L,16800,Sabah,Kota Marudu
+848,ph,muda,muda,Sharizal Denci,L,16800,Sabah,Kota Marudu
+849,,ind,ind,Norman Tulang,L,16800,Sabah,Kota Marudu
+850,,warisan,warisan,Jilid Kuminding @ Zainuddin,L,16800,Sabah,Kota Marudu
+851,grs,pbs,grs,Maximus Ongkili,L,16800,Sabah,Kota Marudu
+852,,kdm,kdm,Wetrom Bahanda,L,16800,Sabah,Kota Marudu
+853,,ind,ind,Alim Impira,L,19900,Sarawak,Serian
+854,gps,supp,gps,Richard Riot Jaem,L,19900,Sarawak,Serian
+855,,psb,psb,Elsiy Tingang,P,19900,Sarawak,Serian
+856,ph,dap,dap,Learry Jabul,L,19900,Sarawak,Serian
+857,gps,pbb,gps,Rubiah Wang,P,19700,Sarawak,Kota Samarahan
+858,ph,amanah,ph,Abang Abdul Halil Abang Naili,L,19700,Sarawak,Kota Samarahan
+859,gps,prs,gps,Doris Sophia Brodi,P,20200,Sarawak,Sri Aman
+860,,psb,psb,Wilson Anak Entabang,L,20200,Sarawak,Sri Aman
+861,,ind,ind,Masir Anak Kujat,L,20200,Sarawak,Sri Aman
+862,ph,pkr,ph,Tay Wei Wei,L,20200,Sarawak,Sri Aman
+863,,pbds,pbds,Susan George,P,20900,Sarawak,Julau
+864,gps,prs,gps,Joseph Salang Gandum,L,20900,Sarawak,Julau
+865,,pbm,pbm,Larry Sng Wei Shien,L,20900,Sarawak,Julau
+866,,ind,ind,Elly Lawai Ngalai,L,20900,Sarawak,Julau
+867,gps,pbb,gps,Mohamad Shafizan Kepli,L,20100,Sarawak,Batang Lupar
+868,ph,amanah,ph,Wel @ Maxwel Ak Rojis,L,20100,Sarawak,Batang Lupar
+869,pn,pas,pn,Hamdan Sani,L,20100,Sarawak,Batang Lupar
+870,pn,bersatu,pn,Jugah Muyang,L,20300,Sarawak,Lubok Antu
+871,,psb,psb,Johnichal Rayong Ngipa,L,20300,Sarawak,Lubok Antu
+872,gps,prs,gps,Roy Angau Gingkoi,L,20300,Sarawak,Lubok Antu
+873,ph,pkr,ph,Langga Lias,L,20300,Sarawak,Lubok Antu
+874,,ind,ind,Wong Tiing Kiong,L,21100,Sarawak,Lanang
+875,,pbk,psb,Priscilla Lau,P,21100,Sarawak,Lanang
+876,ph,dap,dap,Alice Lau Kiong Yieng,P,21100,Sarawak,Lanang
+877,gps,supp,gps,Wong Ching Yong,L,21100,Sarawak,Lanang
+878,ph,pkr,ph,Racha Balang,L,22100,Sarawak,Limbang
+879,gps,pbb,gps,Hasbi Habibollah,L,22100,Sarawak,Limbang
+880,gps,pbb,gps,Fadillah Yusof,L,19400,Sarawak,Petra Jaya
+881,ph,pkr,ph,Sofian Julaihi,L,19400,Sarawak,Petra Jaya
+882,,sedar,sedar,Othman Abdillah,L,19400,Sarawak,Petra Jaya
+883,pn,bersatu,pn,Duke Janteng,L,21700,Sarawak,Bintulu
+884,gps,pdp,gps,Tiong King Sing,L,21700,Sarawak,Bintulu
+885,ph,dap,dap,Tony Chiew Chan Yew,L,21700,Sarawak,Bintulu
+886,gps,pbb,gps,Nancy Shukri,P,19300,Sarawak,Santubong
+887,,ind,ind,Affendi Jeman,L,19300,Sarawak,Santubong
+888,ph,amanah,ph,Mohamad Zen Peli,L,19300,Sarawak,Santubong
+889,gps,pdp,gps,Giendam Jonathan Tait,L,20500,Sarawak,Saratok
+890,pn,bersatu,pn,Ali Biju,L,20500,Sarawak,Saratok
+891,ph,pkr,ph,Ibil Jaya,L,20500,Sarawak,Saratok
+892,gps,pbb,gps,Willie Mongin,L,19800,Sarawak,Puncak Borneo
+893,ph,pkr,ph,Diog Dios,L,19800,Sarawak,Puncak Borneo
+894,,pbk,psb,Tomson Ango,P,19800,Sarawak,Puncak Borneo
+895,gps,pbb,gps,Yusof Abdul Wahab,L,20600,Sarawak,Tanjung Manis
+896,ph,amanah,ph,Zainab Suhaili,P,20600,Sarawak,Tanjung Manis
+897,ph,pkr,ph,Abun Sui Anyit,L,21600,Sarawak,Hulu Rajang
+898,gps,prs,gps,Ugak Kumbong,L,21600,Sarawak,Hulu Rajang
+899,ph,pkr,ph,Patrick Khamis,L,20400,Sarawak,Betong
+900,,ind,ind,Hasbie Satar,L,20400,Sarawak,Betong
+901,gps,pbb,gps,Richard Rapu @ Aman Begri,L,20400,Sarawak,Betong
+902,gps,pbb,gps,Hanifah Hajar Taib,P,21300,Sarawak,Mukah
+903,ph,pkr,ph,Abdul Jalil Bujang,L,21300,Sarawak,Mukah
+904,ph,pkr,ph,Umpang Salang,L,21400,Sarawak,Selangau
+905,gps,prs,gps,Edwin Banta,L,21400,Sarawak,Selangau
+906,,ind,ind,Henry Joseph Usau,L,21400,Sarawak,Selangau
+907,gps,pdp,gps,Anyi Ngau,L,22000,Sarawak,Baram
+908,ph,pkr,ph,Roland Engan,L,22000,Sarawak,Baram
+909,,ind,ind,Wilfred Entika,L,22000,Sarawak,Baram
+910,gps,pbb,gps,Lukanisman Awang Sauni,L,21800,Sarawak,Sibuti
+911,ph,pkr,ph,Zolhaidah Suboh,P,21800,Sarawak,Sibuti
+912,,pbds,pbds,Bobby William,L,21800,Sarawak,Sibuti
+913,ph,pkr,ph,Japar Suyut,L,22200,Sarawak,Lawas
+914,,psb,psb,Baru Bian,L,22200,Sarawak,Lawas
+915,gps,pbb,gps,Henry Sum Agong,L,22200,Sarawak,Lawas
+916,ph,pkr,ph,Mohd Fauzi Abdullah@joseph,L,21000,Sarawak,Kanowit
+917,,ind,ind,Elli Luhat,L,21000,Sarawak,Kanowit
+918,gps,prs,gps,Aaron Ago Dagang,L,21000,Sarawak,Kanowit
+919,,ind,ind,George Chen,L,21000,Sarawak,Kanowit
+920,,ind,ind,Michael Anak Lias,L,21000,Sarawak,Kanowit
+921,gps,supp,gps,Huang Tiong Sii,L,20800,Sarawak,Sarikei
+922,ph,dap,dap,Roderick Wong Siew Lead,L,20800,Sarawak,Sarikei
+923,gps,pbb,gps,Rodiyah Sapiee,P,20000,Sarawak,Batang Sadong
+924,ph,amanah,ph,Lahaji Lahiya,L,20000,Sarawak,Batang Sadong
+925,ph,dap,dap,Oscar Ling Chai Yew,L,21200,Sarawak,Sibu
+926,gps,supp,gps,Clarence Ting Ing Horh,L,21200,Sarawak,Sibu
+927,,psb,psb,Wong Soon Koh,L,21200,Sarawak,Sibu
+928,gps,pbb,gps,Alexander Nanta Linggi,L,21500,Sarawak,Kapit
+929,ph,pkr,ph,Khusyairy Pangkas Abdullah,L,21500,Sarawak,Kapit
+930,,pbds,pbds,Robert Saweng,L,21500,Sarawak,Kapit
+931,gps,supp,gps,Jeffrey Phang Siaw Foong,L,21900,Sarawak,Miri
+932,,psb,psb,Lawrence Lai,L,21900,Sarawak,Miri
+933,ph,pkr,ph,Chiew Choon Man,L,21900,Sarawak,Miri
+934,gps,pbb,gps,Ahmad Johnie Zawawi,L,20700,Sarawak,Igan
+935,ph,amanah,ph,Andri Zulkarnaen Hamden,L,20700,Sarawak,Igan
+936,gps,supp,gps,Tay Tze Kok,L,19500,Sarawak,Bandar Kuching
+937,,pbk,psb,Voon Lee Shan,L,19500,Sarawak,Bandar Kuching
+938,ph,dap,dap,Kelvin Yii Lee Wuen,L,19500,Sarawak,Bandar Kuching
+939,,pbk,pbk,Ryan Sim Min Leong,L,19200,Sarawak,Mas Gading
+940,gps,pdp,gps,Lidang Disen,L,19200,Sarawak,Mas Gading
+941,ph,dap,dap,Mordi Bimol,L,19200,Sarawak,Mas Gading
+942,ph,dap,dap,Chong Chieng Jen,L,19600,Sarawak,Stampin
+943,gps,supp,gps,Lo Khere Chang,L,19600,Sarawak,Stampin
+944,,pbk,psb,Lue Cheng Hing,L,19600,Sarawak,Stampin

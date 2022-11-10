@@ -1,4 +1,4 @@
-Year,Coalition,Coalition Name,Coalition Name Bahasa,Party,Party Name,Party Color,Coalition Color
+year,coalition,coalition_name,coalition_name_bahasa,party,party_name,party_color,coalition_color
 2004,BA,Alternative Front,Barisan Alternatif,PAS,Pan-Malaysian Islamic Party,#009000,#ed161e
 2004,BA,Alternative Front,Barisan Alternatif,PKR,People's Justice Party,#00ADEF,#ed161e
 2004,BN,National Front,Barisan Nasional,UMNO,United Malays National Organisation,#E62020,#000080
@@ -76,7 +76,7 @@ Year,Coalition,Coalition Name,Coalition Name Bahasa,Party,Party Name,Party Color
 2018,BN,National Front,Barisan Nasional,MCA,Malaysian Chinese Association,#0000FF,#000080
 2018,BN,National Front,Barisan Nasional,SUPP,Sarawak United People's Party,#FFFF00,#000080
 2018,BN,National Front,Barisan Nasional,PBS,United Sabah Party,#ADD8E6,#000080
-2018,BN,National Front,Barisan Nasional,UPKO,United Pasokmomogun Kadazandusun Murut Organisation,#00008B,#000080
+2018,BN,National Front,Barisan Nasional,UPKO,United Pasokmomogun Kadazandusun Murut Organisation,#ABCDFF,#000080
 2018,BN,National Front,Barisan Nasional,PBRS,United Sabah People's Party,#FEDF00,#000080
 2018,BN,National Front,Barisan Nasional,GERAKAN,Malaysian People's Movement Party,#FF0000,#000080
 2018,BN,National Front,Barisan Nasional,LDP,Liberal Democratic Party,#FF7F00,#000080
@@ -84,12 +84,12 @@ Year,Coalition,Coalition Name,Coalition Name Bahasa,Party,Party Name,Party Color
 2018,GS,Ideas of Prosperity,Gagasan Sejahtera,PAS,Pan-Malaysian Islamic Party,#009000,#008800
 2018,GS,Ideas of Prosperity,Gagasan Sejahtera,IKATAN,Malaysian National Alliance Party,#CD2122,#008800
 2018,GS,Ideas of Prosperity,Gagasan Sejahtera,BERJASA,Pan-Malaysian Islamic Front,#730947,#008800
-2018,GS,Ideas of Prosperity,Gagasan Sejahtera,PCM,Love Malaysia Party*(Strategic partner of Ideas of Prosperity)*,#DAE2EA,#008800
+2018,GS,Ideas of Prosperity,Gagasan Sejahtera,PCM,Love Malaysia Party,#DAE2EA,#008800
 2018,PH,Alliance of Hope,Pakatan Harapan,PKR,People's Justice Party,#00ADEF,#ED1C24
 2018,PH,Alliance of Hope,Pakatan Harapan,DAP,Democratic Action Party,#ED1C24,#ED1C24
 2018,PH,Alliance of Hope,Pakatan Harapan,PPBM,Malaysian United Indigenous Party,#E62020,#ED1C24
 2018,PH,Alliance of Hope,Pakatan Harapan,AMANAH,National Trust Party,#FFA009,#ED1C24
-2018,,,,WARISAN,Sabah Heritage Party*(Pakatan Harapan ally)*,#A4E5FC,
+2018,,,,WARISAN,Sabah Heritage Party,#A4E5FC,
 2018,USA,United Sabah Alliance,,STAR,Homeland Solidarity Party,#78D7F5,#1A1A1A
 2018,USA,United Sabah Alliance,,PHRS,Sabah People's Hope Party,#6F92C0,#1A1A1A
 2018,USA,United Sabah Alliance,,SAPP,Sabah Progressive Party,#F8F6BC,#1A1A1A
@@ -106,3 +106,63 @@ Year,Coalition,Coalition Name,Coalition Name Bahasa,Party,Party Name,Party Color
 2018,,,,PBK,Land of the Hornbill Party,#FBC625,
 2018,,,,PAP,People's Alternative Party,#EDFBFF,
 2018,,,,IND,Independents,#DCDCDC,
+2022,,,,IND,Independents,#DCDCDC,
+2022,,,,KDM,Social Democratic Harmony Party,#F6787F,
+2022,,,,PBDS,Parti Bansa Dayak Sarawak,#fbeb0b,
+2022,,,,PBK,Land of the Hornbill Party,#FBC625,
+2022,,,,PBM,Parti Bangsa Malaysia,#6129aa,
+2022,,,,PPRS,Sabah People's Unity Party,#FFCD00,
+2022,,,,PRM,Malaysian People's Party,#D00000,
+2022,,,,PSB,Parti Sarawak Bersatu,#FDF642,
+2022,,,,PSM,Socialist Party of Malaysia,#800000,
+2022,,,,PUR,People First Party,,
+2022,,,,SEDAR,Parti Sedar Rakyat Sarawak,#f5e800,
+2022,,,,WARISAN,Sabah Heritage Party,#A4E5FC,
+2022,BN,National Front,Barisan Nasional,IPF,All Malaysian Indian Progressive Front,#d6242a,#000080
+2022,BN,National Front,Barisan Nasional,KIMMA,Malaysian Indian Muslim Congress,#FFCC00,#000080
+2022,BN,National Front,Barisan Nasional,MCA,Malaysian Chinese Association,#0000FF,#000080
+2022,BN,National Front,Barisan Nasional,MIC,Malaysian Indian Congress,#29AB87,#000080
+2022,BN,National Front,Barisan Nasional,MMSP,Malaysia Makkal Sakti Party ,#EF8611,#000080
+2022,BN,National Front,Barisan Nasional,PBRS,United Sabah People's Party,#FEDF00,#000080
+2022,BN,National Front,Barisan Nasional,PCM,Love Malaysia Party,#DAE2EA,#000080
+2022,BN,National Front,Barisan Nasional,UMNO,United Malays National Organisation,#E62020,#000080
+2022,GPS,Sarawak Parties Alliance,Gabungan Parti Sarawak,PBB,United Traditional Bumiputera Party,red,#cf6061
+2022,GPS,Sarawak Parties Alliance,Gabungan Parti Sarawak,PDP,Progressive Democratic Party,#6ABFE6,#cf6061
+2022,GPS,Sarawak Parties Alliance,Gabungan Parti Sarawak,PRS,Sarawak People's Party,green,#cf6061
+2022,GPS,Sarawak Parties Alliance,Gabungan Parti Sarawak,SUPP,Sarawak United People's Party,yellow,#cf6061
+2022,GRS,Sabah People's Coalition,Gabungan Rakyat Sabah,BERSATU SABAH,Malaysian United Indigenous Party Sabah,#e20108,#91cbf2
+2022,GRS,Sabah People's Coalition,Gabungan Rakyat Sabah,PBS,United Sabah Party,#ADD8E6,#91cbf2
+2022,GRS,Sabah People's Coalition,Gabungan Rakyat Sabah,SAPP,Sabah Progressive Party,#F8F6BC,#91cbf2
+2022,GRS,Sabah People's Coalition,Gabungan Rakyat Sabah,STAR,State Reform Party,#E8C0F2,#91cbf2
+2022,GTA,Homeland Movement,Gerakan Tanah Air,BERJASA,Pan-Malaysian Islamic Front,#730947,#00678b
+2022,GTA,Homeland Movement,Gerakan Tanah Air,IMAN,National Indian Muslim Alliance Party,#cd0000,#00678b
+2022,GTA,Homeland Movement,Gerakan Tanah Air,PEJUANG,Homeland Fighters' Party,#006A8E,#00678b
+2022,GTA,Homeland Movement,Gerakan Tanah Air,PUTRA,Parti Bumiputera Perkasa Malaysia,#d40206,#00678b
+2022,multiple,,,DIRECT,,,
+2022,PH,Alliance of Hope,Pakatan Harapan,AMANAH,National Trust Party,#FFA009,#ED1C24
+2022,PH,Alliance of Hope,Pakatan Harapan,DAP,Democratic Action Party,#ED1C24,#ED1C24
+2022,PH,Alliance of Hope,Pakatan Harapan,MUDA,Malaysian United Democratic Alliance,#000000,#ED1C24
+2022,PH,Alliance of Hope,Pakatan Harapan,PKR,People's Justice Party,#00ADEF,#ED1C24
+2022,PH,Alliance of Hope,Pakatan Harapan,UPKO,United Pasokmomogun Kadazandusun Murut Organisation,#ABCDFF,#ED1C24
+2022,PN,National Alliance,Perikatan Nasional,BERSATU,Malaysian United Indigenous Party,#e20108,#002d51
+2022,PN,National Alliance,Perikatan Nasional,GERAKAN,Malaysian People's Movement Party,#f00,#002d51
+2022,PN,National Alliance,Perikatan Nasional,PAS,Pan-Malaysian Islamic Party,#009000,#002d51
+2022 Incumbents,PH,Alliance of Hope,Pakatan Harapan,DAP,Democratic Action Party,#ED1C24,#ED1C24
+2022 Incumbents,BN,National Front,Barisan Nasional,UMNO,United Malays National Organisation,#F21415,#000080
+2022 Incumbents,PH,Alliance of Hope,Pakatan Harapan,PKR,People's Justice Party,#00ADEF,#ED1C24
+2022 Incumbents,PN,National Alliance,Perikatan Nasional,BERSATU,Malaysian United Indigenous Party,#e20108,#002d51
+2022 Incumbents,,,,PAS,Pan-Malaysian Islamic Party,#009000,
+2022 Incumbents,GPS,Sarawak Parties Alliance,Gabungan Parti Sarawak,PBB,United Bumiputera Heritage Party,#F0E98B,#cf6061
+2022 Incumbents,PH,Alliance of Hope,Pakatan Harapan,AMANAH,National Trust Party,#FFA009,#ED1C24
+2022 Incumbents,GRS,Sabah People's Coalition,Gabungan Rakyat Sabah,BERSATU,Malaysian United Indigenous Party,#e20108,#91cbf2
+2022 Incumbents,GTA,Homeland Movement,Gerakan Tanah Air,PEJUANG,Homeland Fighters' Party,#006A8E,#00678b
+2022 Incumbents,BN,National Front,Barisan Nasional,MCA,Malaysian Chinese Association,#0000FF,#000080
+2022 Incumbents,GPS,Sarawak Parties Alliance,Gabungan Parti Sarawak,PRS,Sarawak People's Party,#57D757,#cf6061
+2022 Incumbents,,,,PDP,Progressive Democratic Party,#6ABFE6,
+2022 Incumbents,GRS,Sabah People's Coalition,Gabungan Rakyat Sabah,STAR,Homeland Solidarity Party,#78D7F5,#91cbf2
+2022 Incumbents,BN,National Front,Barisan Nasional,MIC,Malaysian Indian Congress,#00A988,#000080
+2022 Incumbents,GPS,Sarawak Parties Alliance,Gabungan Parti Sarawak,SUPP,Sarawak United People's Party,#FFFF00,#cf6061
+2022 Incumbents,PH,Alliance of Hope,Pakatan Harapan,MUDA,Malaysian United Democratic Alliance,#000000,#ED1C24
+2022 Incumbents,,,,UPKO,United Pasokmomogun Kadazandusun Murut Organisation,#ABCDFF,
+2022 Incumbents,BN,National Front,Barisan Nasional,PBRS,United Sabah People's Party,#FEDF00,#000080
+2022 Incumbents,GRS,Sabah People's Coalition,Gabungan Rakyat Sabah,PBS,United Sabah Party,#ADD8E6,#91cbf2

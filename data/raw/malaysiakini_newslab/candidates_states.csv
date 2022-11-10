@@ -1,0 +1,442 @@
+,coalition,party,logo,name,gender,codeId,state,parName
+0,,warisan,warisan,Khaw Hock Kong,L,00101,Perlis,Padang Besar
+1,ph,dap,ph,Teh Seng Chuan,L,00101,Perlis,Padang Besar
+2,pn,bersatu,pn,Izizam Ibrahim,L,00101,Perlis,Padang Besar
+3,,ind,ind,Zahidi Zainul Abidin,L,00101,Perlis,Padang Besar
+4,gta,pejuang,pejuang,Mohd Shahril Md Sarif,L,00101,Perlis,Padang Besar
+5,bn,mca,bn,Teh Chai Aan,L,00101,Perlis,Padang Besar
+6,ph,amanah,ph,Mat Safar Saad,L,00102,Perlis,Padang Besar
+7,pn,pas,pn,Haziq Asyraf Dun,L,00102,Perlis,Padang Besar
+8,bn,umno,bn,Ruzaini Rais,L,00102,Perlis,Padang Besar
+9,,warisan,warisan,Mohd Shamim M Nordin,L,00102,Perlis,Padang Besar
+10,ph,pkr,ph,Natthavuth Seng,L,00103,Perlis,Padang Besar
+11,pn,pas,pn,Saad Seman,L,00103,Perlis,Padang Besar
+12,bn,umno,bn,Asmaiza Ahmad,P,00103,Perlis,Padang Besar
+13,pn,pas,pn,Wan Badariyah Wan Saad,P,00104,Perlis,Padang Besar
+14,ph,pkr,ph,Amran Kamarudin,L,00104,Perlis,Padang Besar
+15,bn,umno,bn,Siti Berenee Yahaya,P,00104,Perlis,Padang Besar
+16,ph,amanah,ph,Che Mazlina Che Yob,P,00105,Perlis,Padang Besar
+17,pn,pas,pn,Azmir Azizan,L,00105,Perlis,Padang Besar
+18,bn,umno,bn,Azizan Sulaiman,L,00105,Perlis,Padang Besar
+19,gta,pejuang,pejuang,Shazwan Suban,L,00206,Perlis,Kangar
+20,bn,umno,bn,Azlan Man,L,00206,Perlis,Kangar
+21,ph,amanah,ph,Azhari Ahmad,L,00206,Perlis,Kangar
+22,,ind,ind,Hashim Suboh,L,00206,Perlis,Kangar
+23,,warisan,warisan,Mohamad Khair bin Mohd Noor,L,00206,Perlis,Kangar
+24,pn,pas,pn,Fakhrul Anwar Ismail,L,00206,Perlis,Kangar
+25,bn,umno,bn,Saiful Daniel Mohd Yusof,L,00207,Perlis,Kangar
+26,ph,pkr,ph,Asrul Nizam Abd Jalil,L,00207,Perlis,Kangar
+27,pn,bersatu,pn,Marzita Mansor,P,00207,Perlis,Kangar
+28,gta,pejuang,pejuang,Mohd Faizal Yunus,L,00207,Perlis,Kangar
+29,ph,pkr,ph,Gan Ay Ling,P,00208,Perlis,Kangar
+30,bn,mca,bn,Lim Weng Khee,L,00208,Perlis,Kangar
+31,pn,bersatu,pn,Pramoot Puan,L,00208,Perlis,Kangar
+32,,warisan,warisan,Atan Jasin,L,00208,Perlis,Kangar
+33,,ind,ind,Azahar Ahmad,L,00209,Perlis,Kangar
+34,pn,bersatu,pn,Abu Bakar Hamzah,L,00209,Perlis,Kangar
+35,,warisan,warisan,Muhamad Hairi Noordin,L,00209,Perlis,Kangar
+36,bn,umno,bn,Kamarudin Malek,L,00209,Perlis,Kangar
+37,ph,pkr,ph,Nor Azam Karap,L,00209,Perlis,Kangar
+38,pn,pas,pn,Akan Diumumkan,L,00210,Perlis,Kangar
+39,bn,umno,bn,Hamizan Hassan,L,00210,Perlis,Kangar
+40,,warisan,warisan,Khairuddin Abdullah,L,00210,Perlis,Kangar
+41,ph,amanah,ph,Wan Kharizal Wan Khazim,L,00210,Perlis,Kangar
+42,pn,bersatu,pn,Megat Hashirat Hassan,L,00311,Perlis,Arau
+43,ph,pkr,ph,Azhar Ameir,L,00311,Perlis,Arau
+44,bn,umno,bn,Syed Atif Syed Abu Bakar,L,00311,Perlis,Arau
+45,,warisan,warisan,Mohd Khalid bin Ahmad,L,00311,Perlis,Arau
+46,pn,bersatu,pn,Wan Zikri Afthar Ishak,L,00312,Perlis,Arau
+47,bn,umno,bn,Ismail Kassim,L,00312,Perlis,Arau
+48,ph,pkr,ph,Muhammad Syahmi Suhaimi,L,00312,Perlis,Arau
+49,gta,pejuang,pejuang,Maton Din,L,00312,Perlis,Arau
+50,ph,pkr,ph,Hasparizal Hassan,L,00313,Perlis,Arau
+51,pn,pas,pn,Mohd Ridzuan Hashim,L,00313,Perlis,Arau
+52,gta,pejuang,pejuang,Abdul Malik Abdullah,L,00313,Perlis,Arau
+53,bn,umno,bn,Rozieana Ahmad,P,00313,Perlis,Arau
+54,bn,umno,bn,Nurulhisham Yaakob,L,00314,Perlis,Arau
+55,ph,pkr,ph,Amran Darus,L,00314,Perlis,Arau
+56,gta,pejuang,pejuang,Izhar Kamarudin Sudin,L,00314,Perlis,Arau
+57,,warisan,warisan,Wan Noralhakim Shaghir Saad,L,00314,Perlis,Arau
+58,pn,pas,pn,Razali Saad,L,00314,Perlis,Arau
+59,,ind,ind,Ammar Hassan,L,00314,Perlis,Arau
+60,,warisan,warisan,Zainuddin Yom,L,00315,Perlis,Arau
+61,ph,amanah,ph,Ahmad Fadhzil Mohamad,L,00315,Perlis,Arau
+62,bn,umno,bn,Sharifudin Ahmad,L,00315,Perlis,Arau
+63,pn,pas,pn,Mohd Shukri Ramli,L,00315,Perlis,Arau
+64,ph,amanah,ph,Mohd Saad Ismail,L,05401,Perak,Gerik
+65,pn,pas,pn,Mohamad Amin Roslan,L,05401,Perak,Gerik
+66,bn,umno,bn,Aznel Ibrahim,L,05401,Perak,Gerik
+67,bn,umno,bn,Salbiah Mohamed,P,05402,Perak,Gerik
+68,pn,pas,pn,Mohd Noor Abdul Rahman,L,05402,Perak,Gerik
+69,ph,pkr,ph,Ahmad Safwan Mohamad,L,05402,Perak,Gerik
+70,pn,pas,pn,Husairi Ariffin,P,05503,Perak,Lenggong
+71,bn,umno,bn,Rohaida Mohamad Yaakun,P,05503,Perak,Lenggong
+72,ph,pkr,ph,Mohamad Jamean Zulkepli,L,05503,Perak,Lenggong
+73,pn,pas,pn,Mohd Jamil Yahya,L,05504,Perak,Lenggong
+74,bn,umno,bn,Saarani Mohamad,L,05504,Perak,Lenggong
+75,ph,amanah,ph,Mohd Sabri Abdul Manaf,L,05504,Perak,Lenggong
+76,ph,amanah,ph,Razali Ismail,L,05605,Perak,Larut
+77,pn,pas,pn,Mohd Akmal  Kamarudin,L,05605,Perak,Larut
+78,,ind,ind,Osman Sidek,L,05605,Perak,Larut
+79,bn,umno,bn,Faizul Rizal Zulkifli,L,05605,Perak,Larut
+80,pn,pas,pn,Khalil Yahaya,L,05606,Perak,Larut
+81,bn,umno,bn,Osman Ahmad,L,05606,Perak,Larut
+82,gta,pejuang,pejuang,Fuaddin Kamaruddin,L,05606,Perak,Larut
+83,ph,amanah,ph,Mohd Nazri Din,L,05606,Perak,Larut
+84,bn,umno,bn,Saliza Ahmad,P,05607,Perak,Larut
+85,gta,berjasa,pejuang,Zulkifli Yahya,L,05607,Perak,Larut
+86,pn,bersatu,pn,Mohd Najmuddin Elias Al-hafiz,L,05607,Perak,Larut
+87,ph,pkr,ph,Muhamad Aiman Aizuddin Md Husin,L,05607,Perak,Larut
+88,pn,pas,pn,Hakimi Hamzi Hayat,L,05708,Perak,Parit Buntar
+89,bn,umno,bn,Shahrul Nizam Razali,L,05708,Perak,Parit Buntar
+90,ph,amanah,ph,Muhammad Nakhaie Wahab,L,05708,Perak,Parit Buntar
+91,ph,pkr,ph,Anuar Ahmad,L,05709,Perak,Parit Buntar
+92,pn,bersatu,pn,Abdul Yunus Jamahri,L,05709,Perak,Parit Buntar
+93,bn,umno,bn,Mohd Hamil Jahaya,L,05709,Perak,Parit Buntar
+94,ph,pkr,ph,Khairul Azman Ahmad,L,05810,Perak,Bagan Serai
+95,pn,bersatu,pn,Sallehuddin Abdullah,L,05810,Perak,Bagan Serai
+96,bn,umno,bn,Sham Mat Sahat,L,05810,Perak,Bagan Serai
+97,pn,pas,pn,Razman Zakaria,L,05811,Perak,Bagan Serai
+98,bn,umno,bn,Nazirul Jamaluddin,L,05811,Perak,Bagan Serai
+99,ph,amanah,ph,Sheikh Khuzaifah,L,05811,Perak,Bagan Serai
+100,bn,umno,bn,Mohamad Noor Dawoo,L,05812,Perak,Bagan Serai
+101,pn,bersatu,pn,Noor Azman Ghazali,L,05812,Perak,Bagan Serai
+102,ph,amanah,ph,Ahmad Saqif Ansarallah,L,05812,Perak,Bagan Serai
+103,ph,pkr,ph,Zainal Azman Abu Seman,L,05913,Perak,Bukit Gantang
+104,gta,putra,pejuang,Zainal Abidin Abd Rahman,P,05913,Perak,Bukit Gantang
+105,pn,bersatu,pn,Ahmad Man,L,05913,Perak,Bukit Gantang
+106,bn,umno,bn,Mohd Kamaruddin Abu Bakar,L,05913,Perak,Bukit Gantang
+107,bn,umno,bn,Ahmad Saidi Mohamad Daud,L,05914,Perak,Bukit Gantang
+108,gta,pejuang,pejuang,Nazar Talib,L,05914,Perak,Bukit Gantang
+109,ph,amanah,ph,Megat Shariffudin Ibrahim,L,05914,Perak,Bukit Gantang
+110,pn,pas,pn,Rahim Ismail,L,05914,Perak,Bukit Gantang
+111,pn,pas,pn,Faisal Abdul Rahman,L,05915,Perak,Bukit Gantang
+112,bn,umno,bn,Jamilah Zakaria,P,05915,Perak,Bukit Gantang
+113,ph,pkr,ph,Junaida Jamaludin,P,05915,Perak,Bukit Gantang
+114,gta,pejuang,pejuang,Mustafaa Kamal,L,05915,Perak,Bukit Gantang
+115,pn,pas,pn,Mohd Fakhruddin Abdul Aziz,L,06016,Perak,Taiping
+116,ph,amanah,ph,Muhd Fadhil Nurudin,L,06016,Perak,Taiping
+117,bn,umno,bn,Ahmad Sahalimin Ahmad Shaffie,L,06016,Perak,Taiping
+118,,ind,ind,Mohd Yusoff Abdull Hamid,L,06017,Perak,Taiping
+119,ph,dap,ph,Ong Seng Guan,L,06017,Perak,Taiping
+120,pn,bersatu,pn,Shariful Juhari Abu Kassim,L,06017,Perak,Taiping
+121,,ind,ind,Leow Thye Yih,L,06017,Perak,Taiping
+122,bn,mca,bn,Ang Sui Eng,P,06017,Perak,Taiping
+123,,ind,ind,Lee Seng Yap,L,06018,Perak,Taiping
+124,,ind,ind,Abu Bakar Abdul Rahman,L,06018,Perak,Taiping
+125,ph,dap,ph,Teh Kok Lim,L,06018,Perak,Taiping
+126,pn,gerakan,pn,Koay Boon Hui,L,06018,Perak,Taiping
+127,bn,mic,bn,G Shanmugiavalloo,L,06018,Perak,Taiping
+128,ph,pkr,ph,Mohd Khairol Iwan Mat Khairi,L,06119,Perak,Padang Rengas
+129,bn,umno,bn,Khairuddin Mohamed Azahari,L,06119,Perak,Padang Rengas
+130,gta,pejuang,pejuang,Ahmad Rodzi Abdul Rahim,L,06119,Perak,Padang Rengas
+131,pn,bersatu,pn,Syed Lukman Hakim Syed Mohd Zin,L,06119,Perak,Padang Rengas
+132,pn,pas,pn,Azizi Mohamed Ridzuan,L,06120,Perak,Padang Rengas
+133,ph,amanah,ph,Zaiton Latiff,P,06120,Perak,Padang Rengas
+134,bn,umno,bn,Mohamad Azir Ismail,L,06120,Perak,Padang Rengas
+135,pn,bersatu,pn,Ahmad Daslie Osman,L,06221,Perak,Sungai Siput
+136,ph,pkr,ph,Za'im Sidqi Zulkifly,L,06221,Perak,Sungai Siput
+137,bn,umno,bn,Mohd Zolkafly Harun,L,06221,Perak,Sungai Siput
+138,pn,gerakan,pn,Naran Singh Asa Singh,L,06222,Perak,Sungai Siput
+139,bn,mca,bn,Pan Chean Chang,L,06222,Perak,Sungai Siput
+140,ph,dap,ph,Loh Se Yee,L,06222,Perak,Sungai Siput
+141,,ind,ind,Indrani,P,06222,Perak,Sungai Siput
+142,ph,amanah,ph,Asmuni Awi,L,06323,Perak,Tambun
+143,bn,umno,bn,Azizul Kama Abd Aziz,L,06323,Perak,Tambun
+144,pn,pas,pn,Hafez Sabri,L,06323,Perak,Tambun
+145,,ind,ind,Murugiah Subramaniam,L,06324,Perak,Tambun
+146,pn,bersatu,pn,Puteri Holijah Muhamad Rali,P,06324,Perak,Tambun
+147,ph,pkr,ph,Muhamad Arafat Varisai Mahamad,L,06324,Perak,Tambun
+148,bn,umno,bn,Mazlan Abd Rahman,L,06324,Perak,Tambun
+149,pn,gerakan,pn,Pang Boon Yang,L,06425,Perak,Ipoh Timor
+150,ph,dap,ph,Jenny Choy Tsi Jen,P,06425,Perak,Ipoh Timor
+151,bn,mca,bn,Woo Kok Toong,L,06425,Perak,Ipoh Timor
+152,pn,bersatu,pn,Mohammad Iskandar Abdul Rahman,L,06426,Perak,Ipoh Timor
+153,bn,mca,bn,Khoo Boon Chuan,L,06426,Perak,Ipoh Timor
+154,ph,dap,ph,Dr Abdul Aziz Bari,L,06426,Perak,Ipoh Timor
+155,gta,pejuang,pejuang,Mior Haidir,L,06426,Perak,Ipoh Timor
+156,ph,dap,ph,Goh See Hua,L,06427,Perak,Ipoh Timor
+157,pn,gerakan,pn,Lam Kin Yip,L,06427,Perak,Ipoh Timor
+158,bn,mca,bn,Soo Poh Yeow,L,06427,Perak,Ipoh Timor
+159,bn,mca,bn,Ho Wai Mun,L,06528,Perak,Ipoh Barat
+160,ph,dap,ph,Ong Boon Piow,L,06528,Perak,Ipoh Barat
+161,pn,gerakan,pn,Lim Jin Sheng,L,06528,Perak,Ipoh Barat
+162,pn,bersatu,pn,Richard Ng,L,06529,Perak,Ipoh Barat
+163,bn,mca,bn,Lim Huey Shan,L,06529,Perak,Ipoh Barat
+164,ph,dap,ph,Nga Kor Ming,L,06529,Perak,Ipoh Barat
+165,pn,bersatu,pn,Sivasubramaniam Athinarayanan,L,06530,Perak,Ipoh Barat
+166,bn,mic,bn,S Jayagopi,L,06530,Perak,Ipoh Barat
+167,ph,dap,ph,Thulsi Manogaran,P,06530,Perak,Ipoh Barat
+168,,ind,ind,Sebastiar,L,06530,Perak,Ipoh Barat
+169,,ind,ind,Muhammad Faiz Abdullah,L,06530,Perak,Ipoh Barat
+170,bn,umno,bn,Hamidah Muhamad,P,06631,Perak,Batu Gajah
+171,pn,pas,pn,Navinten Sundarajan,L,06631,Perak,Batu Gajah
+172,ph,dap,ph,Cheah Pou Han,L,06631,Perak,Batu Gajah
+173,pn,bersatu,pn,Wong Kean Rong,L,06632,Perak,Batu Gajah
+174,ph,dap,ph,Chaw Kam Foon,L,06632,Perak,Batu Gajah
+175,bn,mca,bn,Phoon Kai Mun,L,06632,Perak,Batu Gajah
+176,ph,dap,ph,Steven Tiw Tee Siang,L,06633,Perak,Batu Gajah
+177,,pbm,pbm,Bryan Yong Wu Sean,L,06633,Perak,Batu Gajah
+178,,ind,ind,Meor Shahimudin Hasim,L,06633,Perak,Batu Gajah
+179,pn,gerakan,pn,Sin Koon Yen,P,06633,Perak,Batu Gajah
+180,gta,pejuang,pejuang,Roslan Ismail,L,06633,Perak,Batu Gajah
+181,bn,mca,bn,Leong Chee Wai,L,06633,Perak,Batu Gajah
+182,pn,bersatu,pn,Hashim Bujang,L,06734,Perak,Kuala Kangsar
+183,bn,umno,bn,Azizul Rahim Abd Rahman,L,06734,Perak,Kuala Kangsar
+184,ph,pkr,ph,Mohamad Hairul Amir Sabri,L,06734,Perak,Kuala Kangsar
+185,ph,amanah,ph,Mohd Jamsari Mahamood,L,06735,Perak,Kuala Kangsar
+186,bn,umno,bn,Mustafa Shah Abdul Hamid,L,06735,Perak,Kuala Kangsar
+187,pn,pas,pn,Burhanuddin Ahmad,L,06735,Perak,Kuala Kangsar
+188,pn,bersatu,pn,Ahmad Faisal Mansor,L,06836,Perak,Beruas
+189,gta,pejuang,pejuang,Cikgu Halim,L,06836,Perak,Beruas
+190,bn,umno,bn,Azman Noh,L,06836,Perak,Beruas
+191,ph,pkr,ph,Abul Jais Ashfaq Ahmed,L,06836,Perak,Beruas
+192,ph,dap,ph,Wong May Ing,P,06837,Perak,Beruas
+193,bn,mca,bn,Looi Tuan Gin,L,06837,Perak,Beruas
+194,pn,gerakan,pn,Eee Chin Oon,L,06837,Perak,Beruas
+195,pn,gerakan,pn,Yong Il Yan,L,06838,Perak,Beruas
+196,ph,dap,ph,Jason Ng Thien Yeong,L,06838,Perak,Beruas
+197,bn,mca,bn,Cheng Lee Chong,L,06838,Perak,Beruas
+198,bn,umno,bn,Khairudin Abu Hanipah,L,06939,Perak,Parit
+199,gta,pejuang,pejuang,Ustaz Shaharuzzaman,L,06939,Perak,Parit
+200,pn,bersatu,pn,Wan Meor Safwat Naqiuddin Shamsudin,L,06939,Perak,Parit
+201,ph,amanah,ph,Mohd Ikhmal Mohd Iskandar,L,06939,Perak,Parit
+202,pn,pas,pn,Najihatussaleh Ahmad,P,06940,Perak,Parit
+203,ph,pkr,ph,Usaili Alias,L,06940,Perak,Parit
+204,gta,putra,pejuang,Mohd Shahril Harahab Abdul Halil,L,06940,Perak,Parit
+205,bn,umno,bn,Khairul Shahril Mohamed,L,06940,Perak,Parit
+206,pn,pas,pn,Aemeera Najwa Syed Mohamed,P,07041,Perak,Kampar
+207,,warisan,warisan,Leong Cheok Keng,L,07041,Perak,Kampar
+208,bn,umno,bn,Chin Woon Kheong,L,07041,Perak,Kampar
+209,ph,dap,ph,V Bavani,P,07041,Perak,Kampar
+210,ph,dap,ph,Koo Haiai Yen,P,07042,Perak,Kampar
+211,pn,gerakan,pn,Foong Kar Sing,L,07042,Perak,Kampar
+212,,warisan,warisan,Puah Chee Haur,L,07042,Perak,Kampar
+213,bn,mca,bn,Ng Wah Leng,P,07042,Perak,Kampar
+214,pn,bersatu,pn,Pazli Abdullah Sani,L,07043,Perak,Kampar
+215,ph,pkr,ph,Mohd Azlan Helmi Helmi,L,07043,Perak,Kampar
+216,bn,umno,bn,Abd Rahman Md Som,L,07043,Perak,Kampar
+217,bn,umno,bn,Hang Tuah Din,L,07144,Perak,Gopeng
+218,,warisan,warisan,Roshanita Mohd Basir,P,07144,Perak,Gopeng
+219,ph,amanah,ph,Mohammad Nizar Jamaluddin,L,07144,Perak,Gopeng
+220,pn,bersatu,pn,Mohader Ahmad Mohammad Ayob,L,07144,Perak,Gopeng
+221,pn,bersatu,pn,Selvam Kunjambu,L,07145,Perak,Gopeng
+222,bn,mca,bn,Lee Wai Yin,L,07145,Perak,Gopeng
+223,,warisan,warisan,Hooi Mi Suet,P,07145,Perak,Gopeng
+224,ph,pkr,ph,Wong Chai Yi,P,07145,Perak,Gopeng
+225,,warisan,warisan,Low Leong Sin,L,07146,Perak,Gopeng
+226,gta,pejuang,pejuang,Aswannudin Hariffudin,L,07146,Perak,Gopeng
+227,ph,pkr,ph,Ng Shy Ching,P,07146,Perak,Gopeng
+228,bn,mca,bn,Liew Yee Lin,P,07146,Perak,Gopeng
+229,pn,bersatu,pn,Ahmad Ishak,L,07146,Perak,Gopeng
+230,pn,bersatu,pn,Mohd Yunus Mohd Yusop,L,07247,Perak,Tapah
+231,bn,mca,bn,Choong Shin Heng,L,07247,Perak,Tapah
+232,,warisan,warisan,Ahmad Tarmizi Mohd Ghazali,L,07247,Perak,Tapah
+233,,ind,ind,Atan Katering,L,07247,Perak,Tapah
+234,gta,pejuang,pejuang,Teratai Bah Arom,L,07247,Perak,Tapah
+235,,ind,ind,Teratai Bah Arom,P,07247,Perak,Tapah
+236,ph,pkr,ph,Atyrah Hanim Razali,P,07247,Perak,Tapah
+237,bn,umno,bn,Isham Shahruddin,L,07248,Perak,Tapah
+238,ph,amanah,ph,Mohd Nazri Hashim,L,07248,Perak,Tapah
+239,pn,pas,pn,Muhammad Noor Farid Zainal,L,07248,Perak,Tapah
+240,gta,pejuang,pejuang,Maziah Salim,P,07248,Perak,Tapah
+241,,psm,psm,Ks Bawani,P,07248,Perak,Tapah
+242,pn,bersatu,pn,Zainol Fadzi Paharudin,L,07349,Perak,Pasir Salak
+243,ph,pkr,ph,Mohamad Maharani Md Tasi,L,07349,Perak,Pasir Salak
+244,bn,umno,bn,Ibrahim Katop,L,07349,Perak,Pasir Salak
+245,pn,pas,pn,Zafarulazlan Zan,L,07350,Perak,Pasir Salak
+246,bn,umno,bn,Wan Norashikin Wan Noordin,P,07350,Perak,Pasir Salak
+247,gta,putra,pejuang,Mohd Safian Sauripandak Abdul Samad,L,07350,Perak,Pasir Salak
+248,ph,amanah,ph,Mohd Amin Man,L,07350,Perak,Pasir Salak
+249,bn,umno,bn,Mohd Rafiq Mohd,L,07451,Perak,Lumut
+250,,warisan,warisan,Nur Inderasyawalis Ahmad Mukhtar,L,07451,Perak,Lumut
+251,ph,amanah,ph,Yahaya Mat Nor,L,07451,Perak,Lumut
+252,pn,pas,pn,Rosli Abd Rahman,L,07451,Perak,Lumut
+253,gta,putra,pejuang,Mohd Norazlee Mohd Alias,L,07451,Perak,Lumut
+254,bn,umno,bn,Norzaman Man,L,07452,Perak,Lumut
+255,gta,putra,pejuang,Mohd Azlan Haji Suhaimi,L,07452,Perak,Lumut
+256,,warisan,warisan,Yahaya Ahmad,L,07452,Perak,Lumut
+257,pn,bersatu,pn,Norhaslinda Zakaria,P,07452,Perak,Lumut
+258,ph,pkr,ph,Abdul Razak Nazri,L,07452,Perak,Lumut
+259,ph,amanah,ph,Ahmad Munzirie Ahmad Kabir,L,07553,Perak,Bagan Datuk
+260,bn,umno,bn,Shahrul Zaman Yahaya,L,07553,Perak,Bagan Datuk
+261,pn,pas,pn,Mohd Mokheri Jalil,L,07553,Perak,Bagan Datuk
+262,ph,pkr,ph,Wasanthee Sinnasamy,P,07554,Perak,Bagan Datuk
+263,bn,umno,bn,Khairuddin Tarmizi,L,07554,Perak,Bagan Datuk
+264,pn,bersatu,pn,Khairun Nizam Marsom,L,07554,Perak,Bagan Datuk
+265,bn,mca,bn,Kong Sun Chin,L,07655,Perak,Teluk Intan
+266,pn,pas,pn,Suriyanarayanan Sannasy Naidu,L,07655,Perak,Teluk Intan
+267,ph,dap,ph,Woo Koh Leong,L,07655,Perak,Teluk Intan
+268,bn,umno,bn,Mohd Azhar Jamaluddin,L,07656,Perak,Teluk Intan
+269,pn,bersatu,pn,Nadziruddin Mohamed Bandi,L,07656,Perak,Teluk Intan
+270,ph,dap,ph,Badrul Hisham Badarudin,L,07656,Perak,Teluk Intan
+271,gta,putra,pejuang,Muhammad Amirul Mahfuz Abdullah,L,07656,Perak,Teluk Intan
+272,ph,dap,ph,Sivanesan Achalingam,L,07757,Perak,Tanjong Malim
+273,,ind,ind,Cikgu Mahhadee,L,07757,Perak,Tanjong Malim
+274,pn,pas,pn,Thilak Raj Gunasekaran,L,07757,Perak,Tanjong Malim
+275,bn,mic,bn,V Elango,L,07757,Perak,Tanjong Malim
+276,pn,pas,pn,Muhammad Zulfadli Zainal,L,07758,Perak,Tanjong Malim
+277,bn,umno,bn,Mohd Zaidi Aziz,L,07758,Perak,Tanjong Malim
+278,gta,pejuang,pejuang,Meor Azim,L,07758,Perak,Tanjong Malim
+279,ph,pkr,ph,Mohd Syahid Mohd Zaini,L,07758,Perak,Tanjong Malim
+280,ph,amanah,ph,Khairol Najib Hashim,L,07759,Perak,Tanjong Malim
+281,gta,putra,pejuang,Hazvee Hafiz,L,07759,Perak,Tanjong Malim
+282,bn,umno,bn,Salina Samsudin,P,07759,Perak,Tanjong Malim
+283,pn,bersatu,pn,Mohd Amran Ibrahim,L,07759,Perak,Tanjong Malim
+284,ph,dap,ph,Ho Chi Yang,L,07801,Pahang,Cameron Highlands
+285,bn,mca,bn,Wong Yap Wah,L,07801,Pahang,Cameron Highlands
+286,pn,gerakan,pn,Lai Chii Wen,L,07801,Pahang,Cameron Highlands
+287,ph,pkr,ph,Ismail Mohd Hussin,L,07802,Pahang,Cameron Highlands
+288,bn,umno,bn,Wan Rosdy Wan Ismail,L,07802,Pahang,Cameron Highlands
+289,pn,bersatu,pn,Abdul Rasid Mohamed Ali,L,07802,Pahang,Cameron Highlands
+290,ph,amanah,ph,Ruzi @ Nata Yusuff,L,07903,Pahang,Lipis
+291,bn,umno,bn,Mustapa Long,L,07903,Pahang,Lipis
+292,gta,pejuang,pejuang,Mohd Rostam Mustapha,L,07903,Pahang,Lipis
+293,pn,pas,pn,Muhamad Khaider Kamil,L,07903,Pahang,Lipis
+294,pn,pas,pn,Tuan Ibrahim Tuan Man,L,07904,Pahang,Lipis
+295,ph,pkr,ph,Rasid Muhamad,L,07904,Pahang,Lipis
+296,gta,pejuang,pejuang,Aishaton Abu Bakar,P,07904,Pahang,Lipis
+297,bn,mca,bn,Ho Fong Mee,L,07904,Pahang,Lipis
+298,ph,pkr,ph,Rizal Jamin,L,07905,Pahang,Lipis
+299,bn,umno,bn,Mohd Soffi Abd Razak,L,07905,Pahang,Lipis
+300,pn,bersatu,pn,Muhammad Fareed Tarmizi,L,07905,Pahang,Lipis
+301,bn,umno,bn,Abdul Aziz Mat Kiram,L,08006,Pahang,Raub
+302,ph,pkr,ph,Shahuddin Abdul Rahman,L,08006,Pahang,Raub
+303,pn,bersatu,pn,Ahmad Sabri Mat Dui,L,08006,Pahang,Raub
+304,ph,dap,ph,Tengku Zulpuri Shah Raja Puji,L,08007,Pahang,Raub
+305,pn,gerakan,pn,Amirul Mukminin Kuek Abdullah,L,08007,Pahang,Raub
+306,bn,mca,bn,Lim Teck Hoe,L,08007,Pahang,Raub
+307,gta,putra,pejuang,Mohd Tahir Haji Kassim,L,08007,Pahang,Raub
+308,bn,umno,bn,Fadzli Mohamad Kamal,L,08008,Pahang,Raub
+309,ph,amanah,ph,Mohd Abd Jawaad Abd Ghafar @ Ramzin,L,08008,Pahang,Raub
+310,pn,pas,pn,Tengku Shah Amir Tengku Perang,L,08008,Pahang,Raub
+311,ph,amanah,ph,Mohd Abd Talib Mohd Tahar,L,08109,Pahang,Jerantut
+312,bn,umno,bn,Faezah Ishak,P,08109,Pahang,Jerantut
+313,pn,pas,pn,Mohd Zakhwan Ahmad Badarddin,L,08109,Pahang,Jerantut
+314,bn,umno,bn,Muhamad Fasal Jamlus,L,08110,Pahang,Jerantut
+315,ph,pkr,ph,Mohamad Rafly Mohd Satar,L,08110,Pahang,Jerantut
+316,,ind,ind,Izzuddin Ismail,L,08110,Pahang,Jerantut
+317,pn,pas,pn,Zuridan Mohd Daud,L,08110,Pahang,Jerantut
+318,ph,amanah,ph,Norani Muhd @ Mohd Arshad,L,08111,Pahang,Jerantut
+319,gta,pejuang,pejuang,Mohd Rosidi Hassan,L,08111,Pahang,Jerantut
+320,,ind,ind,Ridzuan Mansor,L,08111,Pahang,Jerantut
+321,pn,pas,pn,Yohanis Ahmad,L,08111,Pahang,Jerantut
+322,bn,umno,bn,Nazri Ngah,L,08111,Pahang,Jerantut
+323,ph,amanah,ph,Zulkifli Mohamed,L,08212,Pahang,Indera Mahkota
+324,,ind,ind,Joseph Tang,L,08212,Pahang,Indera Mahkota
+325,bn,umno,bn,Mustaffar Kamal Ab Hamid,L,08212,Pahang,Indera Mahkota
+326,pn,pas,pn,Andansura Rabu,L,08212,Pahang,Indera Mahkota
+327,gta,pejuang,pejuang,Mohd Pauzi Taib,L,08212,Pahang,Indera Mahkota
+328,ph,pkr,ph,Chan Chun Kuang,L,08213,Pahang,Indera Mahkota
+329,bn,umno,bn,Khairul Hisham Omar,L,08213,Pahang,Indera Mahkota
+330,pn,pas,pn,Zulfadhli Zakariah,L,08213,Pahang,Indera Mahkota
+331,gta,pejuang,pejuang,Rashidah Abdul Rahman,P,08213,Pahang,Indera Mahkota
+332,bn,mca,bn,Tee Choon Ser,P,08314,Pahang,Kuantan
+333,pn,gerakan,pn,Yap Kim Heng,L,08314,Pahang,Kuantan
+334,gta,pejuang,pejuang,Khairul Afifie Abdullah,L,08314,Pahang,Kuantan
+335,ph,pkr,ph,Sim Chon Siang,L,08314,Pahang,Kuantan
+336,pn,pas,pn,Rosli Abdul Jabar,L,08315,Pahang,Kuantan
+337,bn,umno,bn,Nara @ Nikman Nordin,L,08315,Pahang,Kuantan
+338,gta,pejuang,pejuang,Ab 'alim Ruslam Ahmad,L,08315,Pahang,Kuantan
+339,ph,amanah,ph,Sabrina Md Yusuff,P,08315,Pahang,Kuantan
+340,gta,pejuang,pejuang,Norashikin Ismail,P,08316,Pahang,Kuantan
+341,bn,umno,bn,Shafik Fauzan Sharif,L,08316,Pahang,Kuantan
+342,ph,pkr,ph,Fakhrul Anuar Zulkawi,L,08316,Pahang,Kuantan
+343,pn,pas,pn,Mohd Hafizal Mohamed Shah,L,08316,Pahang,Kuantan
+344,gta,pejuang,pejuang,Anuar Tajuddin,L,08417,Pahang,Paya Besar
+345,bn,umno,bn,Umar Arbain Haji Dollah,L,08417,Pahang,Paya Besar
+346,ph,pkr,ph,Ahmad Omar,L,08417,Pahang,Paya Besar
+347,pn,pas,pn,Mohamad Ayub Asri,L,08417,Pahang,Paya Besar
+348,pn,bersatu,pn,Mohd Yazid Mohd Yunus,L,08418,Pahang,Paya Besar
+349,gta,pejuang,pejuang,Rosminahar Mohd Amin,L,08418,Pahang,Paya Besar
+350,ph,amanah,ph,Muhammad Ibrohim Mazalan,L,08418,Pahang,Paya Besar
+351,bn,umno,bn,Abdul Rahim Muda,L,08418,Pahang,Paya Besar
+352,bn,umno,bn,Fauziah Abd Wahab,P,08419,Pahang,Paya Besar
+353,pn,pas,pn,Mohd Tarmizi Yahya,L,08419,Pahang,Paya Besar
+354,ph,pkr,ph,Haslindalina Hashim,P,08419,Pahang,Paya Besar
+355,gta,pejuang,pejuang,Afif Syairol,L,08419,Pahang,Paya Besar
+356,bn,umno,bn,Khairuddin Mahmud,L,08520,Pahang,Pekan
+357,pn,pas,pn,Mohammad Rafiq Khan A Hmad Khan,L,08520,Pahang,Pekan
+358,ph,dap,ph,Muhammad Khairil,L,08520,Pahang,Pekan
+359,ph,amanah,ph,Tugimon Abdul Hamid,L,08521,Pahang,Pekan
+360,,ind,ind,Tengku Hisham,L,08521,Pahang,Pekan
+361,bn,umno,bn,Mohd Nizar Najib,L,08521,Pahang,Pekan
+362,pn,bersatu,pn,Abu Talib Muhammad,L,08521,Pahang,Pekan
+363,ph,amanah,ph,Ibrahim Sulaiman,L,08522,Pahang,Pekan
+364,pn,bersatu,pn,Narzatul Haidar Sakim,L,08522,Pahang,Pekan
+365,bn,umno,bn,Mohd Fakhruddin Mohd Arif,L,08522,Pahang,Pekan
+366,bn,umno,bn,Mohd Sharim Md Zain,L,08523,Pahang,Pekan
+367,ph,pkr,ph,Mohamad Yazid Che Mat,L,08523,Pahang,Pekan
+368,pn,pas,pn,Fahrur Rozi Jalaluddin,L,08523,Pahang,Pekan
+369,bn,umno,bn,Jamaluddin Md Marzuki,L,08624,Pahang,Maran
+370,pn,pas,pn,Mohd Sofian Abd Jalil,L,08624,Pahang,Maran
+371,ph,pkr,ph,Mohd Afandi Abd Rani,L,08624,Pahang,Maran
+372,pn,bersatu,pn,Jasri Jamaludin,L,08625,Pahang,Maran
+373,bn,umno,bn,Mohd Khairuddin Mohd Ali Hanafiah,L,08625,Pahang,Maran
+374,ph,pkr,ph,Amran Tahir,L,08625,Pahang,Maran
+375,ph,amanah,ph,Nor Hisham Mohd Suki,L,08626,Pahang,Maran
+376,bn,umno,bn,Saiful Anuar Mokhtar,L,08626,Pahang,Maran
+377,pn,pas,pn,Mujibur Rahman Ishak,L,08626,Pahang,Maran
+378,ph,pkr,ph,Mohamad Hafez Harun,L,08727,Pahang,Kuala Krau
+379,pn,pas,pn,Md Anuar Daud,L,08727,Pahang,Kuala Krau
+380,bn,umno,bn,Rodzuan Zaaba,L,08727,Pahang,Kuala Krau
+381,pn,bersatu,pn,Mohd Arhan Mohd Saludin,L,08728,Pahang,Kuala Krau
+382,ph,amanah,ph,Ahmad Ariff Md Daud,L,08728,Pahang,Kuala Krau
+383,bn,umno,bn,Syed Ibrahim Syed Ahmad,L,08728,Pahang,Kuala Krau
+384,bn,umno,bn,Norhasmimi Abdul Ghani,P,08729,Pahang,Kuala Krau
+385,pn,pas,pn,Shahril Azman Abd Halim,L,08729,Pahang,Kuala Krau
+386,ph,amanah,ph,Jamaluddin Abd Rahim,L,08729,Pahang,Kuala Krau
+387,gta,putra,pejuang,Abdul Wahab Kadir,L,08830,Pahang,Temerloh
+388,bn,mca,bn,Wong Tze Shiang,L,08830,Pahang,Temerloh
+389,pn,bersatu,pn,Mohd Yusoff Abdullah,L,08830,Pahang,Temerloh
+390,ph,dap,ph,Woo Chee Wan,L,08830,Pahang,Temerloh
+391,,prm,prm,Jamil Yaakub,L,08831,Pahang,Temerloh
+392,bn,umno,bn,Razmi Sudin,L,08831,Pahang,Temerloh
+393,pn,pas,pn,Hassan Omar,L,08831,Pahang,Temerloh
+394,gta,pejuang,pejuang,Zaini Mohamad,L,08831,Pahang,Temerloh
+395,ph,pkr,ph,Rosli Ismail @ahmad,L,08831,Pahang,Temerloh
+396,gta,pejuang,pejuang,Syafiq Khaidir,L,08832,Pahang,Temerloh
+397,pn,pas,pn,Hassanuddin Salim,L,08832,Pahang,Temerloh
+398,bn,umno,bn,Nor Azmi Mat Ludin,L,08832,Pahang,Temerloh
+399,ph,pkr,ph,Azizul Shah Mohd Noor,L,08832,Pahang,Temerloh
+400,bn,umno,bn,Johari Harun,L,08936,Pahang,Bentong
+401,gta,pejuang,pejuang,Isa Ahmad,L,08936,Pahang,Bentong
+402,ph,amanah,ph,Ahmed Wafiuddin Shamsuri,L,08936,Pahang,Bentong
+403,pn,pas,pn,Kasim Samat,L,08936,Pahang,Bentong
+404,ph,dap,ph,Thomas Su Keong Siong,L,08934,Pahang,Bentong
+405,pn,gerakan,pn,Tan Wei Leong,L,08934,Pahang,Bentong
+406,bn,umno,bn,Amizar Abu Adam,L,08934,Pahang,Bentong
+407,pn,bersatu,pn,Nurul Qomar Abdol Talib @ Ramali,L,08935,Pahang,Bentong
+408,ph,dap,ph,Kamache Doray Rajoo,P,08935,Pahang,Bentong
+409,bn,mic,bn,V Arumugam,L,08935,Pahang,Bentong
+410,gta,putra,pejuang,Mohd Shokri Mahmood,L,08933,Pahang,Bentong
+411,pn,gerakan,pn,Chandra Balabedha,L,08933,Pahang,Bentong
+412,bn,mca,bn,Wong Siew Mun,P,08933,Pahang,Bentong
+413,ph,dap,ph,Lee Chin Chen,L,08933,Pahang,Bentong
+414,,ind,ind,Jafari Mohd Yusof,L,09037,Pahang,Bera
+415,pn,bersatu,pn,Nor Hashimah Mat Noh,P,09037,Pahang,Bera
+416,bn,umno,bn,Sabariah Saidin,P,09037,Pahang,Bera
+417,ph,amanah,ph,Noraini Abdul Ghani,P,09037,Pahang,Bera
+418,pn,bersatu,pn,Muhammad Izzuddin Zulkifli,L,09038,Pahang,Bera
+419,bn,mca,bn,Yee Cheng Hwa,L,09038,Pahang,Bera
+420,ph,dap,ph,Leong Yu Man,P,09038,Pahang,Bera
+421,bn,umno,bn,Khaizulnizam Mohamad Zuldin,L,09039,Pahang,Bera
+422,pn,pas,pn,Shapuan Hussin,L,09039,Pahang,Bera
+423,pn,pas,pn,Nazri Ahmad,L,09140,Pahang,Rompin
+424,ph,pkr,ph,Barirah Mohd Mokhtar,P,09140,Pahang,Rompin
+425,bn,umno,bn,Samsiah Arshad,P,09140,Pahang,Rompin
+426,pn,bersatu,pn,Zulkurnain Mohamad Ridzuan,L,09141,Pahang,Rompin
+427,bn,umno,bn,Razali Kassim,L,09141,Pahang,Rompin
+428,ph,pkr,ph,Norlaily Forizad,P,09141,Pahang,Rompin
+429,,ind,ind,Sulaiman Bakar,L,09142,Pahang,Rompin
+430,gta,pejuang,pejuang,Osman Bakar,L,09142,Pahang,Rompin
+431,pn,pas,pn,Md Yunus Ramli,L,09142,Pahang,Rompin
+432,ph,amanah,ph,Mohd Fadzli Mohd Ramly,L,09142,Pahang,Rompin
+433,bn,umno,bn,Mohd Johari Hussain,L,09142,Pahang,Rompin
+434,gta,pejuang,pejuang,Mohd Hassan Abu Bakar,L,18966,Sabah,Semporna
+435,,warisan,warisan,Jamil Hamzah,L,18966,Sabah,Semporna
+436,,pbm,pbm,Nazmahwati Walli,P,18966,Sabah,Semporna
+437,,ind,ind,Jufazli Shi Ahmad,L,18966,Sabah,Semporna
+438,,pprs,pprs,Karil Pg Kuraini,L,18966,Sabah,Semporna
+439,bn,umno,bn,Abd Aziz Mohd Ibno,L,18966,Sabah,Semporna
+440,ph,pkr,ph,Arastam Pandorog,L,18966,Sabah,Semporna
