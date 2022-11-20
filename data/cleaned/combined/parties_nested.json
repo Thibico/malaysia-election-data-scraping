@@ -1,0 +1,1344 @@
+{
+    "2004": {
+        "PAS": {
+            "coalition": "BA",
+            "coalition_name": "Alternative Front",
+            "coalition_name_bahasa": "Barisan Alternatif",
+            "party_name": "Pan-Malaysian Islamic Party",
+            "party_color": "#009000",
+            "coalition_color": "#ed161e"
+        },
+        "PKR": {
+            "coalition": "BA",
+            "coalition_name": "Alternative Front",
+            "coalition_name_bahasa": "Barisan Alternatif",
+            "party_name": "People's Justice Party",
+            "party_color": "#00ADEF",
+            "coalition_color": "#ed161e"
+        },
+        "UMNO": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Malays National Organisation",
+            "party_color": "#E62020",
+            "coalition_color": "#000080"
+        },
+        "MCA": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian Chinese Association",
+            "party_color": "#0000FF",
+            "coalition_color": "#000080"
+        },
+        "GERAKAN": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian People's Movement Party",
+            "party_color": "#FF0000",
+            "coalition_color": "#000080"
+        },
+        "MIC": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian Indian Congress",
+            "party_color": "#29AB87",
+            "coalition_color": "#000080"
+        },
+        "SUPP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Sarawak United People's Party",
+            "party_color": "yellow",
+            "coalition_color": "#000080"
+        },
+        "PBB": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Traditional Bumiputera Party",
+            "party_color": "red",
+            "coalition_color": "#000080"
+        },
+        "UPKO": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Pasokmomogun Kadazandusun Murut Organisation",
+            "party_color": "#00008B",
+            "coalition_color": "#000080"
+        },
+        "SPDP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Sarawak Progressive Democratic Party",
+            "party_color": "#FFFF00",
+            "coalition_color": "#000080"
+        },
+        "PBDS": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Parti Bansa Dayak Sarawak",
+            "party_color": "",
+            "coalition_color": "#000080"
+        },
+        "PBS": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Sabah Party",
+            "party_color": "#ADD8E6",
+            "coalition_color": "#000080"
+        },
+        "PPP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "People's Progressive Party",
+            "party_color": "#DAA520",
+            "coalition_color": "#000080"
+        },
+        "SAPP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Sabah Progressive Party",
+            "party_color": "#F8F6BC",
+            "coalition_color": "#000080"
+        },
+        "LDP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Liberal Democratic Party",
+            "party_color": "#FF7F00",
+            "coalition_color": "#000080"
+        },
+        "PBRS": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Sabah People's Party",
+            "party_color": "#FEDF00",
+            "coalition_color": "#000080"
+        },
+        "DAP": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Democratic Action Party",
+            "party_color": "#ED1C24",
+            "coalition_color": ""
+        },
+        "SNAP": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Sarawak National Party",
+            "party_color": "#717190",
+            "coalition_color": ""
+        },
+        "STAR": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "State Reform Party",
+            "party_color": "#E8C0F2",
+            "coalition_color": ""
+        },
+        "SETIA": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "United Democratic Sabah People's Power Party",
+            "party_color": "",
+            "coalition_color": ""
+        },
+        "MDP": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Malaysian Democratic Party",
+            "party_color": "",
+            "coalition_color": ""
+        },
+        "PASOK": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "United Pasok Nunukragang National Organisation",
+            "party_color": "",
+            "coalition_color": ""
+        },
+        "IND": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Independents",
+            "party_color": "#DCDCDC",
+            "coalition_color": ""
+        }
+    },
+    "2008": {
+        "UMNO": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Malays National Organisation",
+            "party_color": "#E62020",
+            "coalition_color": "#000080"
+        },
+        "MCA": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian Chinese Association",
+            "party_color": "#0000FF",
+            "coalition_color": "#000080"
+        },
+        "GERAKAN": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian People's Movement Party",
+            "party_color": "#FF0000",
+            "coalition_color": "#000080"
+        },
+        "MIC": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian Indian Congress",
+            "party_color": "#29AB87",
+            "coalition_color": "#000080"
+        },
+        "PBB": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Traditional Bumiputera Party",
+            "party_color": "red",
+            "coalition_color": "#000080"
+        },
+        "SUPP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Sarawak United People's Party",
+            "party_color": "yellow",
+            "coalition_color": "#000080"
+        },
+        "UPKO": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Pasokmomogun Kadazandusun Murut Organisation",
+            "party_color": "#00008B",
+            "coalition_color": "#000080"
+        },
+        "SPDP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Sarawak Progressive Democratic Party",
+            "party_color": "#FFFF00",
+            "coalition_color": "#000080"
+        },
+        "PBS": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Sabah Party",
+            "party_color": "#ADD8E6",
+            "coalition_color": "#000080"
+        },
+        "PRS": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Sarawak People's Party",
+            "party_color": "green",
+            "coalition_color": "#000080"
+        },
+        "SAPP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Sabah Progressive Party",
+            "party_color": "#F8F6BC",
+            "coalition_color": "#000080"
+        },
+        "PPP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "People's Progressive Party",
+            "party_color": "#DAA520",
+            "coalition_color": "#000080"
+        },
+        "LDP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Liberal Democratic Party",
+            "party_color": "#FF7F00",
+            "coalition_color": "#000080"
+        },
+        "PBRS": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Sabah People's Party",
+            "party_color": "#FEDF00",
+            "coalition_color": "#000080"
+        },
+        "PKR": {
+            "coalition": "PR",
+            "coalition_name": "People's Pact",
+            "coalition_name_bahasa": "Pakatan Rakyat",
+            "party_name": "People's Justice Party",
+            "party_color": "#00ADEF",
+            "coalition_color": "#f05922"
+        },
+        "PAS": {
+            "coalition": "PR",
+            "coalition_name": "People's Pact",
+            "coalition_name_bahasa": "Pakatan Rakyat",
+            "party_name": "Pan-Malaysian Islamic Party",
+            "party_color": "#009000",
+            "coalition_color": "#f05922"
+        },
+        "DAP": {
+            "coalition": "PR",
+            "coalition_name": "People's Pact",
+            "coalition_name_bahasa": "Pakatan Rakyat",
+            "party_name": "Democratic Action Party",
+            "party_color": "#ED1C24",
+            "coalition_color": "#f05922"
+        },
+        "PRM": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Malaysian People's Party",
+            "party_color": "",
+            "coalition_color": ""
+        },
+        "SNAP": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Sarawak National Party",
+            "party_color": "#717190",
+            "coalition_color": ""
+        },
+        "PASOK": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "United Pasok Nunukragang National Organisation",
+            "party_color": "",
+            "coalition_color": ""
+        },
+        "BERSEKUTU": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Federated Sabah People's Front",
+            "party_color": "",
+            "coalition_color": ""
+        },
+        "IND": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Independents",
+            "party_color": "#DCDCDC",
+            "coalition_color": ""
+        }
+    },
+    "2013": {
+        "UMNO": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Malays National Organisation",
+            "party_color": "#e62020",
+            "coalition_color": "#000080"
+        },
+        "MCA": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian Chinese Association",
+            "party_color": "#00f",
+            "coalition_color": "#000080"
+        },
+        "MIC": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian Indian Congress",
+            "party_color": "#29ab87",
+            "coalition_color": "#000080"
+        },
+        "PBB": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Traditional Bumiputera Party",
+            "party_color": "red",
+            "coalition_color": "#000080"
+        },
+        "GERAKAN": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian People's Movement Party",
+            "party_color": "#f00",
+            "coalition_color": "#000080"
+        },
+        "SUPP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Sarawak United People's Party",
+            "party_color": "yellow",
+            "coalition_color": "#000080"
+        },
+        "PBS": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Sabah Party",
+            "party_color": "#add8e6",
+            "coalition_color": "#000080"
+        },
+        "PRS": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Sarawak People's Party",
+            "party_color": "green",
+            "coalition_color": "#000080"
+        },
+        "SPDP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Sarawak Progressive Democratic Party",
+            "party_color": "#ff0",
+            "coalition_color": "#000080"
+        },
+        "UPKO": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Pasokmomogun Kadazandusun Murut Organisation",
+            "party_color": "darkBlue",
+            "coalition_color": "#000080"
+        },
+        "LDP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Liberal Democratic Party",
+            "party_color": "#ff7f00",
+            "coalition_color": "#000080"
+        },
+        "PBRS": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Sabah People's Party",
+            "party_color": "#fedf00",
+            "coalition_color": "#000080"
+        },
+        "PPP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "People's Progressive Party",
+            "party_color": "#daa520",
+            "coalition_color": "#000080"
+        },
+        "DAP": {
+            "coalition": "PR",
+            "coalition_name": "People's Pact",
+            "coalition_name_bahasa": "Pakatan Rakyat",
+            "party_name": "Democratic Action Party",
+            "party_color": "#ED1C24",
+            "coalition_color": "#f05922"
+        },
+        "PKR": {
+            "coalition": "PR",
+            "coalition_name": "People's Pact",
+            "coalition_name_bahasa": "Pakatan Rakyat",
+            "party_name": "People's Justice Party",
+            "party_color": "#00ADEF",
+            "coalition_color": "#f05922"
+        },
+        "PAS": {
+            "coalition": "PR",
+            "coalition_name": "People's Pact",
+            "coalition_name_bahasa": "Pakatan Rakyat",
+            "party_name": "Pan-Malaysian Islamic Party",
+            "party_color": "#009000",
+            "coalition_color": "#f05922"
+        },
+        "STAR": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "State Reform Party",
+            "party_color": "#E8C0F2",
+            "coalition_color": ""
+        },
+        "BERJASA": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Pan-Malaysian Islamic Front",
+            "party_color": "#730947",
+            "coalition_color": ""
+        },
+        "SWP": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Sarawak Workers Party",
+            "party_color": "#E2E2C0",
+            "coalition_color": ""
+        },
+        "SAPP": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Sabah Progressive Party",
+            "party_color": "#F8F6BC",
+            "coalition_color": ""
+        },
+        "PCM": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Love Malaysia Party",
+            "party_color": "#DAE2EA",
+            "coalition_color": ""
+        },
+        "KITA": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "People's Welfare Party",
+            "party_color": "#F2D6C0",
+            "coalition_color": ""
+        },
+        "MUPP": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Malaysian United People's Party",
+            "party_color": "#F2D8D8",
+            "coalition_color": ""
+        },
+        "IND": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Independents",
+            "party_color": "#DCDCDC",
+            "coalition_color": ""
+        }
+    },
+    "2018": {
+        "UMNO": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Malays National Organisation",
+            "party_color": "#F21415",
+            "coalition_color": "#000080"
+        },
+        "PBB": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Bumiputera Heritage Party",
+            "party_color": "#F0E98B",
+            "coalition_color": "#000080"
+        },
+        "PRS": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Sarawak People's Party",
+            "party_color": "#57D757",
+            "coalition_color": "#000080"
+        },
+        "MIC": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian Indian Congress",
+            "party_color": "#00A988",
+            "coalition_color": "#000080"
+        },
+        "PDP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Progressive Democratic Party",
+            "party_color": "#6ABFE6",
+            "coalition_color": "#000080"
+        },
+        "MCA": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian Chinese Association",
+            "party_color": "#0000FF",
+            "coalition_color": "#000080"
+        },
+        "SUPP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Sarawak United People's Party",
+            "party_color": "#FFFF00",
+            "coalition_color": "#000080"
+        },
+        "PBS": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Sabah Party",
+            "party_color": "#ADD8E6",
+            "coalition_color": "#000080"
+        },
+        "UPKO": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Pasokmomogun Kadazandusun Murut Organisation",
+            "party_color": "#ABCDFF",
+            "coalition_color": "#000080"
+        },
+        "PBRS": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Sabah People's Party",
+            "party_color": "#FEDF00",
+            "coalition_color": "#000080"
+        },
+        "GERAKAN": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian People's Movement Party",
+            "party_color": "#FF0000",
+            "coalition_color": "#000080"
+        },
+        "LDP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Liberal Democratic Party",
+            "party_color": "#FF7F00",
+            "coalition_color": "#000080"
+        },
+        "MYPPP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "People's Progressive Party",
+            "party_color": "#DAA520",
+            "coalition_color": "#000080"
+        },
+        "PAS": {
+            "coalition": "GS",
+            "coalition_name": "Ideas of Prosperity",
+            "coalition_name_bahasa": "Gagasan Sejahtera",
+            "party_name": "Pan-Malaysian Islamic Party",
+            "party_color": "#009000",
+            "coalition_color": "#008800"
+        },
+        "IKATAN": {
+            "coalition": "GS",
+            "coalition_name": "Ideas of Prosperity",
+            "coalition_name_bahasa": "Gagasan Sejahtera",
+            "party_name": "Malaysian National Alliance Party",
+            "party_color": "#CD2122",
+            "coalition_color": "#008800"
+        },
+        "BERJASA": {
+            "coalition": "GS",
+            "coalition_name": "Ideas of Prosperity",
+            "coalition_name_bahasa": "Gagasan Sejahtera",
+            "party_name": "Pan-Malaysian Islamic Front",
+            "party_color": "#730947",
+            "coalition_color": "#008800"
+        },
+        "PCM": {
+            "coalition": "GS",
+            "coalition_name": "Ideas of Prosperity",
+            "coalition_name_bahasa": "Gagasan Sejahtera",
+            "party_name": "Love Malaysia Party",
+            "party_color": "#DAE2EA",
+            "coalition_color": "#008800"
+        },
+        "PKR": {
+            "coalition": "PH",
+            "coalition_name": "Alliance of Hope",
+            "coalition_name_bahasa": "Pakatan Harapan",
+            "party_name": "People's Justice Party",
+            "party_color": "#00ADEF",
+            "coalition_color": "#ED1C24"
+        },
+        "DAP": {
+            "coalition": "PH",
+            "coalition_name": "Alliance of Hope",
+            "coalition_name_bahasa": "Pakatan Harapan",
+            "party_name": "Democratic Action Party",
+            "party_color": "#ED1C24",
+            "coalition_color": "#ED1C24"
+        },
+        "PPBM": {
+            "coalition": "PH",
+            "coalition_name": "Alliance of Hope",
+            "coalition_name_bahasa": "Pakatan Harapan",
+            "party_name": "Malaysian United Indigenous Party",
+            "party_color": "#E62020",
+            "coalition_color": "#ED1C24"
+        },
+        "AMANAH": {
+            "coalition": "PH",
+            "coalition_name": "Alliance of Hope",
+            "coalition_name_bahasa": "Pakatan Harapan",
+            "party_name": "National Trust Party",
+            "party_color": "#FFA009",
+            "coalition_color": "#ED1C24"
+        },
+        "WARISAN": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Sabah Heritage Party",
+            "party_color": "#A4E5FC",
+            "coalition_color": ""
+        },
+        "STAR": {
+            "coalition": "USA",
+            "coalition_name": "United Sabah Alliance",
+            "coalition_name_bahasa": "",
+            "party_name": "Homeland Solidarity Party",
+            "party_color": "#78D7F5",
+            "coalition_color": "#1A1A1A"
+        },
+        "PHRS": {
+            "coalition": "USA",
+            "coalition_name": "United Sabah Alliance",
+            "coalition_name_bahasa": "",
+            "party_name": "Sabah People's Hope Party",
+            "party_color": "#6F92C0",
+            "coalition_color": "#1A1A1A"
+        },
+        "SAPP": {
+            "coalition": "USA",
+            "coalition_name": "United Sabah Alliance",
+            "coalition_name_bahasa": "",
+            "party_name": "Sabah Progressive Party",
+            "party_color": "#F8F6BC",
+            "coalition_color": "#1A1A1A"
+        },
+        "PPRS": {
+            "coalition": "USA",
+            "coalition_name": "United Sabah Alliance",
+            "coalition_name_bahasa": "",
+            "party_name": "Sabah People's Unity Party",
+            "party_color": "#FFCD00",
+            "coalition_color": "#1A1A1A"
+        },
+        "PCS": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Love Sabah Party",
+            "party_color": "#FB5B47",
+            "coalition_color": ""
+        },
+        "PSM": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Socialist Party of Malaysia",
+            "party_color": "#800000",
+            "coalition_color": ""
+        },
+        "PRM": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Malaysian People's Party",
+            "party_color": "#F8F9FA",
+            "coalition_color": ""
+        },
+        "MUP": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Malaysian United Party",
+            "party_color": "#F617D4",
+            "coalition_color": ""
+        },
+        "ANAK NEGERI": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Sabah Native Co-operation Party",
+            "party_color": "#F49950",
+            "coalition_color": ""
+        },
+        "PEACE": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "People\u2019s Alliance For Justice of Peace",
+            "party_color": "#74764D",
+            "coalition_color": ""
+        },
+        "PFP": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Penang Front Party",
+            "party_color": "#E45035",
+            "coalition_color": ""
+        },
+        "PBDSB": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "New Sarawak Native People's Party",
+            "party_color": "#E0F810",
+            "coalition_color": ""
+        },
+        "PBK": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Land of the Hornbill Party",
+            "party_color": "#FBC625",
+            "coalition_color": ""
+        },
+        "PAP": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "People's Alternative Party",
+            "party_color": "#EDFBFF",
+            "coalition_color": ""
+        },
+        "IND": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Independents",
+            "party_color": "#DCDCDC",
+            "coalition_color": ""
+        }
+    },
+    "2022": {
+        "IND": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Independents",
+            "party_color": "#DCDCDC",
+            "coalition_color": ""
+        },
+        "KDM": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Social Democratic Harmony Party",
+            "party_color": "#F6787F",
+            "coalition_color": ""
+        },
+        "PBDS": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Parti Bansa Dayak Sarawak",
+            "party_color": "#fbeb0b",
+            "coalition_color": ""
+        },
+        "PBK": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Land of the Hornbill Party",
+            "party_color": "#FBC625",
+            "coalition_color": ""
+        },
+        "PBM": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Parti Bangsa Malaysia",
+            "party_color": "#6129aa",
+            "coalition_color": ""
+        },
+        "PPRS": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Sabah People's Unity Party",
+            "party_color": "#FFCD00",
+            "coalition_color": ""
+        },
+        "PRM": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Malaysian People's Party",
+            "party_color": "#D00000",
+            "coalition_color": ""
+        },
+        "PSB": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Parti Sarawak Bersatu",
+            "party_color": "#FDF642",
+            "coalition_color": ""
+        },
+        "PSM": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Socialist Party of Malaysia",
+            "party_color": "#800000",
+            "coalition_color": ""
+        },
+        "PUR": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "People First Party",
+            "party_color": "",
+            "coalition_color": ""
+        },
+        "SEDAR": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Parti Sedar Rakyat Sarawak",
+            "party_color": "#f5e800",
+            "coalition_color": ""
+        },
+        "WARISAN": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "Sabah Heritage Party",
+            "party_color": "#A4E5FC",
+            "coalition_color": ""
+        },
+        "IPF": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "All Malaysian Indian Progressive Front",
+            "party_color": "#d6242a",
+            "coalition_color": "#000080"
+        },
+        "KIMMA": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian Indian Muslim Congress",
+            "party_color": "#FFCC00",
+            "coalition_color": "#000080"
+        },
+        "MCA": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian Chinese Association",
+            "party_color": "#0000FF",
+            "coalition_color": "#000080"
+        },
+        "MIC": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian Indian Congress",
+            "party_color": "#29AB87",
+            "coalition_color": "#000080"
+        },
+        "MMSP": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysia Makkal Sakti Party ",
+            "party_color": "#EF8611",
+            "coalition_color": "#000080"
+        },
+        "PBRS": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Sabah People's Party",
+            "party_color": "#FEDF00",
+            "coalition_color": "#000080"
+        },
+        "PCM": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Love Malaysia Party",
+            "party_color": "#DAE2EA",
+            "coalition_color": "#000080"
+        },
+        "UMNO": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Malays National Organisation",
+            "party_color": "#E62020",
+            "coalition_color": "#000080"
+        },
+        "PBB": {
+            "coalition": "GPS",
+            "coalition_name": "Sarawak Parties Alliance",
+            "coalition_name_bahasa": "Gabungan Parti Sarawak",
+            "party_name": "United Traditional Bumiputera Party",
+            "party_color": "red",
+            "coalition_color": "#cf6061"
+        },
+        "PDP": {
+            "coalition": "GPS",
+            "coalition_name": "Sarawak Parties Alliance",
+            "coalition_name_bahasa": "Gabungan Parti Sarawak",
+            "party_name": "Progressive Democratic Party",
+            "party_color": "#6ABFE6",
+            "coalition_color": "#cf6061"
+        },
+        "PRS": {
+            "coalition": "GPS",
+            "coalition_name": "Sarawak Parties Alliance",
+            "coalition_name_bahasa": "Gabungan Parti Sarawak",
+            "party_name": "Sarawak People's Party",
+            "party_color": "green",
+            "coalition_color": "#cf6061"
+        },
+        "SUPP": {
+            "coalition": "GPS",
+            "coalition_name": "Sarawak Parties Alliance",
+            "coalition_name_bahasa": "Gabungan Parti Sarawak",
+            "party_name": "Sarawak United People's Party",
+            "party_color": "yellow",
+            "coalition_color": "#cf6061"
+        },
+        "BERSATU SABAH": {
+            "coalition": "GRS",
+            "coalition_name": "Sabah People's Coalition",
+            "coalition_name_bahasa": "Gabungan Rakyat Sabah",
+            "party_name": "Malaysian United Indigenous Party Sabah",
+            "party_color": "#e20108",
+            "coalition_color": "#91cbf2"
+        },
+        "PBS": {
+            "coalition": "GRS",
+            "coalition_name": "Sabah People's Coalition",
+            "coalition_name_bahasa": "Gabungan Rakyat Sabah",
+            "party_name": "United Sabah Party",
+            "party_color": "#ADD8E6",
+            "coalition_color": "#91cbf2"
+        },
+        "SAPP": {
+            "coalition": "GRS",
+            "coalition_name": "Sabah People's Coalition",
+            "coalition_name_bahasa": "Gabungan Rakyat Sabah",
+            "party_name": "Sabah Progressive Party",
+            "party_color": "#F8F6BC",
+            "coalition_color": "#91cbf2"
+        },
+        "STAR": {
+            "coalition": "GRS",
+            "coalition_name": "Sabah People's Coalition",
+            "coalition_name_bahasa": "Gabungan Rakyat Sabah",
+            "party_name": "State Reform Party",
+            "party_color": "#E8C0F2",
+            "coalition_color": "#91cbf2"
+        },
+        "BERJASA": {
+            "coalition": "GTA",
+            "coalition_name": "Homeland Movement",
+            "coalition_name_bahasa": "Gerakan Tanah Air",
+            "party_name": "Pan-Malaysian Islamic Front",
+            "party_color": "#730947",
+            "coalition_color": "#00678b"
+        },
+        "IMAN": {
+            "coalition": "GTA",
+            "coalition_name": "Homeland Movement",
+            "coalition_name_bahasa": "Gerakan Tanah Air",
+            "party_name": "National Indian Muslim Alliance Party",
+            "party_color": "#cd0000",
+            "coalition_color": "#00678b"
+        },
+        "PEJUANG": {
+            "coalition": "GTA",
+            "coalition_name": "Homeland Movement",
+            "coalition_name_bahasa": "Gerakan Tanah Air",
+            "party_name": "Homeland Fighters' Party",
+            "party_color": "#006A8E",
+            "coalition_color": "#00678b"
+        },
+        "PUTRA": {
+            "coalition": "GTA",
+            "coalition_name": "Homeland Movement",
+            "coalition_name_bahasa": "Gerakan Tanah Air",
+            "party_name": "Parti Bumiputera Perkasa Malaysia",
+            "party_color": "#d40206",
+            "coalition_color": "#00678b"
+        },
+        "DIRECT": {
+            "coalition": "multiple",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "",
+            "party_color": "",
+            "coalition_color": ""
+        },
+        "AMANAH": {
+            "coalition": "PH",
+            "coalition_name": "Alliance of Hope",
+            "coalition_name_bahasa": "Pakatan Harapan",
+            "party_name": "National Trust Party",
+            "party_color": "#FFA009",
+            "coalition_color": "#ED1C24"
+        },
+        "DAP": {
+            "coalition": "PH",
+            "coalition_name": "Alliance of Hope",
+            "coalition_name_bahasa": "Pakatan Harapan",
+            "party_name": "Democratic Action Party",
+            "party_color": "#ED1C24",
+            "coalition_color": "#ED1C24"
+        },
+        "MUDA": {
+            "coalition": "PH",
+            "coalition_name": "Alliance of Hope",
+            "coalition_name_bahasa": "Pakatan Harapan",
+            "party_name": "Malaysian United Democratic Alliance",
+            "party_color": "#000000",
+            "coalition_color": "#ED1C24"
+        },
+        "PKR": {
+            "coalition": "PH",
+            "coalition_name": "Alliance of Hope",
+            "coalition_name_bahasa": "Pakatan Harapan",
+            "party_name": "People's Justice Party",
+            "party_color": "#00ADEF",
+            "coalition_color": "#ED1C24"
+        },
+        "UPKO": {
+            "coalition": "PH",
+            "coalition_name": "Alliance of Hope",
+            "coalition_name_bahasa": "Pakatan Harapan",
+            "party_name": "United Pasokmomogun Kadazandusun Murut Organisation",
+            "party_color": "#ABCDFF",
+            "coalition_color": "#ED1C24"
+        },
+        "BERSATU": {
+            "coalition": "PN",
+            "coalition_name": "National Alliance",
+            "coalition_name_bahasa": "Perikatan Nasional",
+            "party_name": "Malaysian United Indigenous Party",
+            "party_color": "#e20108",
+            "coalition_color": "#002d51"
+        },
+        "GERAKAN": {
+            "coalition": "PN",
+            "coalition_name": "National Alliance",
+            "coalition_name_bahasa": "Perikatan Nasional",
+            "party_name": "Malaysian People's Movement Party",
+            "party_color": "#f00",
+            "coalition_color": "#002d51"
+        },
+        "PAS": {
+            "coalition": "PN",
+            "coalition_name": "National Alliance",
+            "coalition_name_bahasa": "Perikatan Nasional",
+            "party_name": "Pan-Malaysian Islamic Party",
+            "party_color": "#009000",
+            "coalition_color": "#002d51"
+        }
+    },
+    "2022 Incumbents": {
+        "DAP": {
+            "coalition": "PH",
+            "coalition_name": "Alliance of Hope",
+            "coalition_name_bahasa": "Pakatan Harapan",
+            "party_name": "Democratic Action Party",
+            "party_color": "#ED1C24",
+            "coalition_color": "#ED1C24"
+        },
+        "UMNO": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Malays National Organisation",
+            "party_color": "#F21415",
+            "coalition_color": "#000080"
+        },
+        "PKR": {
+            "coalition": "PH",
+            "coalition_name": "Alliance of Hope",
+            "coalition_name_bahasa": "Pakatan Harapan",
+            "party_name": "People's Justice Party",
+            "party_color": "#00ADEF",
+            "coalition_color": "#ED1C24"
+        },
+        "BERSATU": {
+            "coalition": "PN",
+            "coalition_name": "National Alliance",
+            "coalition_name_bahasa": "Perikatan Nasional",
+            "party_name": "Malaysian United Indigenous Party",
+            "party_color": "#e20108",
+            "coalition_color": "#002d51"
+        },
+        "PAS": {
+            "coalition": "PN",
+            "coalition_name": "National Alliance",
+            "coalition_name_bahasa": "Perikatan Nasional",
+            "party_name": "Pan-Malaysian Islamic Party",
+            "party_color": "#009000",
+            "coalition_color": "#002d51"
+        },
+        "PBB": {
+            "coalition": "GPS",
+            "coalition_name": "Sarawak Parties Alliance",
+            "coalition_name_bahasa": "Gabungan Parti Sarawak",
+            "party_name": "United Bumiputera Heritage Party",
+            "party_color": "#F0E98B",
+            "coalition_color": "#cf6061"
+        },
+        "AMANAH": {
+            "coalition": "PH",
+            "coalition_name": "Alliance of Hope",
+            "coalition_name_bahasa": "Pakatan Harapan",
+            "party_name": "National Trust Party",
+            "party_color": "#FFA009",
+            "coalition_color": "#ED1C24"
+        },
+        "PEJUANG": {
+            "coalition": "GTA",
+            "coalition_name": "Homeland Movement",
+            "coalition_name_bahasa": "Gerakan Tanah Air",
+            "party_name": "Homeland Fighters' Party",
+            "party_color": "#006A8E",
+            "coalition_color": "#00678b"
+        },
+        "MCA": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian Chinese Association",
+            "party_color": "#0000FF",
+            "coalition_color": "#000080"
+        },
+        "PRS": {
+            "coalition": "GPS",
+            "coalition_name": "Sarawak Parties Alliance",
+            "coalition_name_bahasa": "Gabungan Parti Sarawak",
+            "party_name": "Sarawak People's Party",
+            "party_color": "#57D757",
+            "coalition_color": "#cf6061"
+        },
+        "PDP": {
+            "coalition": "GPS",
+            "coalition_name": "Sarawak Parties Alliance",
+            "coalition_name_bahasa": "Gabungan Parti Sarawak",
+            "party_name": "Progressive Democratic Party",
+            "party_color": "#6ABFE6",
+            "coalition_color": "#cf6061"
+        },
+        "STAR": {
+            "coalition": "GRS",
+            "coalition_name": "Sabah People's Coalition",
+            "coalition_name_bahasa": "Gabungan Rakyat Sabah",
+            "party_name": "Homeland Solidarity Party",
+            "party_color": "#78D7F5",
+            "coalition_color": "#91cbf2"
+        },
+        "MIC": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "Malaysian Indian Congress",
+            "party_color": "#00A988",
+            "coalition_color": "#000080"
+        },
+        "SUPP": {
+            "coalition": "GPS",
+            "coalition_name": "Sarawak Parties Alliance",
+            "coalition_name_bahasa": "Gabungan Parti Sarawak",
+            "party_name": "Sarawak United People's Party",
+            "party_color": "#FFFF00",
+            "coalition_color": "#cf6061"
+        },
+        "MUDA": {
+            "coalition": "PH",
+            "coalition_name": "Alliance of Hope",
+            "coalition_name_bahasa": "Pakatan Harapan",
+            "party_name": "Malaysian United Democratic Alliance",
+            "party_color": "#000000",
+            "coalition_color": "#ED1C24"
+        },
+        "UPKO": {
+            "coalition": "PH",
+            "coalition_name": "Alliance of Hope",
+            "coalition_name_bahasa": "Pakatan Harapan",
+            "party_name": "United Pasokmomogun Kadazandusun Murut Organisation",
+            "party_color": "#ABCDFF",
+            "coalition_color": "#ED1C24"
+        },
+        "PBRS": {
+            "coalition": "BN",
+            "coalition_name": "National Front",
+            "coalition_name_bahasa": "Barisan Nasional",
+            "party_name": "United Sabah People's Party",
+            "party_color": "#FEDF00",
+            "coalition_color": "#000080"
+        },
+        "PBS": {
+            "coalition": "GRS",
+            "coalition_name": "Sabah People's Coalition",
+            "coalition_name_bahasa": "Gabungan Rakyat Sabah",
+            "party_name": "United Sabah Party",
+            "party_color": "#ADD8E6",
+            "coalition_color": "#91cbf2"
+        }
+    },
+    "": {
+        "": {
+            "coalition": "",
+            "coalition_name": "",
+            "coalition_name_bahasa": "",
+            "party_name": "",
+            "party_color": "",
+            "coalition_color": ""
+        }
+    }
+}

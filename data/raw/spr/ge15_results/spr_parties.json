@@ -1,0 +1,465 @@
+[
+  {
+    "id": 0,
+    "n": "TIADA MAKLUMAT",
+    "a": "TIADA",
+    "i": "tiada.png",
+    "c": "#FFFFFF"
+  },
+  {
+    "id": 1,
+    "n": "BARISAN NASIONAL OF MALAYSIA",
+    "a": "BN",
+    "i": "bn.png",
+    "c": "#031A93"
+  },
+  {
+    "id": 2,
+    "n": "PARTI ISLAM SE MALAYSIA",
+    "a": "PAS",
+    "i": "pas.png",
+    "c": "#6CB332"
+  },
+  {
+    "id": 3,
+    "n": "DEMOCRATIC ACTION PARTY, MALAYSIA",
+    "a": "DAP",
+    "i": "dap.png",
+    "c": "#E30911"
+  },
+  {
+    "id": 4,
+    "n": "BARISAN JAMAAH ISLAMIAH SE MALAYSIA",
+    "a": "BERJASA",
+    "i": "berjasa.png",
+    "c": "#005121"
+  },
+  {
+    "id": 5,
+    "n": "PARTI PESAKA BUMIPUTRA BERSATU SARAWAK",
+    "a": "PBB",
+    "i": "pbb.png",
+    "c": "ADADAD"
+  },
+  {
+    "id": 6,
+    "n": "KONGRES INDIAN MUSLIM MALAYSIA",
+    "a": "KIMMA",
+    "i": "kimma.png",
+    "c": "#DE8801"
+  },
+  {
+    "id": 7,
+    "n": "PARTI RAKYAT MALAYSIA",
+    "a": "PRM",
+    "i": "prm.png",
+    "c": "FE8591"
+  },
+  {
+    "id": 8,
+    "n": "PARTI BERSATU SABAH",
+    "a": "PBS",
+    "i": "pbs.png",
+    "c": "#763B37"
+  },
+  {
+    "id": 9,
+    "n": "PERTUBUHAN KINABALU PROGRESIF BERSATU",
+    "a": "UPKO",
+    "i": "upko.png",
+    "c": "#2A0E72"
+  },
+  {
+    "id": 10,
+    "n": "PARTI PUNJABI MALAYSIA",
+    "a": "PPM",
+    "i": "ppm.png",
+    "c": "CC9900"
+  },
+  { "id": 20, "n": "BEBAS", "a": "BEBAS", "i": "bebas.png", "c": "#993300" },
+  {
+    "id": 12,
+    "n": "PARTI GERAKAN RAKYAT MALAYSIA",
+    "a": "GERAKAN",
+    "i": "gerakan.png",
+    "c": "#FE2514"
+  },
+  {
+    "id": 13,
+    "n": "PARTI LIBERAL DEMOKRATIK",
+    "a": "LDP",
+    "i": "ldp.png",
+    "c": "#AB3D1A"
+  },
+  {
+    "id": 14,
+    "n": "PARTI MAJU SABAH",
+    "a": "PMS",
+    "i": "pms.png",
+    "c": "#FBFD0B"
+  },
+  {
+    "id": 15,
+    "n": "BARISAN KEMAJUAN INDIA SE-MALAYSIA",
+    "a": "AMIPF",
+    "i": "amipf.png",
+    "c": "#E30300"
+  },
+  {
+    "id": 16,
+    "n": "PARTI KEMAJUAN MALAYSIA",
+    "a": "MAP",
+    "i": "map.png",
+    "c": "#F6EB19"
+  },
+  {
+    "id": 17,
+    "n": "PERTUBUHAN KEBANGSAAN MELAYU BERSATU",
+    "a": "UMNO",
+    "i": "umno.png",
+    "c": "#A03232"
+  },
+  {
+    "id": 18,
+    "n": "MALAYSIAN CHINESE ASSOCIATION",
+    "a": "MCA",
+    "i": "mca.png",
+    "c": "#07257F"
+  },
+  {
+    "id": 19,
+    "n": "THE MALAYSIAN INDIAN CONGRESS",
+    "a": "MIC",
+    "i": "mic.png",
+    "c": "#00A55E"
+  },
+  {
+    "id": 11,
+    "n": "PARTI RAKYAT BERSATU SARAWAK",
+    "a": "SUPP",
+    "i": "supp.png",
+    "c": "#FFFF00"
+  },
+  {
+    "id": 21,
+    "n": "PARTI BERSATU RAKYAT SABAH",
+    "a": "PBRS",
+    "i": "pbrs.png",
+    "c": "#6666FF"
+  },
+  {
+    "id": 22,
+    "n": "PARTI DEMOKRATIK PROGRESIF SARAWAK",
+    "a": "PDP",
+    "i": "pdp.png",
+    "c": "#0000FD"
+  },
+  {
+    "id": 23,
+    "n": "PARTI KEADILAN RAKYAT",
+    "a": "PKR",
+    "i": "pkr.png",
+    "c": "#04A0D1"
+  },
+  {
+    "id": 24,
+    "n": "PARTI RAKYAT SARAWAK",
+    "a": "PRS",
+    "i": "prs.png",
+    "c": "#186D43"
+  },
+  {
+    "id": 25,
+    "n": "PARTI PEJUANG TANAHAIR",
+    "a": "PEJUANG",
+    "i": "pejuang.png",
+    "c": "#09618A"
+  },
+  {
+    "id": 26,
+    "n": "PENANG FRONT PARTY",
+    "a": "PFP",
+    "i": "pfp.png",
+    "c": "#E45035"
+  },
+  {
+    "id": 27,
+    "n": "PERIKATAN NASIONAL",
+    "a": "PN",
+    "i": "pn.png",
+    "c": "#043253"
+  },
+  {
+    "id": 28,
+    "n": "PARTI GAGASAN RAKYAT SABAH",
+    "a": "GAGASAN",
+    "i": "gagasan.png",
+    "c": "#e9d720"
+  },
+  {
+    "id": 29,
+    "n": "PARTI ASPIRASI RAKYAT SARAWAK",
+    "a": "ASPIRASI",
+    "i": "aspirasi.png",
+    "c": "#BD354D"
+  },
+  {
+    "id": 30,
+    "n": "PARTI BANSA DAYAK SARAWAK",
+    "a": "PBDS",
+    "i": "pbds.png",
+    "c": "#0B46C8"
+  },
+  {
+    "id": 31,
+    "n": "PAKATAN HARAPAN",
+    "a": "PH",
+    "i": "ph.png",
+    "c": "#D7292F"
+  },
+  {
+    "id": 32,
+    "n": "GABUNGAN PARTI SARAWAK",
+    "a": "GPS",
+    "i": "gps.png",
+    "c": "#1F2C45"
+  },
+  {
+    "id": 33,
+    "n": "PERTUBUHAN KEBANGSAAN SABAH BERSATU",
+    "a": "USNO",
+    "i": "usno.png",
+    "c": "#1A740A"
+  },
+  {
+    "id": 34,
+    "n": "PARTI BUMIPUTERA PERKASA MALAYSIA",
+    "a": "PUTRA",
+    "i": "putra.png",
+    "c": "#FEFE00"
+  },
+  {
+    "id": 35,
+    "n": "PARTI SARAWAK BERSATU",
+    "a": "PSB",
+    "i": "psb.png",
+    "c": "#A13C33"
+  },
+  {
+    "id": 36,
+    "n": "IKATAN DEMOKRATIK MALAYSIA",
+    "a": "MUDA",
+    "i": "muda.png",
+    "c": "#000000"
+  },
+  {
+    "id": 37,
+    "n": "PARTI PERIKATAN INDIA MUSLIM NASIONAL",
+    "a": "IMAN",
+    "i": "iman.png",
+    "c": "#EC1F26"
+  },
+  {
+    "id": 38,
+    "n": "PARTI SEDAR RAKYAT SARAWAK",
+    "a": "SEDAR",
+    "i": "sedar.png",
+    "c": "#C3B62B"
+  },
+  {
+    "id": 39,
+    "n": "PARTI MAKKAL SAKTI MALAYSIA",
+    "a": "M.M.S.P.",
+    "i": "M.M.S.P..png",
+    "c": "#EF8812"
+  },
+  {
+    "id": 40,
+    "n": "PARTI BERSATU SASA MALAYSIA",
+    "a": "BERSAMA",
+    "i": "bersama.png",
+    "c": "#FF66FF"
+  },
+  {
+    "id": 41,
+    "n": "PARTI CINTA MALAYSIA",
+    "a": "PCM",
+    "i": "pcm.png",
+    "c": "#F4E50E"
+  },
+  {
+    "id": 42,
+    "n": "PARTI BANGSA MALAYSIA",
+    "a": "PBM",
+    "i": "pbm.png",
+    "c": "#323467"
+  },
+  {
+    "id": 43,
+    "n": "PARTI SOSIALIS MALAYSIA (BARU)",
+    "a": "PSM",
+    "i": "psm.png",
+    "c": "#C0110D"
+  },
+  {
+    "id": 44,
+    "n": "MALAYSIAN CEYLONESE CONGRESS",
+    "a": "MCC",
+    "i": "mcc.png",
+    "c": "#C92725"
+  },
+  {
+    "id": 45,
+    "n": "PARTI AMANAH NEGARA",
+    "a": "AMANAH",
+    "i": "amanah.png",
+    "c": "#F79220"
+  },
+  {
+    "id": 46,
+    "n": "PARTI PERPADUAN RAKYAT SABAH",
+    "a": "PPRS",
+    "i": "pprs.png",
+    "c": "#0000FF"
+  },
+  {
+    "id": 47,
+    "n": "PARTI KERJASAMA ANAK NEGERI",
+    "a": "ANAKNEGERI",
+    "i": "anaknegeri.png",
+    "c": "#F6E13A"
+  },
+  {
+    "id": 48,
+    "n": "PEOPLE'S ALLIANCE FOR JUSTICE OF PEACE",
+    "a": "PEACE",
+    "i": "peace.png",
+    "c": "#FEF200"
+  },
+  {
+    "id": 49,
+    "n": "PARTI TENAGA RAKYAT SARAWAK",
+    "a": "TERAS",
+    "i": "teras.png",
+    "c": "#310051"
+  },
+  {
+    "id": 50,
+    "n": "PARTI KEBANGSAAN SABAH",
+    "a": "PKS",
+    "i": "pks.png",
+    "c": "#3567B2"
+  },
+  {
+    "id": 51,
+    "n": "PARTI SEJAHTERA ANGKATAN PERPADUAN SABAH",
+    "a": "SAPU",
+    "i": "sapu.png",
+    "c": "#FC771F"
+  },
+  {
+    "id": 52,
+    "n": "PARTI ALTERNATIF RAKYAT",
+    "a": "PAP",
+    "i": "pap.png",
+    "c": "#08334C"
+  },
+  {
+    "id": 53,
+    "n": "PARTI CINTA SABAH",
+    "a": "PCS",
+    "i": "pcs.png",
+    "c": "#DE1E14"
+  },
+  {
+    "id": 54,
+    "n": "PARTI WARISAN SABAH",
+    "a": "WARISAN",
+    "i": "warisan.png",
+    "c": "#5BC5F0"
+  },
+  {
+    "id": 55,
+    "n": "PARTI PRIBUMI BERSATU MALAYSIA",
+    "a": "BERSATU",
+    "i": "bersatu.png",
+    "c": "#E30007"
+  },
+  {
+    "id": 56,
+    "n": "PARTI SOLIDARITI TANAH AIRKU",
+    "a": "STARSABAH",
+    "i": "starsabah.png",
+    "c": "#0095DB"
+  },
+  {
+    "id": 57,
+    "n": "PARTI HARAPAN RAKYAT SABAH",
+    "a": "HR",
+    "i": "hr.png",
+    "c": "#6F92BF"
+  },
+  {
+    "id": 58,
+    "n": "PARTY BUMI KENYALANG",
+    "a": "PBK",
+    "i": "pbk.png",
+    "c": "#672D34"
+  },
+  {
+    "id": 59,
+    "n": "PARTI IKATAN BANGSA MALAYSIA",
+    "a": "IKATAN",
+    "i": "ikatan.png",
+    "c": "#F6E816"
+  },
+  {
+    "id": 60,
+    "n": "PARTI BERSAMA MALAYSIA",
+    "a": "MU",
+    "i": "mu.png",
+    "c": "#ED1D24"
+  },
+  {
+    "id": 61,
+    "n": "PERTUBUHAN PERPADUAN RAKYAT KEBANGSAAN SABAH",
+    "a": "PERPADUAN",
+    "i": "perpaduan.png",
+    "c": "#01AC5C"
+  },
+  {
+    "id": 62,
+    "n": "PARTI DAMAI SABAH",
+    "a": "SPP",
+    "i": "spp.png",
+    "c": "#c7e011"
+  },
+  {
+    "id": 63,
+    "n": "PARTI GABUNGAN RAKYAT SABAH",
+    "a": "GRS",
+    "i": "grs.png",
+    "c": "#6285a8"
+  },
+  {
+    "id": 64,
+    "n": "PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT",
+    "a": "KDM",
+    "i": "kdm.png",
+    "c": "#EB7389"
+  },
+  {
+    "id": 65,
+    "n": "PARTI UTAMA RAKYAT",
+    "a": "PUR",
+    "i": "pur.png",
+    "c": "#ff030b"
+  },
+  {
+    "id": 66,
+    "n": "PARTI RAKYAT INDIA MALAYSIA",
+    "a": "PRIM",
+    "i": "prim.png",
+    "c": "#fff"
+  }
+]

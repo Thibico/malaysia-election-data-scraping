@@ -151,18 +151,19 @@ year,coalition,coalition_name,coalition_name_bahasa,party,party_name,party_color
 2022 Incumbents,BN,National Front,Barisan Nasional,UMNO,United Malays National Organisation,#F21415,#000080
 2022 Incumbents,PH,Alliance of Hope,Pakatan Harapan,PKR,People's Justice Party,#00ADEF,#ED1C24
 2022 Incumbents,PN,National Alliance,Perikatan Nasional,BERSATU,Malaysian United Indigenous Party,#e20108,#002d51
-2022 Incumbents,,,,PAS,Pan-Malaysian Islamic Party,#009000,
+2022 Incumbents,PN,National Alliance,Perikatan Nasional,PAS,Pan-Malaysian Islamic Party,#009000,#002d51
 2022 Incumbents,GPS,Sarawak Parties Alliance,Gabungan Parti Sarawak,PBB,United Bumiputera Heritage Party,#F0E98B,#cf6061
 2022 Incumbents,PH,Alliance of Hope,Pakatan Harapan,AMANAH,National Trust Party,#FFA009,#ED1C24
 2022 Incumbents,GRS,Sabah People's Coalition,Gabungan Rakyat Sabah,BERSATU,Malaysian United Indigenous Party,#e20108,#91cbf2
 2022 Incumbents,GTA,Homeland Movement,Gerakan Tanah Air,PEJUANG,Homeland Fighters' Party,#006A8E,#00678b
 2022 Incumbents,BN,National Front,Barisan Nasional,MCA,Malaysian Chinese Association,#0000FF,#000080
 2022 Incumbents,GPS,Sarawak Parties Alliance,Gabungan Parti Sarawak,PRS,Sarawak People's Party,#57D757,#cf6061
-2022 Incumbents,,,,PDP,Progressive Democratic Party,#6ABFE6,
+2022 Incumbents,GPS,Sarawak Parties Alliance,Gabungan Parti Sarawak,PDP,Progressive Democratic Party,#6ABFE6,#cf6061
 2022 Incumbents,GRS,Sabah People's Coalition,Gabungan Rakyat Sabah,STAR,Homeland Solidarity Party,#78D7F5,#91cbf2
 2022 Incumbents,BN,National Front,Barisan Nasional,MIC,Malaysian Indian Congress,#00A988,#000080
 2022 Incumbents,GPS,Sarawak Parties Alliance,Gabungan Parti Sarawak,SUPP,Sarawak United People's Party,#FFFF00,#cf6061
 2022 Incumbents,PH,Alliance of Hope,Pakatan Harapan,MUDA,Malaysian United Democratic Alliance,#000000,#ED1C24
-2022 Incumbents,,,,UPKO,United Pasokmomogun Kadazandusun Murut Organisation,#ABCDFF,
+2022 Incumbents,PH,Alliance of Hope,Pakatan Harapan,UPKO,United Pasokmomogun Kadazandusun Murut Organisation,#ABCDFF,#ED1C24
 2022 Incumbents,BN,National Front,Barisan Nasional,PBRS,United Sabah People's Party,#FEDF00,#000080
 2022 Incumbents,GRS,Sabah People's Coalition,Gabungan Rakyat Sabah,PBS,United Sabah Party,#ADD8E6,#91cbf2
+,,,,,,,
