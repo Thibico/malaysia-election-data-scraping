@@ -2,8 +2,8 @@
 
 This repository contains data that has been scraped from the following sources:
 
-* Malaysian newspaper [The Star's](https://www.thestar.com.my/) election dashboard <https://election.thestar.com.my/>
-* Malaysian newspaper [Malaysiakini's](https://www.malaysiakini.com/) election dashboard <https://undi.info/>
+- Malaysian newspaper [The Star's](https://www.thestar.com.my/) election dashboard <https://election.thestar.com.my/>
+- Malaysian newspaper [Malaysiakini's](https://www.malaysiakini.com/) election dashboard <https://undi.info/>
 
 ## Cleaned datasets and code books
 
@@ -11,16 +11,18 @@ You can access the CSV files of the cleaned datasets in the [cleaned](./data/cle
 
 The cleaned data is seperated into a folder for the data from [The Star](./data/cleaned/the_star) and one for [undi.info](./data/cleaned/undi_dot_info/).
 
-In each of the sources' respective folders,  there is are files for
-* **results**: which contain data about the votes obtained by each candidate
-* **constituency_info**: which contains data about each constituency
-* **CODEBOOK**: which contains a metadata about the variables in each data file
+In each of the sources' respective folders, there is are files for
+
+- **results**: which contain data about the votes obtained by each candidate
+- **constituency_info**: which contains data about each constituency
+- **CODEBOOK**: which contains a metadata about the variables in each data file
 
 ## Methodology, code and raw data
 
 The data was scraped using python scripts contained in the following jupyter notebooks:
-* [notebook for scraping from The Star](./scrape_The_Star.ipynb)
-* [notebook for scraping from undi.info](./scrape_UNDI_dot_info.ipynb)
+
+- [notebook for scraping from The Star](./scrape_The_Star.ipynb)
+- [notebook for scraping from undi.info](./scrape_UNDI_dot_info.ipynb)
 
 SVG files of the constituency boundaries avaialble from The Star was also scraped (code is in the [same notebook](./scrape_The_Star.ipynb)) and raw SVG files are in the [svgs](./svgs/) folder.
 
@@ -37,6 +39,22 @@ Data from undi.info was scraped from the website's [API](https://api.undi.info/)
 Data from undi.info was available for the 2004, 2008, 2013, and 2018 general elections (GE11, GE12, GE13, GE14) for the parliamentary elections and the state elections.
 
 **Note**: undi.info also contains results of state elections in Sabah (2020), Malacca (2021) and Sarawak (2016, 2021) but this data has not been scraped and added to this repo yet.
+
+### Scraping and cleaning data from [dashboard.spr.gov.my](https://dashboard.spr.gov.my/) site
+
+The scripts is written in JavaScript. Use the following instructions to run the script.
+
+**Note**: Make sure you have NodeJs installed on your system.
+
+```
+>> cd scripts
+>> yarn install
+>> yarn scrape // this will scrape the data from the dashboard and wrangle
+>> yarn fetch // this will fetch the data from the dashboard
+>> yarn wrangle // this will wrangle the data
+```
+
+Raw data from the dashboard will be stored [here](./scripts/raw/) and cleaned data will be stored [here](./scripts/data/)
 
 ## About
 

@@ -1,0 +1,50 @@
+[
+  {
+    "Negeri": "KEDAH",
+    "UndiBiasa": 1569624,
+    "Polis": 7438,
+    "Tentera": 6842,
+    "PTH": 165,
+    "Jumlah": 1585085
+  },
+  {
+    "Negeri": "KELANTAN",
+    "UndiBiasa": 1400570,
+    "Polis": 6175,
+    "Tentera": 5030,
+    "PTH": 137,
+    "Jumlah": 1411912
+  },
+  {
+    "Negeri": "TERENGGANU",
+    "UndiBiasa": 923857,
+    "Polis": 1094,
+    "Tentera": 4513,
+    "PTH": 80,
+    "Jumlah": 930894
+  },
+  {
+    "Negeri": "PULAU PINANG",
+    "UndiBiasa": 1222710,
+    "Polis": 2538,
+    "Tentera": 6451,
+    "PTH": 194,
+    "Jumlah": 1234198
+  },
+  {
+    "Negeri": "SELANGOR",
+    "UndiBiasa": 3719495,
+    "Polis": 3635,
+    "Tentera": 18557,
+    "PTH": 1005,
+    "Jumlah": 3747057
+  },
+  {
+    "Negeri": "NEGERI SEMBILAN",
+    "UndiBiasa": 838200,
+    "Polis": 19744,
+    "Tentera": 6335,
+    "PTH": 146,
+    "Jumlah": 864425
+  }
+]

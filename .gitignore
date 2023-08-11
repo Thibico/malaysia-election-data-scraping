@@ -1,2 +1,4 @@
 .DS_Store
 environment/
+.env
+scripts/node_modules/
