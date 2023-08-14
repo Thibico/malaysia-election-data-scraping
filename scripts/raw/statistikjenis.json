@@ -1,50 +1,50 @@
 [
   {
     "Negeri": "KEDAH",
+    "Jumlah": 1585085,
+    "Polis": 6842,
+    "Tentera": 8454,
     "UndiBiasa": 1569624,
-    "Polis": 7438,
-    "Tentera": 6842,
-    "PTH": 165,
-    "Jumlah": 1585085
+    "PTH": 165
   },
   {
     "Negeri": "KELANTAN",
+    "Jumlah": 1411912,
+    "Polis": 5030,
+    "Tentera": 6175,
     "UndiBiasa": 1400570,
-    "Polis": 6175,
-    "Tentera": 5030,
-    "PTH": 137,
-    "Jumlah": 1411912
+    "PTH": 137
   },
   {
     "Negeri": "TERENGGANU",
+    "Jumlah": 930894,
+    "Polis": 4513,
+    "Tentera": 2444,
     "UndiBiasa": 923857,
-    "Polis": 1094,
-    "Tentera": 4513,
-    "PTH": 80,
-    "Jumlah": 930894
+    "PTH": 80
   },
   {
     "Negeri": "PULAU PINANG",
+    "Jumlah": 1234198,
+    "Polis": 6451,
+    "Tentera": 4843,
     "UndiBiasa": 1222710,
-    "Polis": 2538,
-    "Tentera": 6451,
-    "PTH": 194,
-    "Jumlah": 1234198
+    "PTH": 194
   },
   {
     "Negeri": "SELANGOR",
+    "Jumlah": 3747057,
+    "Polis": 18557,
+    "Tentera": 8000,
     "UndiBiasa": 3719495,
-    "Polis": 3635,
-    "Tentera": 18557,
-    "PTH": 1005,
-    "Jumlah": 3747057
+    "PTH": 1005
   },
   {
     "Negeri": "NEGERI SEMBILAN",
+    "Jumlah": 864425,
+    "Polis": 6335,
+    "Tentera": 19744,
     "UndiBiasa": 838200,
-    "Polis": 19744,
-    "Tentera": 6335,
-    "PTH": 146,
-    "Jumlah": 864425
+    "PTH": 146
   }
 ]
