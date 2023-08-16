@@ -92,7 +92,9 @@ const generateCombinedData = (candidates, dppr) => {
       party_code: KodParti,
       votes: "",
       vote_share: "",
-      parliament_code_digits: `P.${KodParlimen}`,
+      parliament_code: `P.${KodParlimen}`,
+      parliament_code_digits: KodParlimen,
+      dun_code: KodDun,
       constituency: NamaParlimen,
       state: Negeri,
       total_votes,
@@ -104,20 +106,31 @@ const generateCombinedData = (candidates, dppr) => {
   });
 };
 
-const mergeWithCSVData = (generatedData, csvData) => {
+const mergeWithCSVData = (generatedData, csvData, totalVotes) => {
   const mergedData = generatedData.map((generatedItem) => {
+    let totalVote = 0;
+    let fullDunCode = "";
+    let csvDunCode = "";
+    const { parliament_code_digits, dun_code } = generatedItem;
+
     const matchingCSVItem = csvData.find((csvItem) => {
-      const csvParliamentCode = csvItem["parlimen"].match(/^P\.\d+/)?.[0] || "";
-      const sameParliamentCode =
-        csvParliamentCode === generatedItem.parliament_code_digits;
+      const csvParliamentCodeRaw =
+        csvItem["parlimen"].match(/^P\.\d+/)?.[0] || "";
+      const csvDunCodeRaw = csvItem["dun"].match(/^N\.\d+/)?.[0] || "";
+      const csvParliamentCode = csvParliamentCodeRaw.replace("P.", "");
+      csvDunCode = csvDunCodeRaw.replace("N.", "");
+      fullDunCode = csvParliamentCode + csvDunCode;
+
+      console.log("csvDunCode", csvDunCode);
+
+      totalVote = totalVotes[fullDunCode] ?? 0;
+
+      const sameDunCode = fullDunCode === dun_code;
       const sameName =
         csvItem.name.toLowerCase().trim() ===
         generatedItem.name.toLowerCase().trim();
-      const sameState =
-        csvItem.state.toLowerCase().trim() ===
-        generatedItem.state.toLowerCase().trim();
 
-      return sameParliamentCode && sameName && sameState;
+      return sameDunCode && sameName;
     });
 
     if (matchingCSVItem) {
@@ -142,10 +155,12 @@ const mergeWithCSVData = (generatedData, csvData) => {
         votes,
         vote_share: votes_perc,
         parliament_code_digits,
+        dunCode: fullDunCode,
+        threeDunCode: `0${csvDunCode}`,
         constituency,
         state,
-        total_votes: 0,
-        gender: sex,
+        total_votes: totalVote,
+        gender: sex === "male" ? "M" : "F",
         results_added: 1,
         spr_id: "",
         winner: result === "won" ? 1.0 : 0.0,
@@ -155,7 +170,28 @@ const mergeWithCSVData = (generatedData, csvData) => {
     return generatedItem;
   });
 
+  // console.log('voteHost', voteHost)
+
   return mergedData;
+};
+
+const calculateTotalVotes = (csvData) => {
+  let totalVotesHost = {};
+  csvData.forEach((eachItem) => {
+    const csvParliamentCodeRaw =
+      eachItem["parlimen"].match(/^P\.\d+/)?.[0] || "";
+    const csvDunCodeRaw = eachItem["dun"].match(/^N\.\d+/)?.[0] || "";
+    const csvParliamentCode = csvParliamentCodeRaw.replace("P.", "");
+    const csvDunCode = csvDunCodeRaw.replace("N.", "");
+    const fullDunCode = csvParliamentCode + csvDunCode;
+
+    if (totalVotesHost[fullDunCode]) {
+      totalVotesHost[fullDunCode] += parseInt(eachItem.votes);
+    } else {
+      totalVotesHost[fullDunCode] = parseInt(eachItem.votes);
+    }
+  });
+  return totalVotesHost;
 };
 
 const loadData = async () => {
@@ -211,9 +247,11 @@ const loadData = async () => {
 
     if (candidates && dppr && candidatesPRN15Array) {
       const generatedData = generateCombinedData(candidates, dppr);
+      const total_votes = calculateTotalVotes(candidatesPRN15Array);
       const combinedResults = mergeWithCSVData(
         generatedData,
-        candidatesPRN15Array
+        candidatesPRN15Array,
+        total_votes
       );
       // writeJSONToFile("combinedresults", "./data/", generatedData);
       writeJSONToFile("combinedresults15", "./data/", combinedResults);
