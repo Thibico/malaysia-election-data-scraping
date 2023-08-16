@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { parse } from "csv-parse";
+import axios from "axios";
 
 const getCurrentDirectory = () => {
   return path.dirname(new URL(import.meta.url).pathname);
@@ -12,6 +13,32 @@ const writeJSONToFile = (filename, destinationPath, data) => {
 
   fs.writeFileSync(filePath, jsonData);
   console.log(`\nWrote ${filename}.json to ${destinationPath}\n`);
+};
+
+const parseCSVFromURL = async (url) => {
+  try {
+    const response = await axios.get(url);
+    const csvData = response.data;
+
+    return new Promise((resolve, reject) => {
+      parse(
+        csvData,
+        {
+          columns: true,
+          skip_empty_lines: true,
+        },
+        (err, records) => {
+          if (err) {
+            reject(err);
+          } else {
+            resolve(records);
+          }
+        }
+      );
+    });
+  } catch (error) {
+    throw new Error(`Error fetching or parsing CSV data: ${error.message}`);
+  }
 };
 
 const formatCandidate = (eachItem) => {
@@ -139,11 +166,11 @@ const loadData = async () => {
       "candidates.json"
     );
     const dpprPath = path.join(getCurrentDirectory(), "raw", "dppr.json");
-    const candidatesPRN15Path = path.join(
-      getCurrentDirectory(),
-      "raw",
-      "candidates_prn15.csv"
-    );
+    // const candidatesPRN15Path = path.join(
+    //   getCurrentDirectory(),
+    //   "raw",
+    //   "candidates_prn15.csv"
+    // );
 
     const candidatesJSON = fs.readFileSync(candidatesPath, "utf8");
     const candidates = JSON.parse(candidatesJSON);
@@ -151,23 +178,27 @@ const loadData = async () => {
     const dpprJSON = fs.readFileSync(dpprPath, "utf8");
     const dppr = JSON.parse(dpprJSON);
 
-    const candidatesPRN15CSV = fs.readFileSync(candidatesPRN15Path, "utf8");
-    const candidatesPRN15Array = await new Promise((resolve, reject) => {
-      parse(
-        candidatesPRN15CSV,
-        {
-          columns: true,
-          skip_empty_lines: true,
-        },
-        (err, records) => {
-          if (err) {
-            reject(err);
-          } else {
-            resolve(records);
-          }
-        }
-      );
-    });
+    // const candidatesPRN15CSV = fs.readFileSync(candidatesPRN15Path, "utf8");
+    // const candidatesPRN15Array = await new Promise((resolve, reject) => {
+    //   parse(
+    //     candidatesPRN15CSV,
+    //     {
+    //       columns: true,
+    //       skip_empty_lines: true,
+    //     },
+    //     (err, records) => {
+    //       if (err) {
+    //         reject(err);
+    //       } else {
+    //         resolve(records);
+    //       }
+    //     }
+    //   );
+    // });
+
+    const candidatesPRN15URL =
+      "https://raw.githubusercontent.com/Thevesh/analysis-election-msia/main/data/candidates_prn15.csv";
+    const candidatesPRN15Array = await parseCSVFromURL(candidatesPRN15URL);
 
     // if (candidatesPRN15Array) {
     //   writeJSONToFile("candidatesPRN15Array", "./raw/", candidatesPRN15Array);
